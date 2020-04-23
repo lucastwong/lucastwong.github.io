@@ -1,31 +1,47 @@
 {"presets": 
 [
-      {"title": "Chopin Fantasie Impromptu", 
-"link": "https://raw.githubusercontent.com/lucastwong/rhythmicnanocart/master/ChopinImprom.xml",
+      {"title": "Tchaikovsky Violin Concerto 1st mvt", 
+"link": "https://github.com/lucastwong/lucastwong.github.io/blob/master/Pyotr_Tchaikovsky_-_Violin_Concerto_Op._35-2020.04.15.15.15.01.xml",
 "tempo": 100,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
 
  {"title": "Rachmaninoff Prelude in G minor", 
-"link": "https://raw.githubusercontent.com/lucastwong/rhythmicnanocart/master/RachPrelude.xml",
+"link": "https://github.com/lucastwong/lucastwong.github.io/blob/master/RachPrelude.xml",
 "tempo": 100,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
 
  {"title": "Tchaikovsky Trepak", 
-"link": "https://raw.githubusercontent.com/lucastwong/rhythmicnanocart/master/Trepak.xml",
+"link": "https://github.com/lucastwong/lucastwong.github.io/blob/master/Trepak.xml",
 "tempo": 100,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" },
 
  {"title": "Beethoven Pathetique 3rd movement", 
-"link": "https://raw.githubusercontent.com/lucastwong/rhythmicnanocart/master/Beethoven.xml",
+"link": "https://github.com/lucastwong/lucastwong.github.io/blob/master/BeethovenPath.xml",
 "tempo": 100,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox" },
 
  {"title": "Beethoven Symphony No. 7 1st movement", 
-"link": "https://raw.githubusercontent.com/lucastwong/rhythmicnanocart/master/Beethoven7.xml",
+"link": "https://github.com/lucastwong/lucastwong.github.io/blob/master/Beethoven7.xml",
 "tempo": 100,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" },
+      
+ {"title": "Beethoven Symphony No. 4 1st movement", 
+"link": "https://github.com/lucastwong/lucastwong.github.io/blob/master/Beethoven4.xml",
+"tempo": 100,
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" },
+      
+{"title": "Ravel Piano Concerto 2nd mvt", 
+"link": "https://github.com/lucastwong/lucastwong.github.io/blob/master/Ravel.xml",
+"tempo": 100,
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" },
+      
+{"title": "Liszt La Campanella", 
+"link": "https://github.com/lucastwong/lucastwong.github.io/blob/master/Liszt2.xml",
+"tempo": 100,
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" },
+      
 {"title": "Chopin Fantasie Impromptu", 
-"link": "https://raw.githubusercontent.com/lucastwong/rhythmicnanocart/master/LonelyHeart.xml",
+"link": "https://github.com/lucastwong/lucastwong.github.io/blob/master/LonelyHeart.xml",
 "tempo": 100,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" }]
 }
