@@ -5,6 +5,11 @@
 "tempo": 100,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
 
+      {"title": "Queen of the Night", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Queen.xml",
+"tempo": 100,
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
+      
  {"title": "Rachmaninoff Prelude in G minor", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/RachPrelude.xml",
 "tempo": 100,
