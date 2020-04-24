@@ -10,6 +10,11 @@
 "tempo": 100,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
       
+      {"title": "Holst Jupiter", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jupiter.xml",
+"tempo": 120,
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
+      
  {"title": "Rachmaninoff Prelude in G minor", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/RachPrelude.xml",
 "tempo": 100,
