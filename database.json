@@ -14,6 +14,21 @@
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/RachPrelude.xml",
 "tempo": 100,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
+      
+      {"title": "Holst Saturn", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Saturn.xml",
+"tempo": 100,
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
+      
+      {"title": "Holst Mars", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Mars.xml",
+"tempo": 100,
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
+      
+      {"title": "Holst Neptune", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Neptune.xml",
+"tempo": 100,
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
 
  {"title": "Tchaikovsky Trepak", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Trepak.xml",
