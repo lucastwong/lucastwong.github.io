@@ -1,15 +1,5 @@
 {"presets": 
 [
-      {"title": "Tchaikovsky Violin Concerto 1st mvt", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Pyotr_Tchaikovsky_-_Violin_Concerto_Op._35-2020.04.15.15.15.01.xml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
-
-      {"title": "Queen of the Night", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Queen.xml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
-      
       {"title": "Holst Jupiter", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jupiter.xml",
 "tempo": 120,
@@ -20,38 +10,13 @@
 "tempo": 100,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
       
-      {"title": "Holst Saturn", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Saturn.xml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-      {"title": "Holst Mars", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Mars.xml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-      {"title": "Holst Neptune", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Neptune.xml",
+       {"title": "Rachmaninoff Paganini", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/RachPag.xml",
 "tempo": 100,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
 
  {"title": "Tchaikovsky Trepak", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Trepak.xml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" },
-
- {"title": "Beethoven Pathetique 3rd movement", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Beethoven.xml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox" },
-
- {"title": "Beethoven Symphony No. 7 1st movement", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Beethoven7.xml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" },
-      
- {"title": "Beethoven Symphony No. 4 1st movement", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Beethoven4.xml",
 "tempo": 100,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" },
       
@@ -68,10 +33,8 @@
 {"title": "Liszt La Campanella", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Liszt2.xml",
 "tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" },
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" }
       
-{"title": "Tchaikovsky Lonely Heart", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/LonelyHeart.xml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" }]
+
+]
 }
