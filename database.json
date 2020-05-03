@@ -1,10 +1,20 @@
 {"presets": 
 [
-      {"title": "Holst Jupiter", 
+      {"title": "Holst - The Planets: Jupiter", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jupiter.xml",
 "tempo": 120,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
+      
+      {"title": "Can you Feel The Love Tonight 1 - Lion King", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Can%20You%20Feel%20The%20Love%20Tonight.musicxml",
+"tempo": 100,
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
     
+       {"title": "Can you Feel The Love Tonight 2 - Lion King", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Can%20You%20Feel%20The%20Love%20Tonight%3F%20-%20The%20Lion%20King.musicxml",
+"tempo": 100,
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
+      
        {"title": "Elton John Your Song", 
 "link": " https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Your%20Song%20-%20Elton%20John.musicxml",
 "tempo": 100,
