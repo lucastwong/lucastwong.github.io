@@ -5,6 +5,11 @@
 "tempo": 120,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
       
+      {"title": "The Entertainer", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Entertainer.xml",
+"tempo": 140,
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
+      
  {"title": "Rachmaninoff Prelude in G minor", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/RachPrelude.xml",
 "tempo": 100,
@@ -12,24 +17,18 @@
 
  {"title": "Tchaikovsky Trepak", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Trepak.xml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" },
-      
-{"title": "Ravel Piano Concerto 2nd mvt", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Ravel.xml",
-"tempo": 100,
+"tempo": 110,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" },
 
       {"title": "The Flight of Bumble Bee", 
 "link": " https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/CziffrasBee.xml",
-"tempo": 100,
+"tempo": 110,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" },
      
 {"title": "Liszt La Campanella", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Liszt2.xml",
-"tempo": 100,
+"tempo": 110,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" }
-      
 
 ]
 }
