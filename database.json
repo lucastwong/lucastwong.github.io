@@ -5,6 +5,11 @@
 "tempo": 120,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
 
+      {"title": "Cinema Paradiso", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Paradiso.xml",
+"tempo": 120,
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
+
       {"title": "Stravinsky's Rite of Spring", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Rite.xml",
 "tempo":200,
