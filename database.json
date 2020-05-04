@@ -36,12 +36,12 @@
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
       
       {"title": "Ave Maria", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.musicxml",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.xml",
 "tempo": 50,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
       
        {"title": "An die Musik", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AnDieMusik.musicxml",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AnDieMusik.xml",
 "tempo": 50,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
       
