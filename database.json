@@ -15,7 +15,18 @@
 "tempo": 100,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
       
-       {"title": "O Christmas ", 
+      
+      {"title": "Ave Maria", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.musicxml",
+"tempo": 50,
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
+      
+       {"title": "An die Musik", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AnDie.musicxml",
+"tempo": 50,
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
+      
+       {"title": "O Christmas Tree", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jacob's%20Ladder.musicxml",
 "tempo": 100,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
