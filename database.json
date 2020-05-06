@@ -9,12 +9,7 @@
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Glitter.xml",
 "tempo": 110,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
-      
-      {"title": "Jacob's Ladder", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jacob's%20Ladder.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
+     
       {"title": "Gia il", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/GiaIl.xml",
 "tempo": 100,
@@ -49,106 +44,8 @@
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AnDieMusik.xml",
 "tempo": 50,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-       {"title": "O Christmas Tree", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jacob's%20Ladder.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-      {"title": "St. Louis Blues", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/St.%20Louis%20Blues.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-       {"title": "O Christmas Tree", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/O%20Christmas%20Tree.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-      {"title": "My Favourite Things", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/My%20Favourite%20Things.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
-      
-       {"title": "Ding Dong Merrily", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Ding%20Dong%20Merrily%20On%20High.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-      {"title": "Deck The Halls", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Deck%20The%20Halls.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
-      
-       {"title": "Three Blind Mice", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Mice.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-       {"title": "Silent Night", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Silent.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
-      
-      {"title": "Au Clair de la lune", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AuClair.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
-      
-      
-      {"title": "Old Mac", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/OldMac.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-       {"title": "Twinkle", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Twinkle.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
-      
-      {"title": "Can you Feel The Love Tonight 1 - Lion King", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Can%20You%20Feel%20The%20Love%20Tonight.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-    
-       {"title": "Can you Feel The Love Tonight 2 - Lion King", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Can%20You%20Feel%20The%20Love%20Tonight%3F%20-%20The%20Lion%20King.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
-      
-       {"title": "Elton John Your Song", 
-"link": " https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Your%20Song%20-%20Elton%20John.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-      {"title": "Adele Hello", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Adele%20-%20Hello.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
-
-      {"title": "Cinema Paradiso", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Paradiso.xml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-      
-      {"title": "Schindler's List 1", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Schindler's%20List.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-       {"title": "Movie Meshup", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/A%20Decade%20Of%20Movie%20Music%20Mashup.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
-      
-      
-      {"title": "Schindler's List 2", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Schindler's%20List-2.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
-
-      {"title": "Stravinsky's Rite of Spring", 
+     
+          {"title": "Stravinsky's Rite of Spring", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Rite.xml",
 "tempo":200,
 "scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
