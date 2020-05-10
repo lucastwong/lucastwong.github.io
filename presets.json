@@ -2,7 +2,13 @@
 [
       {"shortcut": "CaroMio", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Caro.xml"},
+      
+      {"shortcut": "Babbino", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/babbino.xml"},
 
+      {"shortcut": "LaCi", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml"},
+      
    {"shortcut": "LaDonna", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Rigo.xml"}
       
