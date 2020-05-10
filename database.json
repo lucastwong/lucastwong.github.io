@@ -1,79 +1,10 @@
 {"presets": 
 [
-      {"title": "Holst - The Planets: Jupiter", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jupiter.xml",
-"tempo": 120,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
-      
-       {"title": "Bernstein - Glitter and be Gay", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Glitter.xml",
+    
+      {"title": "You raise me up", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/youraise.xml",
 "tempo": 110,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
-     
-      {"title": "Gia il", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/GiaIl.xml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" }
       
-       {"title": "Caro mio ben", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Caro.xml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-       {"title": "Amazing Grace", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/amazing.musicxml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-       {"title": "La donna", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Rigo.xml",
-"tempo": 200,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-       {"title": "Alleluia", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Alleluia.xml",
-"tempo": 200,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-      {"title": "Ave Maria", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.xml",
-"tempo": 50,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-       {"title": "An die Musik", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AnDieMusik.xml",
-"tempo": 50,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-     
-          {"title": "Stravinsky's Rite of Spring", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Rite.xml",
-"tempo":200,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-      
-      {"title": "The Entertainer", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Entertainer.xml",
-"tempo": 140,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
-      
- {"title": "Rachmaninoff Prelude in G minor", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/RachPrelude.xml",
-"tempo": 100,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox4" },
-
- {"title": "Tchaikovsky Trepak", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Trepak.xml",
-"tempo": 110,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" },
-
-      {"title": "The Flight of Bumble Bee", 
-"link": " https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/CziffrasBee.xml",
-"tempo": 110,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" },
-     
-{"title": "Liszt La Campanella", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Liszt2.xml",
-"tempo": 110,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/TropicalSunnyDay" }
-
 ]
 }
