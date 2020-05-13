@@ -4,7 +4,14 @@
       {"title": "You raise me up", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/youraise.xml",
 "tempo": 110,
-"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" }
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" },
       
+    
+     {"title": "Beethoven 5th", 
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee5.xml",
+"tempo": 100,
+"scene": "https://raw.githubusercontent.com/BabylonJS/Babylon.js/master/Playground/textures/skybox3" }
+   
+    
 ]
 }
