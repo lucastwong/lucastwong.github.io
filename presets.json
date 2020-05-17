@@ -6,7 +6,7 @@
 {"name": "Ave Maria (Gounod)", "shortcut": "ave",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.xml"},
       
-"name": "Caro mio ben (Giordani)","shortcut": "CaroMio",
+{"name": "Caro mio ben (Giordani)","shortcut": "CaroMio",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Caro.xml"},
 
 {"name": "Che gelida manina (Puccini)", "shortcut": "chegelida",
