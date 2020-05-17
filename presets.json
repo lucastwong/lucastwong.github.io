@@ -16,9 +16,6 @@
 {"name": "Gia il sole dal Gange (Scarlatti)", "shortcut": "Giail",
 "link": "https://dl.dropbox.com/s/ir1g4gnmxcg5v3r/giail.musicxml"},
       
-{"name": "Jingle Bells", "shortcut": "jingle",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jingle%20Bells.musicxml"},
-      
 {"name": "Là ci darem la mano (Mozart)", "shortcut": "LaCi",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml"},
       
@@ -30,9 +27,6 @@
       
 {"name": "Libiamo (Verdi)", "shortcut": "libiamo",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Libiamo.xml"},
-      
-{"name": "Neptune (Holst)", "shortcut": "neptune",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Neptune.xml"},
       
 {"name": "O mio babbino caro (Puccini)", "shortcut": "Babbino",
 "link": "https://dl.dropbox.com/s/lyq77cxpi3uhmgz/babbino.musicxml"},
@@ -46,7 +40,7 @@
 {"name": "Se tu m'ami (Pergolesi)", "shortcut": "setu",
 "link": "https://dl.dropbox.com/s/q1dod9zxtbr1rxx/setu.musicxml"},
       
-{"name": "Signore ascolta (Puccini)","shortcut": "Signore",
+{"name": "Signore ascolta (Puccini)", "shortcut": "Signore",
 "link": "https://dl.dropbox.com/s/b6gloedrkpvvfh9/Signore_ascolta.musicxml"},
 
 {"name": "Song to the Moon (Dvořák)", "shortcut": "Rusalka",
