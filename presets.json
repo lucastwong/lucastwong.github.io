@@ -1,7 +1,5 @@
 {"presets":
 [
-
-      
       
 {"name": "Ave Maria (Gounod)", "shortcut": "ave",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.xml"},
@@ -60,18 +58,12 @@
 {"name": "Vissi d'arte (Puccini)", "shortcut": "Vissi",
 "link": "https://dl.dropbox.com/s/ckzc1af2sa47dj6/Vissi_D%27Arte_%28piano_solo%29.musicxml"},
 
-      
-      
-      
 {"name": "", "shortcut": "HeartWe",
 "link": "https://dl.dropbox.com/s/ibur0478b01whh0/heartwe.musicxml"},
 
 {"name": "", "shortcut": "Regnava",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/regnava.xml"},
       
-{"name": "", "shortcut": "tchaiviolin",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Pyotr_Tchaikovsky_-_Violin_Concerto_Op._35-2020.04.15.15.15.01.xml"},
-
 {"name": "", "shortcut": "TakeMe",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Sondheim.musicxml"},
 
@@ -101,9 +93,6 @@
       
 {"name": "", "shortcut": "alle",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Alleluia.xml"},
-      
-{"name": "", "shortcut": "andie",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AnDieMusik.xml"},
 
 {"name": "", "shortcut": "LaFleur",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Flower2.xml"}
