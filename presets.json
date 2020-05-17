@@ -1,69 +1,70 @@
 {"presets": 
 [
-      {"shortcut": "CaroMio", 
+      {
+            "name": "Caro mio ben","shortcut": "CaroMio", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Caro.xml"},
       
-        {"shortcut": "Signore", 
+        {"name": "Signore ascolta","shortcut": "Signore", 
 "link": "https://dl.dropbox.com/s/b6gloedrkpvvfh9/Signore_ascolta.musicxml"},
       
-      {"shortcut": "Giail", 
+      {"name": "Gia il sole dal Gange", "shortcut": "Giail", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/GiaIl.xml"},
       
-       {"shortcut": "Vissi", 
+       {"name": "Vissi d'arte", "shortcut": "Vissi", 
 "link": "https://dl.dropbox.com/s/ckzc1af2sa47dj6/Vissi_D%27Arte_%28piano_solo%29.musicxml"},
       
-      {"shortcut": "sc1", 
+      {"name": "", "shortcut": "sc1", 
 "link": "https://dl.dropbox.com/s/0b2vd00inrjtvmr/4dsc1.musicxml"},
       
-         {"shortcut": "sc2", 
+         {"name": "", "shortcut": "sc2", 
 "link": "https://dl.dropbox.com/s/wk903icwijjgri0/4dsc2.musicxml"},
       
-      {"shortcut": "sch1", 
+      {"name": "", "shortcut": "sch1", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Schubert1.musicxml"},
       
-        {"shortcut": "sch2", 
+        {"name": "", "shortcut": "sch2", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Schubert2.musicxml"},
       
-        {"shortcut": "sc3", 
+        {"name": "", "shortcut": "sc3", 
 "link": "https://dl.dropbox.com/s/5ulxfiglf0elttp/4dsc3.musicxml"},
       
-        {"shortcut": "sc4", 
+        {"name": "", "shortcut": "sc4", 
 "link": "https://dl.dropbox.com/s/0t851q5lz541i5l/4dsc4.musicxml"},
       
-      {"shortcut": "sc5", 
+      {"name": "", "shortcut": "sc5", 
 "link": "https://dl.dropbox.com/s/4pzqhw149ch4d8l/4dsc5.musicxml"},
       
-          {"shortcut": "sc6", 
+          {"name": "", "shortcut": "sc6", 
 "link": "https://dl.dropbox.com/s/8q3dn69q220a9ij/4dsc6.musicxml"},
       
-       {"shortcut": "grillon", 
+       {"name": "Le Grillon", "shortcut": "grillon", 
 "link": "https://dl.dropbox.com/s/572f0xsz5jotufb/Le_Grillon.musicxml"},
       
-      {"shortcut": "Babbino", 
+      {"name": "O mio babbino caro", "shortcut": "Babbino", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/babbino.xml"},
 
-      {"shortcut": "LaCi", 
+      {"name": "La ci darem", "shortcut": "LaCi", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml"},
       
-      {"shortcut": "Regnava", 
+      {"name": "Regnava del silenzio", "shortcut": "Regnava", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/regnava.xml"},
       
-      {"shortcut": "Rusalka", 
+      {"name": "Song to the Moon", "shortcut": "Rusalka", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Moon.xml"},
       
-      {"shortcut": "LaFleur", 
+      {"name": "La fleur que tu m'avais jetée", "shortcut": "LaFleur", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Flower2.xml"},
       
-      {"shortcut": "TakeMe", 
+      {"name": "", "shortcut": "TakeMe", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Sondheim.musicxml"},
       
-       {"shortcut": "Bee5", 
+       {"name": "", "shortcut": "Bee5", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee5.xml"},
       
-   {"shortcut": "LaDonna", 
+   {"name": "La donna è mobile", "shortcut": "LaDonna", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Rigo.xml"},  
       
-   {"shortcut": "HeartWe", 
+   {"name": "", "shortcut": "HeartWe", 
 "link": "https://dl.dropbox.com/s/ibur0478b01whh0/heartwe.musicxml"}
       
 ]
