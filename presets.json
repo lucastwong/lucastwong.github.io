@@ -14,22 +14,16 @@
 "link": "https://dl.dropbox.com/s/neih9xgwiu9j1d4/dehvieni.musicxml"},
       
 {"name": "Gia il sole dal Gange (Scarlatti)", "shortcut": "Giail",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/GiaIl.xml"},
-      
-{"name": "Glitter and be Gay (Bernstein)", "shortcut": "glitter",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Glitter.xml"},
+"link": "https://dl.dropbox.com/s/ir1g4gnmxcg5v3r/giail.musicxml"},
       
 {"name": "Jingle Bells", "shortcut": "jingle",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jingle%20Bells.musicxml"},
-
-{"name": "Jupiter (Holst)", "shortcut": "jupiter",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jupiter.xml"},
       
 {"name": "Là ci darem la mano (Mozart)", "shortcut": "LaCi",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml"},
       
 {"name": "La donna è mobile (Verdi)", "shortcut": "LaDonna",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Rigo.xml"},
+"link": "https://dl.dropbox.com/s/3zex92is780jujb/ladonna.musicxml"},
       
 {"name": "Le Grillon (Ravel)", "shortcut": "grillon",
 "link": "https://dl.dropbox.com/s/572f0xsz5jotufb/Le_Grillon.musicxml"},
@@ -70,6 +64,11 @@
 {"name": "Vissi d'arte (Puccini)", "shortcut": "Vissi",
 "link": "https://dl.dropbox.com/s/ckzc1af2sa47dj6/Vissi_D%27Arte_%28piano_solo%29.musicxml"},
 
+
+
+{"name": "", "shortcut": "jupiter",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jupiter.xml"},
+      
 {"name": "", "shortcut": "HeartWe",
 "link": "https://dl.dropbox.com/s/ibur0478b01whh0/heartwe.musicxml"},
 
@@ -108,7 +107,10 @@
 
 {"name": "", "shortcut": "LaFleur",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Flower2.xml"}
-
+      
+{"name": "", "shortcut": "glitter",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Glitter.xml"},
+      
 ]
 }
 
