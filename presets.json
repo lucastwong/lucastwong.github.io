@@ -49,7 +49,7 @@
       {"name": "", "shortcut": "Regnava", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/regnava.xml"},
       
-      {"name": "Song to the Moon (Dvořák", "shortcut": "Rusalka", 
+      {"name": "Song to the Moon (Dvořák)", "shortcut": "Rusalka", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Moon.xml"},
       
       {"name": "", "shortcut": "LaFleur", 
@@ -59,7 +59,7 @@
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.xml"},
       {"name": "Alleluia (Mozart)", "shortcut": "alle", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Alleluia.xml"},
-      {"name": "An die Musik (Schubert)", "shortcut": "andie", 
+      {"name": "", "shortcut": "andie", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AnDieMusik.xml"},
       {"name": "Che gelida manina (Puccini)", "shortcut": "chegelida", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/CheGelida.xml"},
