@@ -77,16 +77,16 @@
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Neptune.xml"},
       {"name": "Libiamo (Verdi)", "shortcut": "libiamo", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Libiamo.xml"},
-      {"name": "Violin Concerto (Tchaikovsky)", "shortcut": "tchaiviolin", 
+      {"name": "Violin Concerto 1st mvt. (Tchaikovsky)", "shortcut": "tchaiviolin", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Pyotr_Tchaikovsky_-_Violin_Concerto_Op._35-2020.04.15.15.15.01.xml"},
       
       {"name": "", "shortcut": "TakeMe", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Sondheim.musicxml"},
       
-       {"name": "Beethoven's 5th Symphony", "shortcut": "Bee5", 
+       {"name": "Symphony No. 5 1st mvt. (Beethoven)", "shortcut": "Bee5", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee5.xml"},
       
-   {"name": "La donna è mobile", "shortcut": "LaDonna", 
+   {"name": "La donna è mobile (Verdi)", "shortcut": "LaDonna", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Rigo.xml"},  
       
    {"name": "", "shortcut": "HeartWe", 
