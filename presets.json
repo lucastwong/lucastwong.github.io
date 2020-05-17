@@ -49,11 +49,14 @@
 {"name": "Prendi, per me sei libero (Donizetti)", "shortcut": "prendi",
 "link": "https://dl.dropbox.com/s/o4ytcdtue4lv83f/prendi.musicxml"},
       
+{"name": "Se tu m'ami (Pergolesi)", "shortcut": "setu",
+"link": "https://dl.dropbox.com/s/q1dod9zxtbr1rxx/setu.musicxml"},
+      
 {"name": "Signore ascolta (Puccini)","shortcut": "Signore",
 "link": "https://dl.dropbox.com/s/b6gloedrkpvvfh9/Signore_ascolta.musicxml"},
 
 {"name": "Song to the Moon (Dvořák)", "shortcut": "Rusalka",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Moon.xml"},
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Moon.xml"},      
       
 {"name": "Symphony No. 5 1st mvt. (Beethoven)", "shortcut": "Bee5",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee5.xml"},
