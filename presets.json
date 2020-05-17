@@ -1,16 +1,16 @@
 {"presets": 
 [
       {
-            "name": "Caro mio ben","shortcut": "CaroMio", 
+            "name": "Caro mio ben (Giordani)","shortcut": "CaroMio", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Caro.xml"},
       
-        {"name": "Signore ascolta","shortcut": "Signore", 
+        {"name": "Signore ascolta (Puccini)","shortcut": "Signore", 
 "link": "https://dl.dropbox.com/s/b6gloedrkpvvfh9/Signore_ascolta.musicxml"},
       
-      {"name": "Gia il sole dal Gange", "shortcut": "Giail", 
+      {"name": "Gia il sole dal Gange (Scarlatti)", "shortcut": "Giail", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/GiaIl.xml"},
       
-       {"name": "Vissi d'arte", "shortcut": "Vissi", 
+       {"name": "Vissi d'arte (Puccini)", "shortcut": "Vissi", 
 "link": "https://dl.dropbox.com/s/ckzc1af2sa47dj6/Vissi_D%27Arte_%28piano_solo%29.musicxml"},
       
       {"name": "", "shortcut": "sc1", 
@@ -37,19 +37,19 @@
           {"name": "", "shortcut": "sc6", 
 "link": "https://dl.dropbox.com/s/8q3dn69q220a9ij/4dsc6.musicxml"},
       
-       {"name": "Le Grillon", "shortcut": "grillon", 
+       {"name": "Le Grillon (Ravel)", "shortcut": "grillon", 
 "link": "https://dl.dropbox.com/s/572f0xsz5jotufb/Le_Grillon.musicxml"},
       
-      {"name": "O mio babbino caro", "shortcut": "Babbino", 
+      {"name": "O mio babbino caro (Puccini)", "shortcut": "Babbino", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/babbino.xml"},
 
-      {"name": "La ci darem", "shortcut": "LaCi", 
+      {"name": "Là ci darem la mano (Mozart)", "shortcut": "LaCi", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml"},
       
       {"name": "", "shortcut": "Regnava", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/regnava.xml"},
       
-      {"name": "Song to the Moon", "shortcut": "Rusalka", 
+      {"name": "Song to the Moon (Dvořák", "shortcut": "Rusalka", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Moon.xml"},
       
       {"name": "", "shortcut": "LaFleur", 
