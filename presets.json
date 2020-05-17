@@ -1,96 +1,113 @@
-{"presets": 
+{"presets":
 [
-      {
-            "name": "Caro mio ben (Giordani)","shortcut": "CaroMio", 
+{
+      
+      
+{"name": "Ave Maria (Gounod)", "shortcut": "ave",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.xml"},
+      
+"name": "Caro mio ben (Giordani)","shortcut": "CaroMio",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Caro.xml"},
+
+{"name": "Che gelida manina (Puccini)", "shortcut": "chegelida",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/CheGelida.xml"},
       
-        {"name": "Signore ascolta (Puccini)","shortcut": "Signore", 
-"link": "https://dl.dropbox.com/s/b6gloedrkpvvfh9/Signore_ascolta.musicxml"},
+{"name": "The Entertainer (Joplin)", "shortcut": "enter",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Entertainer.xml"},
       
-      {"name": "Gia il sole dal Gange (Scarlatti)", "shortcut": "Giail", 
+{"name": "Gia il sole dal Gange (Scarlatti)", "shortcut": "Giail",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/GiaIl.xml"},
       
-       {"name": "Vissi d'arte (Puccini)", "shortcut": "Vissi", 
-"link": "https://dl.dropbox.com/s/ckzc1af2sa47dj6/Vissi_D%27Arte_%28piano_solo%29.musicxml"},
+{"name": "Glitter and be Gay (Bernstein)", "shortcut": "glitter",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Glitter.xml"},
       
-      {"name": "", "shortcut": "sc1", 
-"link": "https://dl.dropbox.com/s/0b2vd00inrjtvmr/4dsc1.musicxml"},
-      
-         {"name": "", "shortcut": "sc2", 
-"link": "https://dl.dropbox.com/s/wk903icwijjgri0/4dsc2.musicxml"},
-      
-      {"name": "", "shortcut": "sch1", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Schubert1.musicxml"},
-      
-        {"name": "", "shortcut": "sch2", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Schubert2.musicxml"},
-      
-        {"name": "", "shortcut": "sc3", 
-"link": "https://dl.dropbox.com/s/5ulxfiglf0elttp/4dsc3.musicxml"},
-      
-        {"name": "", "shortcut": "sc4", 
-"link": "https://dl.dropbox.com/s/0t851q5lz541i5l/4dsc4.musicxml"},
-      
-      {"name": "", "shortcut": "sc5", 
-"link": "https://dl.dropbox.com/s/4pzqhw149ch4d8l/4dsc5.musicxml"},
-      
-          {"name": "", "shortcut": "sc6", 
-"link": "https://dl.dropbox.com/s/8q3dn69q220a9ij/4dsc6.musicxml"},
-      
-       {"name": "Le Grillon (Ravel)", "shortcut": "grillon", 
-"link": "https://dl.dropbox.com/s/572f0xsz5jotufb/Le_Grillon.musicxml"},
-      
-      {"name": "O mio babbino caro (Puccini)", "shortcut": "Babbino", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/babbino.xml"},
+{"name": "Jingle Bells", "shortcut": "jingle",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jingle%20Bells.musicxml"},
 
-      {"name": "Là ci darem la mano (Mozart)", "shortcut": "LaCi", 
+{"name": "Jupiter (Holst)", "shortcut": "jupiter",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jupiter.xml"},
+      
+{"name": "Là ci darem la mano (Mozart)", "shortcut": "LaCi",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml"},
       
-      {"name": "", "shortcut": "Regnava", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/regnava.xml"},
+{"name": "La donna è mobile (Verdi)", "shortcut": "LaDonna",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Rigo.xml"},
       
-      {"name": "Song to the Moon (Dvořák)", "shortcut": "Rusalka", 
+{"name": "Le Grillon (Ravel)", "shortcut": "grillon",
+"link": "https://dl.dropbox.com/s/572f0xsz5jotufb/Le_Grillon.musicxml"},
+      
+{"name": "Libiamo (Verdi)", "shortcut": "libiamo",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Libiamo.xml"},
+      
+{"name": "Neptune (Holst)", "shortcut": "neptune",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Neptune.xml"},
+      
+{"name": "O mio babbino caro (Puccini)", "shortcut": "Babbino",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/babbino.xml"},
+      
+{"name": "Prelude in G minor (Rachmaninoff)", "shortcut": "rachprelude",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/RachPrelude.xml"},
+      
+{"name": "Signore ascolta (Puccini)","shortcut": "Signore",
+"link": "https://dl.dropbox.com/s/b6gloedrkpvvfh9/Signore_ascolta.musicxml"},
+
+{"name": "Song to the Moon (Dvořák)", "shortcut": "Rusalka",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Moon.xml"},
       
-      {"name": "", "shortcut": "LaFleur", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Flower2.xml"},
-      
-      {"name": "Ave Maria (Gounod)", "shortcut": "ave", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.xml"},
-      {"name": "", "shortcut": "alle", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Alleluia.xml"},
-      {"name": "", "shortcut": "andie", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AnDieMusik.xml"},
-      {"name": "Che gelida manina (Puccini)", "shortcut": "chegelida", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/CheGelida.xml"},
-      {"name": "The Entertainer (Joplin)", "shortcut": "enter", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Entertainer.xml"},
-      {"name": "Glitter and be Gay (Bernstein)", "shortcut": "glitter", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Glitter.xml"},
-      {"name": "Jingle Bells", "shortcut": "jingle", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jingle%20Bells.musicxml"},
-      {"name": "Jupiter (Holst)", "shortcut": "jupiter", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jupiter.xml"},
-      {"name": "Prelude in G minor (Rachmaninoff)", "shortcut": "rachprelude", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/RachPrelude.xml"},
-      {"name": "Neptune (Holst)", "shortcut": "neptune", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Neptune.xml"},
-      {"name": "Libiamo (Verdi)", "shortcut": "libiamo", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Libiamo.xml"},
-      {"name": "", "shortcut": "tchaiviolin", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Pyotr_Tchaikovsky_-_Violin_Concerto_Op._35-2020.04.15.15.15.01.xml"},
-      
-      {"name": "", "shortcut": "TakeMe", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Sondheim.musicxml"},
-      
-       {"name": "Symphony No. 5 1st mvt. (Beethoven)", "shortcut": "Bee5", 
+{"name": "Symphony No. 5 1st mvt. (Beethoven)", "shortcut": "Bee5",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee5.xml"},
       
-   {"name": "La donna è mobile (Verdi)", "shortcut": "LaDonna", 
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Rigo.xml"},  
+{"name": "Vissi d'arte (Puccini)", "shortcut": "Vissi",
+"link": "https://dl.dropbox.com/s/ckzc1af2sa47dj6/Vissi_D%27Arte_%28piano_solo%29.musicxml"},
+
       
-   {"name": "", "shortcut": "HeartWe", 
-"link": "https://dl.dropbox.com/s/ibur0478b01whh0/heartwe.musicxml"}
       
+      
+{"name": "", "shortcut": "HeartWe",
+"link": "https://dl.dropbox.com/s/ibur0478b01whh0/heartwe.musicxml"},
+
+{"name": "", "shortcut": "Regnava",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/regnava.xml"},
+      
+{"name": "", "shortcut": "tchaiviolin",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Pyotr_Tchaikovsky_-_Violin_Concerto_Op._35-2020.04.15.15.15.01.xml"},
+
+{"name": "", "shortcut": "TakeMe",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Sondheim.musicxml"},
+
+{"name": "", "shortcut": "sc1",
+"link": "https://dl.dropbox.com/s/0b2vd00inrjtvmr/4dsc1.musicxml"},
+
+{"name": "", "shortcut": "sc2",
+"link": "https://dl.dropbox.com/s/wk903icwijjgri0/4dsc2.musicxml"},
+
+{"name": "", "shortcut": "sch1",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Schubert1.musicxml"},
+
+{"name": "", "shortcut": "sch2",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Schubert2.musicxml"},
+
+{"name": "", "shortcut": "sc3",
+"link": "https://dl.dropbox.com/s/5ulxfiglf0elttp/4dsc3.musicxml"},
+
+{"name": "", "shortcut": "sc4",
+"link": "https://dl.dropbox.com/s/0t851q5lz541i5l/4dsc4.musicxml"},
+
+{"name": "", "shortcut": "sc5",
+"link": "https://dl.dropbox.com/s/4pzqhw149ch4d8l/4dsc5.musicxml"},
+
+{"name": "", "shortcut": "sc6",
+"link": "https://dl.dropbox.com/s/8q3dn69q220a9ij/4dsc6.musicxml"},
+      
+{"name": "", "shortcut": "alle",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Alleluia.xml"},
+      
+{"name": "", "shortcut": "andie",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AnDieMusik.xml"},
+
+{"name": "", "shortcut": "LaFleur",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Flower2.xml"}
+
 ]
 }
+
