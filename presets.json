@@ -57,7 +57,7 @@
       
       {"name": "Ave Maria (Gounod)", "shortcut": "ave", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.xml"},
-      {"name": "Alleluia (Mozart)", "shortcut": "alle", 
+      {"name": "", "shortcut": "alle", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Alleluia.xml"},
       {"name": "", "shortcut": "andie", 
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AnDieMusik.xml"},
