@@ -10,9 +10,6 @@
 {"name": "Che gelida manina (Puccini)", "shortcut": "chegelida",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/CheGelida.xml"},
       
-{"name": "The Entertainer (Joplin)", "shortcut": "enter",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Entertainer.xml"},
-      
 {"name": "Gia il sole dal Gange (Scarlatti)", "shortcut": "Giail",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/GiaIl.xml"},
       
@@ -54,6 +51,9 @@
       
 {"name": "Symphony No. 5 1st mvt. (Beethoven)", "shortcut": "Bee5",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee5.xml"},
+      
+{"name": "The Entertainer (Joplin)", "shortcut": "enter",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Entertainer.xml"},
       
 {"name": "Vissi d'arte (Puccini)", "shortcut": "Vissi",
 "link": "https://dl.dropbox.com/s/ckzc1af2sa47dj6/Vissi_D%27Arte_%28piano_solo%29.musicxml"},
