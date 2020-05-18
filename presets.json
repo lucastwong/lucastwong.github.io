@@ -68,6 +68,10 @@
 {"name": "Sakura (Traditional)", "shortcut": "sakura",
 "link": "https://dl.dropbox.com/s/sjic1unt3t155a5/Sakura.musicxml",
 "lyrics": ""},
+
+{"name": "Se il mio nome (Rossini)", "shortcut": "seilmionome",
+"link": "https://dl.dropbox.com/s/vz4m6a1wz2n7n1j/seilmionome.musicxml",
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/seilmionome.json"},
       
 {"name": "Se tu m'ami (Pergolesi)", "shortcut": "setu",
 "link": "https://dl.dropbox.com/s/q1dod9zxtbr1rxx/setu.musicxml",
