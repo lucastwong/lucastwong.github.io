@@ -2,123 +2,162 @@
 [
       
 {"name": "Ave Maria (Gounod)", "shortcut": "ave",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.xml"},
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.xml",
+"lyrics": ""},
       
 {"name": "Caro mio ben (Giordani)","shortcut": "CaroMio",
-"link": "https://dl.dropbox.com/s/93b9x2ocotmmqta/caro.musicxml"},
+"link": "https://dl.dropbox.com/s/93b9x2ocotmmqta/caro.musicxml",
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/caromioben.json"},
 
 {"name": "Che gelida manina (Puccini)", "shortcut": "chegelida",
-"link": "https://dl.dropbox.com/s/pefpw90mlhzvp4j/chegelida.musicxml"},
+"link": "https://dl.dropbox.com/s/pefpw90mlhzvp4j/chegelida.musicxml",
+"lyrics": ""},
 
 {"name": "Der Hölle Rache (Mozart)", "shortcut": "derholle",
-"link": "https://dl.dropbox.com/s/392pwgdbsmf9lrx/queen1.musicxml"},
+"link": "https://dl.dropbox.com/s/392pwgdbsmf9lrx/queen1.musicxml",
+"lyrics": ""},
       
 {"name": "Deh vieni, non tardar (Mozart)", "shortcut": "dehvieni",
-"link": "https://dl.dropbox.com/s/neih9xgwiu9j1d4/dehvieni.musicxml"},
+"link": "https://dl.dropbox.com/s/neih9xgwiu9j1d4/dehvieni.musicxml",
+"lyrics": ""},
       
 {"name": "Dies Bildnis (Mozart)", "shortcut": "diesbildnis",
-"link": "https://dl.dropbox.com/s/piofgivcqzjcga8/diesbildnis.musicxml"},
+"link": "https://dl.dropbox.com/s/piofgivcqzjcga8/diesbildnis.musicxml",
+"lyrics": ""},
       
 {"name": "Eri tu (Verdi)", "shortcut": "eritu",
-"link": "https://dl.dropbox.com/s/rjoqotudmcf8c1g/eritu.musicxml"},
+"link": "https://dl.dropbox.com/s/rjoqotudmcf8c1g/eritu.musicxml",
+"lyrics": ""},
       
 {"name": "Gia il sole dal Gange (Scarlatti)", "shortcut": "Giail",
-"link": "https://dl.dropbox.com/s/ir1g4gnmxcg5v3r/giail.musicxml"},
+"link": "https://dl.dropbox.com/s/ir1g4gnmxcg5v3r/giail.musicxml",
+"lyrics": ""},
       
 {"name": "Là ci darem la mano (Mozart)", "shortcut": "LaCi",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml"},
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml",
+"lyrics": ""},
       
 {"name": "La donna è mobile (Verdi)", "shortcut": "LaDonna",
-"link": "https://dl.dropbox.com/s/3zex92is780jujb/ladonna.musicxml"},
+"link": "https://dl.dropbox.com/s/3zex92is780jujb/ladonna.musicxml",
+"lyrics": ""},
       
 {"name": "Le Grillon (Ravel)", "shortcut": "grillon",
-"link": "https://dl.dropbox.com/s/572f0xsz5jotufb/Le_Grillon.musicxml"},
+"link": "https://dl.dropbox.com/s/572f0xsz5jotufb/Le_Grillon.musicxml",
+"lyrics": ""},
       
 {"name": "Libiamo (Verdi)", "shortcut": "libiamo",
-"link": "https://dl.dropbox.com/s/5js02oczatimcap/libiamo.musicxml"},
+"link": "https://dl.dropbox.com/s/5js02oczatimcap/libiamo.musicxml",
+"lyrics": ""},
       
 {"name": "O mio babbino caro (Puccini)", "shortcut": "Babbino",
-"link": "https://dl.dropbox.com/s/lyq77cxpi3uhmgz/babbino.musicxml"},
+"link": "https://dl.dropbox.com/s/lyq77cxpi3uhmgz/babbino.musicxml",
+"lyrics": ""},
 
 {"name": "O zittre nicht (Mozart)", "shortcut": "ozittre",
-"link": "https://dl.dropbox.com/s/261p82i5wxms8xi/ozittre.musicxml"},
+"link": "https://dl.dropbox.com/s/261p82i5wxms8xi/ozittre.musicxml",
+"lyrics": ""},
     
 {"name": "Prelude in G minor (Rachmaninoff)", "shortcut": "rachprelude",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/RachPrelude.xml"},
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/RachPrelude.xml",
+"lyrics": ""},
       
 {"name": "Prendi, per me sei libero (Donizetti)", "shortcut": "prendi",
-"link": "https://dl.dropbox.com/s/o4ytcdtue4lv83f/prendi.musicxml"},
+"link": "https://dl.dropbox.com/s/o4ytcdtue4lv83f/prendi.musicxml",
+"lyrics": ""},
 
 {"name": "Sakura (Traditional)", "shortcut": "sakura",
-"link": "https://dl.dropbox.com/s/sjic1unt3t155a5/Sakura.musicxml"},
+"link": "https://dl.dropbox.com/s/sjic1unt3t155a5/Sakura.musicxml",
+"lyrics": ""},
       
 {"name": "Se tu m'ami (Pergolesi)", "shortcut": "setu",
-"link": "https://dl.dropbox.com/s/q1dod9zxtbr1rxx/setu.musicxml"},
+"link": "https://dl.dropbox.com/s/q1dod9zxtbr1rxx/setu.musicxml",
+"lyrics": ""},
       
 {"name": "Signore ascolta (Puccini)", "shortcut": "Signore",
-"link": "https://dl.dropbox.com/s/b6gloedrkpvvfh9/Signore_ascolta.musicxml"},
+"link": "https://dl.dropbox.com/s/b6gloedrkpvvfh9/Signore_ascolta.musicxml",
+"lyrics": ""},
 
 {"name": "Song to the Moon (Dvořák)", "shortcut": "Rusalka",
-"link": "https://dl.dropbox.com/s/39qgp975vw4f8dd/songtothemoon.musicxml"},      
+"link": "https://dl.dropbox.com/s/39qgp975vw4f8dd/songtothemoon.musicxml",
+"lyrics": ""},      
       
 {"name": "Symphony No. 5 1st mvt. (Beethoven)", "shortcut": "Bee5",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee5.xml"},
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee5.xml",
+"lyrics": ""},
       
 {"name": "The Entertainer (Joplin)", "shortcut": "enter",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Entertainer.xml"},
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Entertainer.xml",
+"lyrics": ""},
 
 {"name": "Una furtiva lagrima (Donizetti)", "shortcut": "unafurtiva",
-"link": "https://dl.dropbox.com/s/fm60hdjbqflw9l7/unafurtiva.musicxml"},
+"link": "https://dl.dropbox.com/s/fm60hdjbqflw9l7/unafurtiva.musicxml",
+"lyrics": ""},
       
 {"name": "Vissi d'arte (Puccini)", "shortcut": "Vissi",
-"link": "https://dl.dropbox.com/s/ckzc1af2sa47dj6/Vissi_D%27Arte_%28piano_solo%29.musicxml"},
+"link": "https://dl.dropbox.com/s/ckzc1af2sa47dj6/Vissi_D%27Arte_%28piano_solo%29.musicxml",
+"lyrics": ""},
 
 
 
 {"name": "", "shortcut": "jupiter",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jupiter.xml"},
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Jupiter.xml",
+"lyrics": ""},
       
 {"name": "", "shortcut": "HeartWe",
-"link": "https://dl.dropbox.com/s/ibur0478b01whh0/heartwe.musicxml"},
+"link": "https://dl.dropbox.com/s/ibur0478b01whh0/heartwe.musicxml",
+"lyrics": ""},
 
 {"name": "", "shortcut": "Regnava",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/regnava.xml"},
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/regnava.xml",
+"lyrics": ""},
       
 {"name": "", "shortcut": "TakeMe",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Sondheim.musicxml"},
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Sondheim.musicxml",
+"lyrics": ""},
 
 {"name": "", "shortcut": "sc1",
-"link": "https://dl.dropbox.com/s/0b2vd00inrjtvmr/4dsc1.musicxml"},
+"link": "https://dl.dropbox.com/s/0b2vd00inrjtvmr/4dsc1.musicxml",
+"lyrics": ""},
 
 {"name": "", "shortcut": "sc2",
-"link": "https://dl.dropbox.com/s/wk903icwijjgri0/4dsc2.musicxml"},
+"link": "https://dl.dropbox.com/s/wk903icwijjgri0/4dsc2.musicxml",
+"lyrics": ""},
 
 {"name": "", "shortcut": "sch1",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Schubert1.musicxml"},
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Schubert1.musicxml",
+"lyrics": ""},
 
 {"name": "", "shortcut": "sch2",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Schubert2.musicxml"},
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Schubert2.musicxml",
+"lyrics": ""},
 
 {"name": "", "shortcut": "sc3",
-"link": "https://dl.dropbox.com/s/5ulxfiglf0elttp/4dsc3.musicxml"},
+"link": "https://dl.dropbox.com/s/5ulxfiglf0elttp/4dsc3.musicxml",
+"lyrics": ""},
 
 {"name": "", "shortcut": "sc4",
-"link": "https://dl.dropbox.com/s/0t851q5lz541i5l/4dsc4.musicxml"},
+"link": "https://dl.dropbox.com/s/0t851q5lz541i5l/4dsc4.musicxml",
+"lyrics": ""},
 
 {"name": "", "shortcut": "sc5",
-"link": "https://dl.dropbox.com/s/4pzqhw149ch4d8l/4dsc5.musicxml"},
+"link": "https://dl.dropbox.com/s/4pzqhw149ch4d8l/4dsc5.musicxml",
+"lyrics": ""},
 
 {"name": "", "shortcut": "sc6",
-"link": "https://dl.dropbox.com/s/8q3dn69q220a9ij/4dsc6.musicxml"},
+"link": "https://dl.dropbox.com/s/8q3dn69q220a9ij/4dsc6.musicxml",
+"lyrics": ""},
       
 {"name": "", "shortcut": "alle",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Alleluia.xml"},
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Alleluia.xml",
+"lyrics": ""},
 
 {"name": "", "shortcut": "LaFleur",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Flower2.xml"},
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Flower2.xml",
+"lyrics": ""},
       
 {"name": "", "shortcut": "glitter",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Glitter.xml"}
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Glitter.xml",
+"lyrics": ""}
       
 ]
 }
