@@ -33,10 +33,6 @@
 "link": "https://dl.dropbox.com/s/ir1g4gnmxcg5v3r/giail.musicxml",
 "lyrics": ""},
       
-{"name": "Ya vas lyublyu (Tchaikovsky)", "shortcut": "yavas",
-"link": "https://dl.dropbox.com/s/1cdnjn4lve9h8sv/yeletsky.musicxml",
-"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/yeletsky.json"},
-      
 {"name": "Là ci darem la mano (Mozart)", "shortcut": "LaCi",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml",
 "lyrics": ""},
@@ -112,7 +108,11 @@
 {"name": "Vissi d'arte (Puccini)", "shortcut": "Vissi",
 "link": "https://dl.dropbox.com/s/ckzc1af2sa47dj6/Vissi_D%27Arte_%28piano_solo%29.musicxml",
 "lyrics": ""},
-
+      
+{"name": "Ya vas lyublyu (Tchaikovsky)", "shortcut": "yavas",
+"link": "https://dl.dropbox.com/s/1cdnjn4lve9h8sv/yeletsky.musicxml",
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/yeletsky.json"},
+      
 
 
 {"name": "", "shortcut": "jupiter",
