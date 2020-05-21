@@ -193,6 +193,10 @@
       
 {"name": "", "shortcut": "cinema",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/cinema.xml",
+"lyrics": ""},
+      
+{"name": "", "shortcut": "teng",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/teng.xml",
 "lyrics": ""}
       
 ]
