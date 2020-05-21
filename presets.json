@@ -35,7 +35,7 @@
 
 {"name": "I Wonder Why (Oscar Feltsman)", "shortcut": "iwonder",
 "link": "https://dl.dropbox.com/s/1hpt40c8otbfucs/iwonder.musicxml",
-"lyrics": ""},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/iwonder.json"},
       
 {"name": "Là ci darem la mano (Mozart)", "shortcut": "LaCi",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml",
