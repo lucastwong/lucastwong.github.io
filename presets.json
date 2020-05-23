@@ -40,11 +40,15 @@
 {"name": "Gia il sole dal Gange (Scarlatti)", "shortcut": "Giail",
 "link": "https://dl.dropbox.com/s/ir1g4gnmxcg5v3r/giail.musicxml",
 "lyrics": ""},
-
-{"name": "I Wonder Why (Oscar Feltsman)", "shortcut": "iwonder",
+      
+{"name": "I Wonder Why - Duet (Oscar Feltsman)", "shortcut": "iwonder2",
+"link": "https://dl.dropbox.com/s/92xgi8mmm9256k1/iwonder2.musicxml",
+"lyrics": ""},
+      
+{"name": "I Wonder Why - Reprise (Oscar Feltsman)", "shortcut": "iwonder",
 "link": "https://dl.dropbox.com/s/1hpt40c8otbfucs/iwonder.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/iwonder.json"},
-      
+
 {"name": "Là ci darem la mano (Mozart)", "shortcut": "LaCi",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml",
 "lyrics": ""},
