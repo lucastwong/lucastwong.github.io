@@ -145,6 +145,10 @@
 "link": "https://dl.dropbox.com/s/1cdnjn4lve9h8sv/yeletsky.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/yeletsky.json"},
       
+{"name": "Oh, What a Beautiful Mornin' (Rodgers & Hammerstein)", "shortcut": "brian",
+"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Oh%20what%20a%20beautiful%20morning.musicxml",
+"lyrics": ""},
+      
 
 
 {"name": "", "shortcut": "jupiter",
@@ -213,10 +217,6 @@
       
 {"name": "", "shortcut": "glitter",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Glitter.xml",
-"lyrics": ""},
-      
-{"name": "", "shortcut": "brian",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Oh%20what%20a%20beautiful%20morning.musicxml",
 "lyrics": ""},
       
 {"name": "", "shortcut": "cinema",
