@@ -149,6 +149,10 @@
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Entertainer.xml",
 "lyrics": ""},
 
+{"name": "The Sound of Music (Rodgers & Hammerstein)", "shortcut": "thesoundofmusic",
+"link": "https://dl.dropbox.com/s/t5kera8dhd19drj/TheSoundOfMusic.musicxml",
+"lyrics": ""},
+      
 {"name": "Una furtiva lagrima (Donizetti)", "shortcut": "unafurtiva",
 "link": "https://dl.dropbox.com/s/fm60hdjbqflw9l7/unafurtiva.musicxml",
 "lyrics": ""},
