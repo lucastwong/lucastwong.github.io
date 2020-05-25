@@ -21,6 +21,10 @@
 "link": "https://dl.dropbox.com/s/93b9x2ocotmmqta/caro.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/caromioben.json"},
 
+{"name": "Come scoglio (Mozart)","shortcut": "comescoglio",
+"link": "https://dl.dropbox.com/s/dfzuio9zpz4ugpv/comescoglio.musicxml"},
+"lyrics": ""},
+      
 {"name": "Che gelida manina (Puccini)", "shortcut": "chegelida",
 "link": "https://dl.dropbox.com/s/pefpw90mlhzvp4j/chegelida.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/chegelida.json"},
