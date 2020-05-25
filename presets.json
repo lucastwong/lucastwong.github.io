@@ -157,6 +157,10 @@
 "link": "https://dl.dropbox.com/s/39qgp975vw4f8dd/songtothemoon.musicxml",
 "lyrics": ""},      
       
+{"name": "Summertime (Gershwin)", "shortcut": "summertime",
+"link": "https://dl.dropbox.com/s/z7p61g69b4j7lk8/Summertime.musicxml",
+"lyrics": ""},
+      
 {"name": "Symphony No. 5 1st mvt. (Beethoven)", "shortcut": "Bee5",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee5.xml",
 "lyrics": ""},
