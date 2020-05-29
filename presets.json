@@ -101,6 +101,10 @@
 "link": "https://dl.dropbox.com/s/em1zhqbsl47ax43/lovesick.musicxml",
 "lyrics": ""},
 
+{"name": "Meditation from Thaïs (Massenet)", "shortcut": "thais",
+"link": "https://dl.dropbox.com/s/xrf7c4jx52h7mkz/Thais_Meditation.musicxml",
+"lyrics": ""},
+      
 {"name": "My Favourite Things (Rogers & Hammerstein)", "shortcut": "myfav",
 "link": "https://dl.dropbox.com/s/6zsyyqpxgqpckuh/MyFavouriteThings.musicxml",
 "lyrics": ""},
@@ -191,10 +195,6 @@
       
 {"name": "Symphony No. 5 1st mvt. (Beethoven)", "shortcut": "Bee5",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee5.xml",
-"lyrics": ""},
-      
-{"name": "Meditation from Thaïs (Massenet)", "shortcut": "thais",
-"link": "https://dl.dropbox.com/s/xrf7c4jx52h7mkz/Thais_Meditation.musicxml",
 "lyrics": ""},
       
 {"name": "The Entertainer (Joplin)", "shortcut": "enter",
