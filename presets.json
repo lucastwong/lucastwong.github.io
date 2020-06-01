@@ -193,13 +193,17 @@
 "link": "https://dl.dropbox.com/s/w9b8zzkainn1biz/creston1.musicxml",
 "lyrics": ""},
       
-{"name": "Songs of Travel (Vaughan Williams)", "shortcut": "songsoftravel",
-"link": "https://dl.dropbox.com/s/gt3683ac92lz6uh/songsoftravel.musicxml",
+{"name": "Sonata - 1st mvt & 2nd mvt (Eccles)", "shortcut": "eccles",
+"link": "https://dl.dropbox.com/s/vvzvp46ecyc1nmd/eccles.musicxml",
 "lyrics": ""},
  
 {"name": "Song to the Moon (Dvořák)", "shortcut": "Rusalka",
 "link": "https://dl.dropbox.com/s/39qgp975vw4f8dd/songtothemoon.musicxml",
-"lyrics": ""},      
+"lyrics": ""},
+      
+{"name": "Songs of Travel (Vaughan Williams)", "shortcut": "songsoftravel",
+"link": "https://dl.dropbox.com/s/gt3683ac92lz6uh/songsoftravel.musicxml",
+"lyrics": ""},
       
 {"name": "Summertime (Gershwin)", "shortcut": "summertime",
 "link": "https://dl.dropbox.com/s/z7p61g69b4j7lk8/Summertime.musicxml",
