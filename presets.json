@@ -199,7 +199,7 @@
       
 {"name": "Sonata - 1st mvt & 2nd mvt (Eccles)", "shortcut": "eccles",
 "link": "https://dl.dropbox.com/s/vvzvp46ecyc1nmd/eccles.musicxml",
-"lyrics": ""},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/eccles.json"},
  
 {"name": "Song to the Moon (Dvořák)", "shortcut": "Rusalka",
 "link": "https://dl.dropbox.com/s/39qgp975vw4f8dd/songtothemoon.musicxml",
