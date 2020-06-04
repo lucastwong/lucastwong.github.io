@@ -81,6 +81,10 @@
 "link": "https://dl.dropbox.com/s/jqsagw7erwp4bn4/Chopin_-_Etude_Op._25_No._6_in_G-sharp_minor-2020.05.25.12.42.15.xml",
 "lyrics": ""},
       
+{"name": "Gavotte (Gossec)", "shortcut": "gossec",
+"link": "https://dl.dropbox.com/s/ocadaug1kry6lcy/gossec.musicxml",
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gossec.json"},
+      
 {"name": "Gia il sole dal Gange (Scarlatti)", "shortcut": "Giail",
 "link": "https://dl.dropbox.com/s/ir1g4gnmxcg5v3r/giail.musicxml",
 "lyrics": ""},
