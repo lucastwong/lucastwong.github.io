@@ -5,6 +5,10 @@
 "link": "https://dl.dropbox.com/s/c3pvvhm09lp5bms/Adagio%20and%20Allegro.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Adagio2.json"}, 
  
+{"name": "Au bord de l'eau (Fauré)", "shortcut": "aubord",
+"link": "https://dl.dropbox.com/s/rtaqslr4je88oep/aubord.musicxml",
+"lyrics": ""},
+      
 {"name": "Ave Maria (Gounod)", "shortcut": "ave",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.xml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/avemaria.json"},
