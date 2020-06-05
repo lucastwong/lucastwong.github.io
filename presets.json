@@ -245,6 +245,10 @@
 "link": "https://dl.dropbox.com/s/il3p91ggyowwpla/To_A_Wild_Rose.musicxml",
 "lyrics": ""},
       
+{"name": "Twinkle, Twinkle, Little Star Variations (Suzuki)", "shortcut": "twinkle",
+"link": "https://dl.dropbox.com/s/7un3aax8uk53qet/twinkle.musicxml",
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/twinkle.json"},     
+      
 {"name": "Una furtiva lagrima (Donizetti)", "shortcut": "unafurtiva",
 "link": "https://dl.dropbox.com/s/fm60hdjbqflw9l7/unafurtiva.musicxml",
 "lyrics": ""},
