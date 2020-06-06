@@ -41,6 +41,10 @@
 "link": "https://dl.dropbox.com/s/dfzuio9zpz4ugpv/comescoglio.musicxml",
 "lyrics": ""},
       
+{"name": "Concertino for Clarinet Op. 26 (Weber)","shortcut": "concertino",
+"link": "https://dl.dropbox.com/s/xhpillbwcgql6hz/weber.musicxml",
+"lyrics": ""},
+      
 {"name": "Che gelida manina (Puccini)", "shortcut": "chegelida",
 "link": "https://dl.dropbox.com/s/pefpw90mlhzvp4j/chegelida.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/chegelida.json"},
