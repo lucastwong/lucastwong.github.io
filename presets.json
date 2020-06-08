@@ -143,7 +143,7 @@
 
 {"name": "Meditation from Thaïs (Massenet)", "shortcut": "thais",
 "link": "https://dl.dropbox.com/s/xrf7c4jx52h7mkz/Thais_Meditation.musicxml",
-"lyrics": ""},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/thais.json"},
       
 {"name": "Minuet in G BWV anh 114 (Bach)", "shortcut": "114",
 "link": "https://dl.dropbox.com/s/dode14yaz9isybo/114.musicxml",
