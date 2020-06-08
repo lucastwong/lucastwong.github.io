@@ -31,7 +31,8 @@
       
 {"name": "Caro mio ben (Giordani)","shortcut": "CaroMio",
 "link": "https://dl.dropbox.com/s/93b9x2ocotmmqta/caro.musicxml",
-"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/caromioben.json","tracer":""},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/caromioben.json",
+ "tracer":""},
 
 {"name": "Cello Concerto in A minor - complete (Saint-Saëns)","shortcut": "saintsaenscello",
 "link": "https://dl.dropbox.com/s/wxcma9rdjb6yuwm/Concerto_No._1_in_a_minor_-_Saint-Saens-2020.06.03.10.45.37.musicxml",
@@ -357,7 +358,8 @@
       
 {"name": "","shortcut": "CaroExp",
 "link": "https://dl.dropbox.com/s/gbvtmwcap5rvsue/caroexp.musicxml",
-"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/caromioben.json","tracer":""},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/caromioben.json",
+ "tracer":"https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/caromap.json"},
       
 {"name": "", "shortcut": "sc7",
 "link": "https://dl.dropbox.com/s/zwf40msbtsi50em/4dsc7.musicxml",
