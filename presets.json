@@ -66,6 +66,10 @@
 "link": "https://dl.dropbox.com/s/neih9xgwiu9j1d4/dehvieni.musicxml",
 "lyrics": "","tracer":""},
       
+{"name": "Dein Ist Mein Ganzes Herz (Lehár)", "shortcut": "dein",
+"link": "https://dl.dropbox.com/s/eet5z4r6l6dnpto/dein.musicxml",
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/dein.json","tracer":""},
+      
 {"name": "Dichterliebe (Schumann)", "shortcut": "dichterliebe",
 "link": "https://dl.dropbox.com/s/wy5dw9wz3yej7i5/dichterliebe.musicxml",
 "lyrics": "","tracer":""},
