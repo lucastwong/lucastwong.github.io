@@ -48,7 +48,7 @@
 {"onset":26000,"note":"D"},
 {"onset":27000,"note":"F#"},
 
-{"onset":28000,"note":"G"},
+{"onset":28000,"note":"E"},
 {"onset":28500,"note":"B"},
 {"onset":29500,"note":"C#"},
 
@@ -111,7 +111,7 @@
 {"onset":58000,"note":"D"},
 {"onset":59000,"note":"F#"},
 
-{"onset":60000,"note":"G"},
+{"onset":60000,"note":"E"},
 {"onset":60500,"note":"B"},
 {"onset":61500,"note":"C#"},
 
