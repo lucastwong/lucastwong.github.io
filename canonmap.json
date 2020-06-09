@@ -172,16 +172,14 @@
 {"onset":91000,"note":"C#"},
  
 {"onset":92000,"note":"B"},
-{"onset":92500,"note":""},
 {"onset":93000,"note":"A"},
 
 {"onset":94000,"note":"B"},
-{"onset":94500,"note":""},
 {"onset":95000,"note":"D"},
 {"onset":95500,"note":"C#"},
 
 {"onset":96000,"note":"F#"},
 
-{"onset":98000,"note":"D"},
+{"onset":98000,"note":"D"}
 ]
 }
