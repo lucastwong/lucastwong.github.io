@@ -67,7 +67,6 @@
 {"onset":37000,"note":"D"},
 
 {"onset":38000,"note":"C#"},
-{"onset":38500,"note":"F#"},
 
 {"onset":40000,"note":"G"},
 {"onset":40500,"note":"B"},
@@ -130,7 +129,6 @@
 {"onset":69000,"note":"D"},
 
 {"onset":70000,"note":"C#"},
-{"onset":70500,"note":"F#"},
 
 {"onset":72000,"note":"G"},
 {"onset":72500,"note":"B"},
