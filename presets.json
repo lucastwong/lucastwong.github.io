@@ -84,7 +84,7 @@
       
 {"name": "Edelweiss (Rodgers & Hammerstein)", "shortcut": "edel",
 "link": "https://dl.dropbox.com/s/1z4t8pvlnytpjj5/Edelweiss.musicxml",
-"lyrics": "","tracer":""},
+"lyrics": "","tracer":"https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/edelmap.json"},
       
 {"name": "Ein traum (Grieg)", "shortcut": "eintraum",
 "link": "https://dl.dropbox.com/s/a55z2hn6l2d2fi2/GRIEG.musicxml",
