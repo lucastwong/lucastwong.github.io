@@ -5,6 +5,10 @@
 "link": "https://dl.dropbox.com/s/c3pvvhm09lp5bms/Adagio%20and%20Allegro.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Adagio2.json","tracer":""}, 
  
+{"name": "Andante Cantabile (Tchaikovsky-Kreisler)", "shortcut": "andante",
+"link": "https://dl.dropbox.com/s/rzn6k5yu4dek5er/andante.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Au bord de l'eau (Fauré)", "shortcut": "aubord",
 "link": "https://dl.dropbox.com/s/rtaqslr4je88oep/aubord.musicxml",
 "lyrics": "","tracer":""},
@@ -40,6 +44,10 @@
 
 {"name": "Cello Concerto in A minor - complete (Saint-Saëns)","shortcut": "saintsaenscello",
 "link": "https://dl.dropbox.com/s/wxcma9rdjb6yuwm/Concerto_No._1_in_a_minor_-_Saint-Saens-2020.06.03.10.45.37.musicxml",
+"lyrics": "","tracer":""},
+    
+{"name": "Chinois Tambourin (Kreisler)","shortcut": "chinois",
+"link": "https://dl.dropbox.com/s/cssf8ku4h92hz9k/tambourin.musicxml",
 "lyrics": "","tracer":""},
       
 {"name": "Come scoglio (Mozart)","shortcut": "comescoglio",
@@ -158,6 +166,10 @@
 "link": "https://dl.dropbox.com/s/5js02oczatimcap/libiamo.musicxml",
 "lyrics": "","tracer":""},
       
+{"name": "Liebesleid (Kreisler)", "shortcut": "liebesleid",
+"link": "https://dl.dropbox.com/s/by3sxcfvfpqdkl2/liebesleid.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Lovesick (Oscar Feltsman)", "shortcut": "lovesick",
 "link": "https://dl.dropbox.com/s/em1zhqbsl47ax43/lovesick.musicxml",
 "lyrics": "","tracer":""},
@@ -165,6 +177,10 @@
 {"name": "Meditation from Thaïs (Massenet)", "shortcut": "thais",
 "link": "https://dl.dropbox.com/s/xrf7c4jx52h7mkz/Thais_Meditation.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/thais.json","tracer":""},
+      
+{"name": "Melodie (Gluck-Kreisler)", "shortcut": "gluck",
+"link": "https://dl.dropbox.com/s/t3j8p5jkepj3eyx/gluck.musicxml",
+"lyrics": "","tracer",""},
       
 {"name": "Minuet in G BWV anh 114 (Bach)", "shortcut": "114",
 "link": "https://dl.dropbox.com/s/dode14yaz9isybo/114.musicxml",
@@ -226,6 +242,10 @@
 "link": "https://dl.dropbox.com/s/jdf8jsgb3p0qhcn/berkovich.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/berkovich.json","tracer":""},
       
+{"name": "Praeludium and Allegro (Kreisler)", "shortcut": "praeludium",
+"link": "https://dl.dropbox.com/s/7oqq7nqmcnrzpjd/prelude.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Prelude in G minor (Rachmaninoff)", "shortcut": "rachprelude",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/RachPrelude.xml",
 "lyrics": "","tracer":""},
@@ -242,6 +262,10 @@
 "link": "https://dl.dropbox.com/s/sjic1unt3t155a5/Sakura.musicxml",
 "lyrics": "","tracer":""},
 
+{"name": "Schön Rosmarin (Kreisler)", "shortcut": "schon",
+"link": "https://dl.dropbox.com/s/hnpc880vm1zje21/rosmarin.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "September (Maurice White, Al McKay, and Allee Willis)", "shortcut": "sept",
 "link": "https://dl.dropbox.com/s/ab94amkea1o9u1z/september.musicxml",
 "lyrics": "", "tracer":""},
