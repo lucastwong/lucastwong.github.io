@@ -214,6 +214,10 @@
 "link": "https://dl.dropbox.com/s/lyq77cxpi3uhmgz/babbino.musicxml",
 "lyrics": "","tracer":"https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/babbinomap.json"},
 
+{"name": "O mio Fernando (Donizetti)", "shortcut": "fernando",
+"link": "https://dl.dropbox.com/s/bwkaukwl2vqgeh0/O_mio_Fernando.musicxml",
+"lyrics": "","tracer":""},
+
 {"name": "O zittre nicht (Mozart)", "shortcut": "ozittre",
 "link": "https://dl.dropbox.com/s/261p82i5wxms8xi/ozittre.musicxml",
 "lyrics": "","tracer":""},
