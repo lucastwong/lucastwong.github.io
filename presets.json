@@ -150,6 +150,10 @@
 "link": "https://dl.dropbox.com/s/1hpt40c8otbfucs/iwonder.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/iwonder.json","tracer":""},
 
+{"name": "Je suis encor (Massenet)", "shortcut": "jesuis",
+"link": "https://dl.dropbox.com/s/di9cxtzv2h48rwb/manon.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Kornblumen (Richard Strauss)", "shortcut": "kornblumen",
 "link": "https://dl.dropbox.com/s/eo3kbp81yf22l4k/Kornblumen.musicxml",
 "lyrics": "","tracer":""},
