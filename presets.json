@@ -226,6 +226,10 @@
 "link": "https://dl.dropbox.com/s/em1zhqbsl47ax43/lovesick.musicxml",
 "lyrics": "","tracer":""},
 
+{"name": "Love is Where You Find It (Nacio Herb Brown)", "shortcut": "loveis",
+"link": "https://dl.dropbox.com/s/pa2749fv6h84p7q/liebesfreud.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Meditation from Thaïs (Massenet)", "shortcut": "thais",
 "link": "https://dl.dropbox.com/s/xrf7c4jx52h7mkz/Thais_Meditation.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/thais.json","tracer":""},
