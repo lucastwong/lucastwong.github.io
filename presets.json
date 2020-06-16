@@ -4,7 +4,15 @@
 {"name": "Adagio and Allegro - for Tenor Saxophone and Piano (Schumann, arr. Matthew Howell)", "shortcut": "adagio",
 "link": "https://dl.dropbox.com/s/c3pvvhm09lp5bms/Adagio%20and%20Allegro.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Adagio2.json","tracer":""}, 
- 
+
+{"name": "Alma del core (Caldara)", "shortcut": "alma",
+"link": "https://dl.dropbox.com/s/jhlt48z9r0rlh9g/alma.musicxml",
+"lyrics": "","tracer":""}, 
+      
+{"name": "Amarilli, mia bella (Caccini)", "shortcut": "caccini",
+"link": "https://dl.dropbox.com/s/aemz9t231zakts7/amarilli.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Andante Cantabile (Tchaikovsky-Kreisler)", "shortcut": "andante",
 "link": "https://dl.dropbox.com/s/rzn6k5yu4dek5er/andante.musicxml",
 "lyrics": "","tracer":""},
@@ -48,6 +56,10 @@
     
 {"name": "Chinois Tambourin (Kreisler)","shortcut": "chinois",
 "link": "https://dl.dropbox.com/s/cssf8ku4h92hz9k/tambourin.musicxml",
+"lyrics": "","tracer":""},
+      
+{"name": "Come raggio di sol (Caldara)","shortcut": "comeraggio",
+"link": "https://dl.dropbox.com/s/sn1ej2jrta7xh5e/comeraggio.musicxml",
 "lyrics": "","tracer":""},
       
 {"name": "Come scoglio (Mozart)","shortcut": "comescoglio",
@@ -161,6 +173,10 @@
 {"name": "Kornblumen (Richard Strauss)", "shortcut": "kornblumen",
 "link": "https://dl.dropbox.com/s/eo3kbp81yf22l4k/Kornblumen.musicxml",
 "lyrics": "","tracer":""},
+    
+{"name": "Lasciatemi morire! (Monteverdi)", "shortcut": "monteverdi",
+"link": "https://dl.dropbox.com/s/yozbt0dpqqj3tpq/morire.musicxml",
+"lyrics": "","tracer":""},
       
 {"name": "Là ci darem la mano (Mozart)", "shortcut": "LaCi",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml",
@@ -256,6 +272,10 @@
       
 {"name": "Pequeña Czarda for Saxophone and Piano (Pedro Iturralde)", "shortcut": "czarda",
 "link": "https://dl.dropbox.com/s/tls07xosr9nysdu/czarda.musicxml",
+"lyrics": "","tracer":""},
+      
+{"name": "Per la gloria d'adorarvi (Bonocini)", "shortcut": "bonocini",
+"link": "https://dl.dropbox.com/s/7pcn3jqi91f1n88/perlagloria.musicxml",
 "lyrics": "","tracer":""},
       
 {"name": "Per me giunto... Io morro (Verdi)", "shortcut": "permegiunto",
@@ -393,7 +413,11 @@
 {"name": "Vissi d'arte (Puccini)", "shortcut": "Vissi",
 "link": "https://dl.dropbox.com/s/ckzc1af2sa47dj6/Vissi_D%27Arte_%28piano_solo%29.musicxml",
 "lyrics": "","tracer":""},
-      
+     
+{"name": "Vittoria, mio core! (Carissimi)", "shortcut": "carissimi",
+"link": "https://dl.dropbox.com/s/9e7ue6zlpblrrl5/vittoria.musicxml",
+"lyrics": "","tracer":""},
+     
 {"name": "Wheels of a Dream (Flaherty)", "shortcut": "wheels",
 "link": "https://dl.dropbox.com/s/iq20rce69gwl2aa/wheels.musicxml",
 "lyrics": "","tracer":""},
