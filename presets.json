@@ -57,7 +57,11 @@
 {"name": "Cello Concerto in A minor - complete (Saint-Saëns)","shortcut": "saintsaenscello",
 "link": "https://dl.dropbox.com/s/wxcma9rdjb6yuwm/Concerto_No._1_in_a_minor_-_Saint-Saens-2020.06.03.10.45.37.musicxml",
 "lyrics": "","tracer":""},
-    
+      
+{"name": "Cello Sonata (Debussy)","shortcut": "debussycello",
+"link": "https://dl.dropbox.com/s/7l8h9l0u0uc88if/debussy.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Chinois Tambourin (Kreisler)","shortcut": "chinois",
 "link": "https://dl.dropbox.com/s/cssf8ku4h92hz9k/tambourin.musicxml",
 "lyrics": "","tracer":""},
