@@ -41,6 +41,10 @@
 "link": "https://dl.dropbox.com/s/1leoc7lgugnfnp5/BeautifulDreamer.musicxml",
 "lyrics": "","tracer":""},
       
+{"name": "Bella siccome un angelo (Donizetti)", "shortcut": "bella",
+"link": "https://dl.dropbox.com/s/q1wasaj9wi2z6n0/bella.musicxml",
+"lyrics": "","tracer":""},
+    
 {"name": "Brasset's Introduction (Oscar Feltsman)", "shortcut": "brasset",
 "link": "https://dl.dropbox.com/s/puufph7u3cn77vs/goodevening.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/brasset.json","tracer":""},
