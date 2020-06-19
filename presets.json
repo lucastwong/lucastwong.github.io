@@ -270,6 +270,10 @@
 "link": "https://dl.dropbox.com/s/83oszpa8ox3v56r/loveis.musicxml",
 "lyrics": "","tracer":""},
       
+{"name": "Mab, le reine des mensonges (Gounod)", "shortcut": "mab",
+"link": "https://dl.dropbox.com/s/8390czof6agx974/mab.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Meditation from Thaïs (Massenet)", "shortcut": "thais",
 "link": "https://dl.dropbox.com/s/xrf7c4jx52h7mkz/Thais_Meditation.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/thais.json","tracer":""},
