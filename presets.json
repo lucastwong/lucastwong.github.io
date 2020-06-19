@@ -514,6 +514,10 @@
 "link": "https://dl.dropbox.com/s/iq20rce69gwl2aa/wheels.musicxml",
 "lyrics": "","tracer":""},
       
+{"name": "When the air sings of summer (Menotti)", "shortcut": "whentheair",
+"link": "https://dl.dropbox.com/s/phzvzgcgndfeso7/whentheair.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Ya vas lyublyu (Tchaikovsky)", "shortcut": "yavas",
 "link": "https://dl.dropbox.com/s/1cdnjn4lve9h8sv/yeletsky.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/yeletsky.json","tracer":""},
