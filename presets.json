@@ -254,6 +254,10 @@
 "link": "https://dl.dropbox.com/s/t3j8p5jkepj3eyx/gluck.musicxml",
 "lyrics": "","tracer":""},
       
+{"name": "Mein Sehnen, mein Wähnen (Korngold)", "shortcut": "pierrot",
+"link": "https://dl.dropbox.com/s/9dj53ntd6izcen9/tanzlied.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Minuet in G BWV anh 114 (Bach)", "shortcut": "114",
 "link": "https://dl.dropbox.com/s/dode14yaz9isybo/114.musicxml",
 "lyrics": "","tracer":""},
@@ -318,6 +322,10 @@
 "link": "https://dl.dropbox.com/s/1ciyo37qrcurqp1/permegiunto.musicxml",
 "lyrics": "","tracer":""},
  
+{"name": "Pierrot's Tanzlied (Korngold)", "shortcut": "pierrot2",
+"link": "https://dl.dropbox.com/s/9dj53ntd6izcen9/tanzlied.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Piano Concerto for Student and Teacher (Berkovich)", "shortcut": "berkovich",
 "link": "https://dl.dropbox.com/s/jdf8jsgb3p0qhcn/berkovich.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/berkovich.json","tracer":""},
