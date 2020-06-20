@@ -394,6 +394,10 @@
 "link": "https://dl.dropbox.com/s/o4ytcdtue4lv83f/prendi.musicxml",
 "lyrics": "","tracer":""},
 
+{"name": "Prologue from I Pagliacci (Leoncavallo)", "shortcut": "sipuo",
+"link": "https://dl.dropbox.com/s/1xooon2yk5c5zya/sipuo.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Romance for Horn (Saint-Saëns)", "shortcut": "romance",
 "link": "https://dl.dropbox.com/s/47pz9lo59v7643w/Camille_Saint-Sans_-_Romance.musicxml",
 "lyrics": "","tracer":""},
@@ -426,8 +430,12 @@
 "link": "https://dl.dropbox.com/s/ab94amkea1o9u1z/september.musicxml",
 "lyrics": "", "tracer":""},
       
-{"name": "Sì. Mi chiamano Mimì (Puccini)", "shortcut": "mimi",
-"link": "https://dl.dropbox.com/s/rg3l6v7ydh8ir8s/mimi.musicxml",
+{"name": "September (Maurice White, Al McKay, and Allee Willis)", "shortcut": "sept",
+"link": "https://www.dropbox.com/s/1xooon2yk5c5zya/sipuo.musicxml?dl=0",
+"lyrics": "", "tracer":""},
+      
+{"name": "Si può? (Leoncavallo)", "shortcut": "sipuo",
+"link": "https://dl.dropbox.com/s/1xooon2yk5c5zya/sipuo.musicxml",
 "lyrics": "","tracer":""},
       
 {"name": "Signore ascolta (Puccini)", "shortcut": "Signore",
