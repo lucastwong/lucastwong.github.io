@@ -186,6 +186,10 @@
 "link": "https://dl.dropbox.com/s/vrtf5fwca9r8gzh/distance.musicxml",
 "lyrics": "","tracer":""},
       
+{"name": "Habanera (Bizet)", "shortcut": "haba",
+"link": "https://dl.dropbox.com/s/o3kdv149qup0tfk/haba.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Hai già vinta la causa! (Mozart)", "shortcut": "haigia",
 "link": "https://dl.dropbox.com/s/v2fu1ayrrylqo6p/hai.musicxml",
 "lyrics": "","tracer":""},
@@ -226,6 +230,10 @@
 "link": "https://dl.dropbox.com/s/eo3kbp81yf22l4k/Kornblumen.musicxml",
 "lyrics": "","tracer":""},
     
+{"name": "L'amour est un oiseau (Bizet)", "shortcut": "haba",
+"link": "https://dl.dropbox.com/s/o3kdv149qup0tfk/haba.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Là ci darem la mano (Mozart)", "shortcut": "LaCi",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml",
 "lyrics": "","tracer":""},
