@@ -321,11 +321,11 @@
 {"name": "O du mein holder Abendstern (Wagner)", "shortcut": "odumein",
 "link": "https://dl.dropbox.com/s/iwi6jsrvo9l7310/odumein.musicxml",
 "lyrics": "","tracer":""},
-      
-{"name": "O mio babbino caro (Puccini)", "shortcut": "Babbino",
-"link": "https://dl.dropbox.com/s/lyq77cxpi3uhmgz/babbino.musicxml",
-"lyrics": "","tracer":"https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/babbinomap.json"},
 
+{"name": "O mio babbino caro (Puccini)", "shortcut": "Babbino",
+"link": "https://dl.dropbox.com/s/r1c6vcdlfoehxph/babb.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "O mio Fernando (Donizetti)", "shortcut": "fernando",
 "link": "https://dl.dropbox.com/s/bwkaukwl2vqgeh0/O_mio_Fernando.musicxml",
 "lyrics": "","tracer":""},
@@ -685,6 +685,10 @@
 {"name": "", "shortcut": "youraise",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/youraise.xml",
 "lyrics": "","tracer":""},
+            
+{"name": "", "shortcut": "babbo",
+"link": "https://dl.dropbox.com/s/lyq77cxpi3uhmgz/babbino.musicxml",
+"lyrics": "","tracer":"https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/babbinomap.json"},
       
 {"name": "", "shortcut": "p7",
 "link": "https://dl.dropbox.com/s/osf1w6an8hspafs/Piano_sonata_No.7_3rd_mov-2020.05.23.18.59.28.xml",
