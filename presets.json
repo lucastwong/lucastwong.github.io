@@ -25,6 +25,10 @@
 "link": "https://dl.dropbox.com/s/rzn6k5yu4dek5er/andante.musicxml",
 "lyrics": "","tracer":""},
       
+{"name": "Aprite un po' (Mozart)", "shortcut": "aprite",
+"link": "https://dl.dropbox.com/s/rsysxzdkoy82hs0/aprite.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Au bord de l'eau (Fauré)", "shortcut": "aubord",
 "link": "https://dl.dropbox.com/s/rtaqslr4je88oep/aubord.musicxml",
 "lyrics": "","tracer":""},
@@ -326,6 +330,10 @@
 "link": "https://dl.dropbox.com/s/bwkaukwl2vqgeh0/O_mio_Fernando.musicxml",
 "lyrics": "","tracer":""},
 
+{"name": "O sainte médaille (Gounod)", "shortcut": "avant",
+"link": "https://dl.dropbox.com/s/6hmrrxuqozhqedo/valentin.musicxml",
+"lyrics": "","tracer":""},
+      
 {"name": "Ô vin, dissipe la tristesse (Thomas)", "shortcut": "vin",
 "link": "https://dl.dropbox.com/s/5wz22bjt6jfftrz/vin.musicxml",
 "lyrics": "","tracer":""},
@@ -484,6 +492,10 @@
       
 {"name": "Träumerei - accompaniment (Schumann)", "shortcut": "traumerei",
 "link": "https://dl.dropbox.com/s/0s3qj1nlgqakvqg/traumerei.musicxml",
+"lyrics": "","tracer":""},
+      
+{"name": "Tutto è disposto (Mozart)", "shortcut": "aprite",
+"link": "https://dl.dropbox.com/s/rsysxzdkoy82hs0/aprite.musicxml",
 "lyrics": "","tracer":""},
       
 {"name": "Twinkle, Twinkle, Little Star Variations (Suzuki)", "shortcut": "twinkle",
