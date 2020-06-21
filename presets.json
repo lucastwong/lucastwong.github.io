@@ -130,6 +130,10 @@
 "link": "https://dl.dropbox.com/s/eet5z4r6l6dnpto/dein.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/dein.json","tracer":"","pedal":0.3},
       
+{"name": "Di Provenza (Verdi)", "shortcut": "provenza",
+"link": "https://dl.dropbox.com/s/7ccrehh3gylor8m/provenza.musicxml",
+"lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Dichterliebe (Schumann)", "shortcut": "dichterliebe",
 "link": "https://dl.dropbox.com/s/wy5dw9wz3yej7i5/dichterliebe.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
