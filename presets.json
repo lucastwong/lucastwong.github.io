@@ -146,6 +146,10 @@
 "link": "https://dl.dropbox.com/s/h5yhru9ueh13t4y/Do-Re-Mi.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "È sogno? (Verdi)", "shortcut": "sogno",
+"link": "https://dl.dropbox.com/s/ao70zv1m4vaubde/sogno.musicxml",
+"lyrics": "","tracer":"","pedal":0.3},
+      
 {"name": "Edelweiss (Rodgers & Hammerstein)", "shortcut": "edel",
 "link": "https://dl.dropbox.com/s/1z4t8pvlnytpjj5/Edelweiss.musicxml",
 "lyrics": "","tracer":"https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/edelmap.json","pedal":0.5},
@@ -173,6 +177,10 @@
 {"name": "Feels Like Home (Randy Newman)", "shortcut": "home",
 "link": "https://dl.dropbox.com/s/k7gztpaa7vggs7d/home.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
+
+{"name": "Ford's aria (Verdi)", "shortcut": "ford",
+"link": "https://dl.dropbox.com/s/ao70zv1m4vaubde/sogno.musicxml",
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Gavotte (Gossec)", "shortcut": "gossec",
 "link": "https://dl.dropbox.com/s/ocadaug1kry6lcy/gossec.musicxml",
