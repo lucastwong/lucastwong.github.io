@@ -61,6 +61,10 @@
 "link": "https://dl.dropbox.com/s/40jf2yofkoyq0tg/butterfly.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "C'est l'extase langoureuse (Debussy)", "shortcut": "extase",
+"link": "https://dl.dropbox.com/s/p28xoto12bbt4c8/extase.musicxml",
+"lyrics": "","tracer":"","pedal":0.3},
+      
 {"name": "Cäcilie (Richard Strauss)", "shortcut": "cacilie",
 "link": "https://dl.dropbox.com/s/3qkw4nh7s7fo5bd/cacilie.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
@@ -102,16 +106,16 @@
 "link": "https://dl.dropbox.com/s/xhpillbwcgql6hz/weber.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Cortigiani, vil razza dannata (Verdi)","shortcut": "corti",
+"link": "https://dl.dropbox.com/s/pdta2j6tgopaeg6/corti.musicxml",
+"lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Che gelida manina (Puccini)", "shortcut": "chegelida",
 "link": "https://dl.dropbox.com/s/pefpw90mlhzvp4j/chegelida.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/chegelida.json","tracer":"","pedal":0.3},
 
 {"name": "Climb Ev'ry Mountain (Rogers & Hammerstein)", "shortcut": "climb",
 "link": "https://dl.dropbox.com/s/h0aylnydixqr2lx/ClimbEvryMountain.musicxml",
-"lyrics": "","tracer":"","pedal":0.3},
-      
-{"name": "C'est l'extase langoureuse (Debussy)", "shortcut": "extase",
-"link": "https://dl.dropbox.com/s/p28xoto12bbt4c8/extase.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Da geh ich zu Maxim (Lehar)", "shortcut": "dageh",
