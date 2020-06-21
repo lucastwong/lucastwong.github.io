@@ -3,7 +3,7 @@
       
 {"name": "Adagio and Allegro - for Tenor Saxophone and Piano (Schumann, arr. Matthew Howell)", "shortcut": "adagio",
 "link": "https://dl.dropbox.com/s/c3pvvhm09lp5bms/Adagio%20and%20Allegro.musicxml",
-"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Adagio2.json","tracer":"","pedal":0.1}, 
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Adagio2.json","tracer":"","pedal":0.3}, 
 
 {"name": "Ah! per sempre (Bellini)", "shortcut": "ahper",
 "link": "https://dl.dropbox.com/s/ui733l9cyw8i0hj/ahper.musicxml",
@@ -31,15 +31,15 @@
       
 {"name": "Au bord de l'eau (Fauré)", "shortcut": "aubord",
 "link": "https://dl.dropbox.com/s/rtaqslr4je88oep/aubord.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Avant de quitter ces lieux (Gounod)", "shortcut": "avant",
 "link": "https://dl.dropbox.com/s/6hmrrxuqozhqedo/valentin.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Ave Maria (Gounod)", "shortcut": "ave",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.xml",
-"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/avemaria.json","tracer":"","pedal":0.1},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/avemaria.json","tracer":"","pedal":0.3},
 
 {"name": "Bali Ha'i (Rodgers & Hammerstein)", "shortcut": "bali",
 "link": "https://dl.dropbox.com/s/5bzyh7hdhvj5vvs/BaliHai.musicxml",
@@ -47,11 +47,11 @@
       
 {"name": "Beautiful Dreamer (Stephen Foster)", "shortcut": "beautiful",
 "link": "https://dl.dropbox.com/s/1leoc7lgugnfnp5/BeautifulDreamer.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Bella siccome un angelo (Donizetti)", "shortcut": "bella",
 "link": "https://dl.dropbox.com/s/q1wasaj9wi2z6n0/bella.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
     
 {"name": "Brasset's Introduction (Oscar Feltsman)", "shortcut": "brasset",
 "link": "https://dl.dropbox.com/s/puufph7u3cn77vs/goodevening.musicxml",
@@ -59,11 +59,11 @@
  
 {"name": "Butterfly Lovers Concerto (Zhan-Hao He)", "shortcut": "butterflylovers",
 "link": "https://dl.dropbox.com/s/40jf2yofkoyq0tg/butterfly.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Cäcilie (Richard Strauss)", "shortcut": "cacilie",
 "link": "https://dl.dropbox.com/s/3qkw4nh7s7fo5bd/cacilie.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Caro mio ben (Giordani)","shortcut": "CaroMio",
 "link": "https://dl.dropbox.com/s/93b9x2ocotmmqta/caro.musicxml",
@@ -76,7 +76,7 @@
       
 {"name": "Cello Sonata (Debussy)","shortcut": "debussycello",
 "link": "https://dl.dropbox.com/s/7l8h9l0u0uc88if/debussy.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Chinois Tambourin (Kreisler)","shortcut": "chinois",
 "link": "https://dl.dropbox.com/s/cssf8ku4h92hz9k/tambourin.musicxml",
@@ -100,15 +100,15 @@
       
 {"name": "Che gelida manina (Puccini)", "shortcut": "chegelida",
 "link": "https://dl.dropbox.com/s/pefpw90mlhzvp4j/chegelida.musicxml",
-"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/chegelida.json","tracer":"","pedal":0.1},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/chegelida.json","tracer":"","pedal":0.3},
 
 {"name": "Climb Ev'ry Mountain (Rogers & Hammerstein)", "shortcut": "climb",
 "link": "https://dl.dropbox.com/s/h0aylnydixqr2lx/ClimbEvryMountain.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "C'est l'extase langoureuse (Debussy)", "shortcut": "extase",
 "link": "https://dl.dropbox.com/s/p28xoto12bbt4c8/extase.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Da geh ich zu Maxim (Lehar)", "shortcut": "dageh",
 "link": "https://dl.dropbox.com/s/7n4tgt32odr8o1e/ich.musicxml",
@@ -124,11 +124,11 @@
       
 {"name": "Dein Ist Mein Ganzes Herz (Lehár)", "shortcut": "dein",
 "link": "https://dl.dropbox.com/s/eet5z4r6l6dnpto/dein.musicxml",
-"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/dein.json","tracer":"","pedal":0.1},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/dein.json","tracer":"","pedal":0.3},
       
 {"name": "Dichterliebe (Schumann)", "shortcut": "dichterliebe",
 "link": "https://dl.dropbox.com/s/wy5dw9wz3yej7i5/dichterliebe.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Dies Bildnis (Mozart)", "shortcut": "diesbildnis",
 "link": "https://dl.dropbox.com/s/piofgivcqzjcga8/diesbildnis.musicxml",
@@ -144,11 +144,11 @@
       
 {"name": "Edelweiss (Rodgers & Hammerstein)", "shortcut": "edel",
 "link": "https://dl.dropbox.com/s/1z4t8pvlnytpjj5/Edelweiss.musicxml",
-"lyrics": "","tracer":"https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/edelmap.json","pedal":0.1},
+"lyrics": "","tracer":"https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/edelmap.json","pedal":0.5},
       
 {"name": "Ein traum (Grieg)", "shortcut": "eintraum",
 "link": "https://dl.dropbox.com/s/a55z2hn6l2d2fi2/GRIEG.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.5},
       
 {"name": "Eri tu (Verdi)", "shortcut": "eritu",
 "link": "https://dl.dropbox.com/s/rjoqotudmcf8c1g/eritu.musicxml",
@@ -156,11 +156,11 @@
       
 {"name": "Etude Op. 10, No. 1 (Chopin)", "shortcut": "chopin",
 "link": "https://dl.dropbox.com/s/ggc3dpjw87lje5g/Fredryk_Chopin_Etude_Op.10_No.1-2020.05.23.19.16.58.xml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.5},
       
 {"name": "Etude Op. 25, No. 6 (Chopin)", "shortcut": "thirds",
 "link": "https://dl.dropbox.com/s/jqsagw7erwp4bn4/Chopin_-_Etude_Op._25_No._6_in_G-sharp_minor-2020.05.25.12.42.15.xml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Fantaisie brillante sur 'Carmen' (Borne)", "shortcut": "borne",
 "link": "https://dl.dropbox.com/s/bc0an2a3djlueh1/carmen.musicxml",
@@ -204,11 +204,11 @@
       
 {"name": "Introduction et rondo capriccioso Op.28 (Saint-Saëns)", "shortcut": "rondo",
 "link": "https://dl.dropbox.com/s/v1lssxfmkwgumdk/rondo.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "I have dreamed (Rodgers & Hammerstein)", "shortcut": "king",
 "link": "https://dl.dropbox.com/s/tlz02me9mrpeprc/king.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "I Lived (Ryan Tedder & Noel Zancanella)", "shortcut": "lived",
 "link": "https://dl.dropbox.com/s/5zs4fyw48q3zej3/lived.musicxml",
@@ -216,23 +216,27 @@
       
 {"name": "I Wonder Why - Duet (Oscar Feltsman)", "shortcut": "iwonder2",
 "link": "https://dl.dropbox.com/s/92xgi8mmm9256k1/iwonder2.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "I Wonder Why - Reprise (Oscar Feltsman)", "shortcut": "iwonder",
 "link": "https://dl.dropbox.com/s/1hpt40c8otbfucs/iwonder.musicxml",
-"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/iwonder.json","tracer":"","pedal":0.1},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/iwonder.json","tracer":"","pedal":0.3},
 
+{"name": "Io morro (Verdi)", "shortcut": "iomorro",
+"link": "https://dl.dropbox.com/s/1ciyo37qrcurqp1/permegiunto.musicxml",
+"lyrics": "","tracer":"","pedal":0.3},
+      
 {"name": "Je suis encor tout étourdie (Massenet)", "shortcut": "jesuis",
 "link": "https://dl.dropbox.com/s/di9cxtzv2h48rwb/manon.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Kornblumen (Richard Strauss)", "shortcut": "kornblumen",
 "link": "https://dl.dropbox.com/s/eo3kbp81yf22l4k/Kornblumen.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
     
 {"name": "L'amour est un oiseau (Bizet)", "shortcut": "haba",
 "link": "https://dl.dropbox.com/s/o3kdv149qup0tfk/haba.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Là ci darem la mano (Mozart)", "shortcut": "LaCi",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml",
@@ -240,7 +244,7 @@
       
 {"name": "La donna è mobile (Verdi)", "shortcut": "LaDonna",
 "link": "https://dl.dropbox.com/s/3zex92is780jujb/ladonna.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Largo al factotum (Rossini)", "shortcut": "barber",
 "link": "https://dl.dropbox.com/s/pzch51vedxmsllp/barber.musicxml",
@@ -252,19 +256,19 @@
       
 {"name": "Le Cygne - subdivided (Saint-Saëns)", "shortcut": "swan6",
 "link": "https://dl.dropbox.com/s/lpwyvtn98ldosv3/swan.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Le Grillon (Ravel)", "shortcut": "grillon",
 "link": "https://dl.dropbox.com/s/572f0xsz5jotufb/Le_Grillon.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Libiamo (Verdi)", "shortcut": "libiamo",
 "link": "https://dl.dropbox.com/s/5js02oczatimcap/libiamo.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Lieben, Hassen (Richard Strauss)", "shortcut": "lieben",
 "link": "https://dl.dropbox.com/s/asdembpwcywcgat/lieben.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Liebesfreud (Kreisler)", "shortcut": "liebesfreud",
 "link": "https://dl.dropbox.com/s/pa2749fv6h84p7q/liebesfreud.musicxml",
@@ -272,15 +276,15 @@
       
 {"name": "Liebesleid (Kreisler)", "shortcut": "liebesleid",
 "link": "https://dl.dropbox.com/s/by3sxcfvfpqdkl2/liebesleid.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Liebst du um Schönheit (Clara Schumann)", "shortcut": "liebst",
 "link": "https://dl.dropbox.com/s/uf5x281tddcniw1/clara.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Look! Through the port (Britten)", "shortcut": "budd",
 "link": "https://dl.dropbox.com/s/346xllhg6gnp7nv/budd.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Love is Where You Find It (Nacio Herb Brown)", "shortcut": "loveis",
 "link": "https://dl.dropbox.com/s/83oszpa8ox3v56r/loveis.musicxml",
@@ -296,15 +300,15 @@
       
 {"name": "Meditation from Thaïs (Massenet)", "shortcut": "thais",
 "link": "https://dl.dropbox.com/s/xrf7c4jx52h7mkz/Thais_Meditation.musicxml",
-"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/thais.json","tracer":"","pedal":0.1},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/thais.json","tracer":"","pedal":0.5},
       
 {"name": "Melodie (Gluck-Kreisler)", "shortcut": "gluck",
 "link": "https://dl.dropbox.com/s/t3j8p5jkepj3eyx/gluck.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Mein Sehnen, mein Wähnen (Korngold)", "shortcut": "pierrot",
 "link": "https://dl.dropbox.com/s/9dj53ntd6izcen9/tanzlied.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Minuet in G BWV anh 114 (Bach)", "shortcut": "114",
 "link": "https://dl.dropbox.com/s/dode14yaz9isybo/114.musicxml",
@@ -328,11 +332,11 @@
       
 {"name": "O du mein holder Abendstern (Wagner)", "shortcut": "odumein",
 "link": "https://dl.dropbox.com/s/iwi6jsrvo9l7310/odumein.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
 
 {"name": "O mio babbino caro (Puccini)", "shortcut": "Babbino",
 "link": "https://dl.dropbox.com/s/r1c6vcdlfoehxph/babb.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "O mio Fernando (Donizetti)", "shortcut": "fernando",
 "link": "https://dl.dropbox.com/s/bwkaukwl2vqgeh0/O_mio_Fernando.musicxml",
@@ -340,11 +344,11 @@
 
 {"name": "O sainte médaille (Gounod)", "shortcut": "avant",
 "link": "https://dl.dropbox.com/s/6hmrrxuqozhqedo/valentin.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Ô vin, dissipe la tristesse (Thomas)", "shortcut": "vin",
 "link": "https://dl.dropbox.com/s/5wz22bjt6jfftrz/vin.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "O zittre nicht (Mozart)", "shortcut": "ozittre",
 "link": "https://dl.dropbox.com/s/261p82i5wxms8xi/ozittre.musicxml",
@@ -352,7 +356,7 @@
          
 {"name": "Oh, What a Beautiful Mornin' (Rodgers & Hammerstein)", "shortcut": "brian",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Oh%20what%20a%20beautiful%20morning.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "One Moment in Time (Albert Hammond & John Bettis)", "shortcut": "moment",
 "link": "https://dl.dropbox.com/s/rzqt90jdpzfrssb/moment.musicxml",
@@ -372,19 +376,19 @@
       
 {"name": "Pequeña Czarda for Saxophone and Piano (Pedro Iturralde)", "shortcut": "czarda",
 "link": "https://dl.dropbox.com/s/tls07xosr9nysdu/czarda.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Per la gloria d'adorarvi (Bonocini)", "shortcut": "bonocini",
 "link": "https://dl.dropbox.com/s/7pcn3jqi91f1n88/perlagloria.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
-{"name": "Per me giunto... Io morro (Verdi)", "shortcut": "permegiunto",
+{"name": "Per me giunto (Verdi)", "shortcut": "permegiunto",
 "link": "https://dl.dropbox.com/s/1ciyo37qrcurqp1/permegiunto.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
  
 {"name": "Pierrot's Tanzlied (Korngold)", "shortcut": "pierrot2",
 "link": "https://dl.dropbox.com/s/9dj53ntd6izcen9/tanzlied.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Piano Concerto for Student and Teacher (Berkovich)", "shortcut": "berkovich",
 "link": "https://dl.dropbox.com/s/jdf8jsgb3p0qhcn/berkovich.musicxml",
@@ -396,15 +400,15 @@
       
 {"name": "Prelude in G minor (Rachmaninoff)", "shortcut": "rachprelude",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/RachPrelude.xml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Prendi, per me sei libero (Donizetti)", "shortcut": "prendi",
 "link": "https://dl.dropbox.com/s/o4ytcdtue4lv83f/prendi.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
 
 {"name": "Prologue from I Pagliacci (Leoncavallo)", "shortcut": "sipuo",
 "link": "https://dl.dropbox.com/s/1xooon2yk5c5zya/sipuo.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Romance for Horn (Saint-Saëns)", "shortcut": "romance",
 "link": "https://dl.dropbox.com/s/47pz9lo59v7643w/Camille_Saint-Sans_-_Romance.musicxml",
@@ -416,7 +420,7 @@
 
 {"name": "Salut d'amour (Elgar)", "shortcut": "salut",
 "link": "https://dl.dropbox.com/s/on9x5spxaszmz4c/salut.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Schön Rosmarin (Kreisler)", "shortcut": "schon",
 "link": "https://dl.dropbox.com/s/hnpc880vm1zje21/rosmarin.musicxml",
@@ -428,7 +432,7 @@
       
 {"name": "Se il mio nome (Rossini)", "shortcut": "seilmionome",
 "link": "https://dl.dropbox.com/s/vz4m6a1wz2n7n1j/seilmionome.musicxml",
-"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/seilmionome.json","tracer":"","pedal":0.1},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/seilmionome.json","tracer":"","pedal":0.2},
       
 {"name": "Se tu m'ami (Pergolesi)", "shortcut": "setu",
 "link": "https://dl.dropbox.com/s/q1dod9zxtbr1rxx/setu.musicxml",
@@ -438,17 +442,13 @@
 "link": "https://dl.dropbox.com/s/ab94amkea1o9u1z/september.musicxml",
 "lyrics": "", "tracer":"","pedal":0.1},
       
-{"name": "September (Maurice White, Al McKay, and Allee Willis)", "shortcut": "sept",
-"link": "https://www.dropbox.com/s/1xooon2yk5c5zya/sipuo.musicxml?dl=0",
-"lyrics": "", "tracer":"","pedal":0.1},
-      
 {"name": "Si può? (Leoncavallo)", "shortcut": "sipuo",
 "link": "https://dl.dropbox.com/s/1xooon2yk5c5zya/sipuo.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Signore ascolta (Puccini)", "shortcut": "Signore",
 "link": "https://dl.dropbox.com/s/b6gloedrkpvvfh9/Signore_ascolta.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
 
 {"name": "Sixteen Going On Seventeen (Rodgers & Hammerstein)", "shortcut": "16",
 "link": "https://dl.dropbox.com/s/j34f2cc6sx5zb8l/Sixteen_Going_On_Seventeen.musicxml",
@@ -456,19 +456,19 @@
       
 {"name": "Smoke Gets in Your Eyes (Jerome Kern)", "shortcut": "smoke",
 "link": "https://dl.dropbox.com/s/1jy86oswdz6jev9/SmokeGets.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Sois immobile (Rossini)", "shortcut": "sois",
 "link": "https://dl.dropbox.com/s/ralt0qvmkekp876/sois.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Some Enchanted Evening (Rodgers & Hammerstein)", "shortcut": "someenchanted",
 "link": "https://dl.dropbox.com/s/j591nv62z2catq5/SomeEnchantedEvening.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Sonata for Eb Alto Saxophone and Piano Op. 19 - 1st mvt. (Creston)", "shortcut": "creston1",
 "link": "https://dl.dropbox.com/s/w9b8zzkainn1biz/creston1.musicxml",
-"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/creston.json","tracer":"","pedal":0.1},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/creston.json","tracer":"","pedal":0.3},
       
 {"name": "Sonata - 1st mvt & 2nd mvt (Eccles)", "shortcut": "eccles",
 "link": "https://dl.dropbox.com/s/vvzvp46ecyc1nmd/eccles.musicxml",
@@ -476,7 +476,7 @@
  
 {"name": "Song to the Moon (Dvořák)", "shortcut": "Rusalka",
 "link": "https://dl.dropbox.com/s/39qgp975vw4f8dd/songtothemoon.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Songs of Travel (Vaughan Williams)", "shortcut": "songsoftravel",
 "link": "https://dl.dropbox.com/s/gt3683ac92lz6uh/songsoftravel.musicxml",
@@ -488,7 +488,7 @@
       
 {"name": "Symphony No. 5 1st mvt. (Beethoven)", "shortcut": "Bee5",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee5.xml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "The Entertainer (Joplin)", "shortcut": "enter",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Entertainer.xml",
@@ -496,19 +496,19 @@
 
 {"name": "The Rainbow Connection (Paul Williams & Kenneth L. Ascher)", "shortcut": "rainbow",
 "link": "https://dl.dropbox.com/s/l046eqo72r8lmxp/rainbow.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "The Sound of Music (Rodgers & Hammerstein)", "shortcut": "thesoundofmusic",
 "link": "https://dl.dropbox.com/s/t5kera8dhd19drj/TheSoundOfMusic.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "To a Wild Rose - accompaniment (MacDowell)", "shortcut": "wildrose",
 "link": "https://dl.dropbox.com/s/il3p91ggyowwpla/To_A_Wild_Rose.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Träumerei - accompaniment (Schumann)", "shortcut": "traumerei",
 "link": "https://dl.dropbox.com/s/0s3qj1nlgqakvqg/traumerei.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Tutto è disposto (Mozart)", "shortcut": "aprite",
 "link": "https://dl.dropbox.com/s/rsysxzdkoy82hs0/aprite.musicxml",
@@ -520,7 +520,7 @@
       
 {"name": "Una furtiva lagrima (Donizetti)", "shortcut": "unafurtiva",
 "link": "https://dl.dropbox.com/s/fm60hdjbqflw9l7/unafurtiva.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Violin Concerto in A minor - 1st mvt. (Vivaldi)", "shortcut": "vivaldi",
 "link": "https://dl.dropbox.com/s/kkac1am4yzq499m/vivaldi.musicxml",
@@ -528,23 +528,23 @@
 
 {"name": "Violin Concerto in D major - complete (Brahms)", "shortcut": "brahms",
 "link": "https://dl.dropbox.com/s/j1b11d1iwjfkips/brahms.musicxml",
-"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/brahms.json","tracer":"","pedal":0.1},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/brahms.json","tracer":"","pedal":0.2},
       
 {"name": "Violin Concerto in D major - complete (Tchaikovsky)", "shortcut": "tchaiviolin",
 "link": "https://dl.dropbox.com/s/hpq66yjfitfcuid/Violin_Concerto_in_D_major%2C_Op._35.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Violin Concerto in D minor - complete (Sibelius)", "shortcut": "sibelius",
 "link": "https://dl.dropbox.com/s/31q1bwilwf1runq/sibelius.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Violin Concerto in E minor - complete (Mendelssohn)", "shortcut": "mendel",
 "link": "https://dl.dropbox.com/s/hfm7yq32wk5bjgc/mendelssohn.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Vissi d'arte (Puccini)", "shortcut": "Vissi",
 "link": "https://dl.dropbox.com/s/ckzc1af2sa47dj6/Vissi_D%27Arte_%28piano_solo%29.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
      
 {"name": "Vittoria, mio core! (Carissimi)", "shortcut": "carissimi",
 "link": "https://dl.dropbox.com/s/9e7ue6zlpblrrl5/vittoria.musicxml",
@@ -560,11 +560,11 @@
       
 {"name": "Warm as the autumn light (Moore)", "shortcut": "warm",
 "link": "https://dl.dropbox.com/s/l32j7twoamwzs0f/warm.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Wheels of a Dream (Flaherty)", "shortcut": "wheels",
 "link": "https://dl.dropbox.com/s/iq20rce69gwl2aa/wheels.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "When the air sings of summer (Menotti)", "shortcut": "whentheair",
 "link": "https://dl.dropbox.com/s/phzvzgcgndfeso7/whentheair.musicxml",
@@ -572,7 +572,7 @@
       
 {"name": "Ya vas lyublyu (Tchaikovsky)", "shortcut": "yavas",
 "link": "https://dl.dropbox.com/s/1cdnjn4lve9h8sv/yeletsky.musicxml",
-"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/yeletsky.json","tracer":"","pedal":0.1},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/yeletsky.json","tracer":"","pedal":0.2},
 
 {"name": "You Gotta Be (Des'ree & Ashley Ingram)", "shortcut": "gotta",
 "link": "https://dl.dropbox.com/s/wckwztegmfjrp0g/gotta.musicxml",
@@ -584,7 +584,7 @@
       
 {"name": "Zigeunerweisen (Sarasate)", "shortcut": "zige",
 "link": "https://dl.dropbox.com/s/y36w0nyolei1v0v/zige.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "","tracer":"","pedal":0.2},
       
 
 
