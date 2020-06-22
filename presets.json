@@ -426,6 +426,10 @@
 "link": "https://dl.dropbox.com/s/jdf8jsgb3p0qhcn/berkovich.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/berkovich.json","tracer":"","pedal":0.1},
       
+{"name": "Pourqoui me réveiller? (Massenet)", "shortcut": "werther",
+"link": "https://dl.dropbox.com/s/3i297ronpu8m1r3/werther.musicxml",
+"lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Praeludium and Allegro (Kreisler)", "shortcut": "praeludium",
 "link": "https://dl.dropbox.com/s/7oqq7nqmcnrzpjd/prelude.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
