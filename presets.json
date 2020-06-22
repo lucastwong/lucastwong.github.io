@@ -90,9 +90,17 @@
 "link": "https://dl.dropbox.com/s/7l8h9l0u0uc88if/debussy.musicxml",
 "lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "Che gelida manina (Puccini)", "shortcut": "chegelida",
+"link": "https://dl.dropbox.com/s/pefpw90mlhzvp4j/chegelida.musicxml",
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/chegelida.json","tracer":"","pedal":0.3},
+
 {"name": "Chinois Tambourin (Kreisler)","shortcut": "chinois",
 "link": "https://dl.dropbox.com/s/cssf8ku4h92hz9k/tambourin.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Climb Ev'ry Mountain (Rogers & Hammerstein)", "shortcut": "climb",
+"link": "https://dl.dropbox.com/s/h0aylnydixqr2lx/ClimbEvryMountain.musicxml",
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Come paride vezzoso (Donizetti)","shortcut": "paride",
 "link": "https://dl.dropbox.com/s/cbh6etoijqg6k0i/paride2.musicxml",
@@ -118,13 +126,9 @@
 "link": "https://dl.dropbox.com/s/pdta2j6tgopaeg6/corti.musicxml",
 "lyrics": "","tracer":"","pedal":0.2},
       
-{"name": "Che gelida manina (Puccini)", "shortcut": "chegelida",
-"link": "https://dl.dropbox.com/s/pefpw90mlhzvp4j/chegelida.musicxml",
-"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/chegelida.json","tracer":"","pedal":0.3},
-
-{"name": "Climb Ev'ry Mountain (Rogers & Hammerstein)", "shortcut": "climb",
-"link": "https://dl.dropbox.com/s/h0aylnydixqr2lx/ClimbEvryMountain.musicxml",
-"lyrics": "","tracer":"","pedal":0.3},
+{"name": "Cruda funesta smania (Donizetti)","shortcut": "crudafun",
+"link": "https://dl.dropbox.com/s/4e7ads2cyp8o2xi/cruda.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Da geh ich zu Maxim (Lehar)", "shortcut": "dageh",
 "link": "https://dl.dropbox.com/s/7n4tgt32odr8o1e/ich.musicxml",
