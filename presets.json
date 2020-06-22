@@ -5,6 +5,10 @@
 "link": "https://dl.dropbox.com/s/c3pvvhm09lp5bms/Adagio%20and%20Allegro.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Adagio2.json","tracer":"","pedal":0.3}, 
 
+{"name": "Ah! Lève toi soleil! (Gounod)", "shortcut": "soleil",
+"link": "https://dl.dropbox.com/s/pb52ivhclyc62ei/soleil.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Ah! per sempre (Bellini)", "shortcut": "ahper",
 "link": "https://dl.dropbox.com/s/ui733l9cyw8i0hj/ahper.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
