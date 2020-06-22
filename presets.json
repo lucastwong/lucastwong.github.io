@@ -254,6 +254,10 @@
 "link": "https://dl.dropbox.com/s/eo3kbp81yf22l4k/Kornblumen.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
     
+{"name": "Kuda, kuda vï udalilis (Tchaikovsky)", "shortcut": "lensky",
+"link": "https://dl.dropbox.com/s/67ofh7mtbrk6c9t/lensky.musicxml",
+"lyrics": "","tracer":"","pedal":0.2}, 
+      
 {"name": "L'amour est un oiseau (Bizet)", "shortcut": "haba",
 "link": "https://dl.dropbox.com/s/o3kdv149qup0tfk/haba.musicxml",
 "lyrics": "","tracer":"","pedal":0.2},
@@ -281,6 +285,10 @@
 {"name": "Le Grillon (Ravel)", "shortcut": "grillon",
 "link": "https://dl.dropbox.com/s/572f0xsz5jotufb/Le_Grillon.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "Lensky's Aria (Tchaikovsky)", "shortcut": "lensky",
+"link": "https://dl.dropbox.com/s/67ofh7mtbrk6c9t/lensky.musicxml",
+"lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Libiamo (Verdi)", "shortcut": "libiamo",
 "link": "https://dl.dropbox.com/s/5js02oczatimcap/libiamo.musicxml",
