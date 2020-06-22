@@ -330,6 +330,10 @@
 "link": "https://dl.dropbox.com/s/em1zhqbsl47ax43/lovesick.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Ma de' malvagi invan...Vien, Leonora (Donizetti)", "shortcut": "vien",
+"link": "https://dl.dropbox.com/s/30rsdm3bcwezknr/vien.musicxml",
+"lyrics": "","tracer":"","pedal":0.25},
+      
 {"name": "Mab, le reine des mensonges (Gounod)", "shortcut": "mab",
 "link": "https://dl.dropbox.com/s/8390czof6agx974/mab.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
@@ -577,6 +581,10 @@
 {"name": "Una furtiva lagrima (Donizetti)", "shortcut": "unafurtiva",
 "link": "https://dl.dropbox.com/s/fm60hdjbqflw9l7/unafurtiva.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "Vien, Leonora (Donizetti)", "shortcut": "vien",
+"link": "https://dl.dropbox.com/s/30rsdm3bcwezknr/vien.musicxml",
+"lyrics": "","tracer":"","pedal":0.25},
       
 {"name": "Violin Concerto in A minor - 1st mvt. (Vivaldi)", "shortcut": "vivaldi",
 "link": "https://dl.dropbox.com/s/kkac1am4yzq499m/vivaldi.musicxml",
