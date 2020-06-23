@@ -122,6 +122,10 @@
 "link": "https://dl.dropbox.com/s/ygki0hw6a4kn5ns/comeun.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Come, master (Stravinsky)","shortcut": "comemaster",
+"link": "https://dl.dropbox.com/s/xd2qsmgh4m1igpa/comemaster.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Concertino for Clarinet Op. 26 (Weber)","shortcut": "concertino",
 "link": "https://dl.dropbox.com/s/xhpillbwcgql6hz/weber.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
