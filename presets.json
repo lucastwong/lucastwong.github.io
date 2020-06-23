@@ -170,6 +170,10 @@
 "link": "https://dl.dropbox.com/s/h5yhru9ueh13t4y/Do-Re-Mi.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "E fra quest'ansie (Leoncavallo)", "shortcut": "efra",
+"link": "https://dl.dropbox.com/s/8rxlujrtvhs4e54/efra.musicxml",
+"lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "È sogno? (Verdi)", "shortcut": "sogno",
 "link": "https://dl.dropbox.com/s/ao70zv1m4vaubde/sogno.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
