@@ -286,6 +286,10 @@
 "link": "https://dl.dropbox.com/s/o3kdv149qup0tfk/haba.musicxml",
 "lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "L'orage s'est calmé...Ô Nadir (Bizet)", "shortcut": "nadir",
+"link": "https://dl.dropbox.com/s/h6g690587awhcrn/nadir.musicxml",
+"lyrics": "","tracer":"","pedal":0.4},
+      
 {"name": "Là ci darem la mano (Mozart)", "shortcut": "LaCi",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
@@ -401,7 +405,11 @@
 {"name": "O mio Fernando (Donizetti)", "shortcut": "fernando",
 "link": "https://dl.dropbox.com/s/bwkaukwl2vqgeh0/O_mio_Fernando.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
-
+      
+{"name": "Ô Nadir (Bizet)", "shortcut": "nadir2",
+"link": "https://dl.dropbox.com/s/h6g690587awhcrn/nadir.musicxml",
+"lyrics": "","tracer":"","pedal":0.4},
+      
 {"name": "O sainte médaille (Gounod)", "shortcut": "avant",
 "link": "https://dl.dropbox.com/s/6hmrrxuqozhqedo/valentin.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
