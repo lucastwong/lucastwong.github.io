@@ -126,6 +126,10 @@
 "link": "https://dl.dropbox.com/s/xd2qsmgh4m1igpa/comemaster.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Comme une pâle fleur (Thomas)","shortcut": "pale",
+"link": "https://dl.dropbox.com/s/feu968dsyn7rx3a/pale2.musicxml",
+"lyrics": "","tracer":"","pedal":0.25},
+      
 {"name": "Concertino for Clarinet Op. 26 (Weber)","shortcut": "concertino",
 "link": "https://dl.dropbox.com/s/xhpillbwcgql6hz/weber.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
@@ -313,6 +317,10 @@
 {"name": "La donna è mobile (Verdi)", "shortcut": "LaDonna",
 "link": "https://dl.dropbox.com/s/3zex92is780jujb/ladonna.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "La fatigue alourdit mes pas...Comme une pâle fleur (Thomas)","shortcut": "pale2",
+"link": "https://dl.dropbox.com/s/feu968dsyn7rx3a/pale2.musicxml",
+"lyrics": "","tracer":"","pedal":0.25},
       
 {"name": "Largo al factotum (Rossini)", "shortcut": "barber",
 "link": "https://dl.dropbox.com/s/pzch51vedxmsllp/barber.musicxml",
