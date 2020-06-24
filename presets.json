@@ -530,6 +530,10 @@
 "link": "https://dl.dropbox.com/s/on9x5spxaszmz4c/salut.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Schaunard's aria from La Bohème (Puccini)", "shortcut": "schaunard",
+"link": "https://dl.dropbox.com/s/1f3pea8702ug89a/schu.musicxml",
+"lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Schön Rosmarin (Kreisler)", "shortcut": "schon",
 "link": "https://dl.dropbox.com/s/hnpc880vm1zje21/rosmarin.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
