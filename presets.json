@@ -242,6 +242,10 @@
 "link": "https://dl.dropbox.com/s/ir1g4gnmxcg5v3r/giail.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Glitter and Be Gay (Leonard Bernstein)", "shortcut": "glitter",
+"link": "https://dl.dropbox.com/s/93aeu0rdkg8mlqq/glitter.musicxml",
+"lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Go the Distance (Alan Menken)", "shortcut": "distance",
 "link": "https://dl.dropbox.com/s/vrtf5fwca9r8gzh/distance.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
@@ -828,10 +832,6 @@
 
 {"name": "", "shortcut": "LaFleur",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Flower2.xml",
-"lyrics": "","tracer":"","pedal":0.1},
-      
-{"name": "", "shortcut": "glitter",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Glitter.xml",
 "lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "", "shortcut": "cinema",
