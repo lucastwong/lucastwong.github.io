@@ -593,6 +593,10 @@
 {"name": "Si può? (Leoncavallo)", "shortcut": "sipuo",
 "link": "https://dl.dropbox.com/s/1xooon2yk5c5zya/sipuo.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
+
+{"name": "Siegmunds Liebeslied (Wagner)", "shortcut": "winters",
+"link": "https://dl.dropbox.com/s/uq4smaqdv9hw54n/wagner.musicxml",
+"lyrics": "","tracer":"","pedal":0.7},
       
 {"name": "Signore ascolta (Puccini)", "shortcut": "Signore",
 "link": "https://dl.dropbox.com/s/b6gloedrkpvvfh9/Signore_ascolta.musicxml",
@@ -745,6 +749,10 @@
 {"name": "When the air sings of summer (Menotti)", "shortcut": "whentheair",
 "link": "https://dl.dropbox.com/s/phzvzgcgndfeso7/whentheair.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Wintersturme (Wagner)", "shortcut": "winters",
+"link": "https://dl.dropbox.com/s/uq4smaqdv9hw54n/wagner.musicxml",
+"lyrics": "","tracer":"","pedal":0.7},
       
 {"name": "Ya vas lyublyu (Tchaikovsky)", "shortcut": "yavas",
 "link": "https://dl.dropbox.com/s/1cdnjn4lve9h8sv/yeletsky.musicxml",
