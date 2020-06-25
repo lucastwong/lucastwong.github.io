@@ -334,6 +334,10 @@
 "link": "https://dl.dropbox.com/s/feu968dsyn7rx3a/pale2.musicxml",
 "lyrics": "","tracer":"","pedal":0.25},
       
+{"name": "La fleur que tu m’avais jetée (Bizet)","shortcut": "lafleur2",
+"link": "https://dl.dropbox.com/s/s5is5ll4iqpn7pd/lafleur.musicxml",
+"lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Largo al factotum (Rossini)", "shortcut": "barber",
 "link": "https://dl.dropbox.com/s/pzch51vedxmsllp/barber.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
@@ -836,10 +840,6 @@
       
 {"name": "", "shortcut": "alle",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Alleluia.xml",
-"lyrics": "","tracer":"","pedal":0.1},
-
-{"name": "", "shortcut": "LaFleur",
-"link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Flower2.xml",
 "lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "", "shortcut": "cinema",
