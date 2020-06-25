@@ -680,7 +680,7 @@
       
 {"name": "Violin Concerto in A major - 2nd mvt. (Mozart)", "shortcut": "mozart5-2",
 "link": "https://dl.dropbox.com/s/sdtrojvqtr0v77o/mozart5-2.musicxml",
-"lyrics": "","tracer":"","pedal":0.1},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/moz52nd.json","tracer":"","pedal":0.1},
       
 {"name": "Violin Concerto in A major - 3rd mvt. (Mozart)", "shortcut": "mozart5-3",
 "link": "https://dl.dropbox.com/s/5dw0sjpidor4hmt/mozart5-3.musicxml",
