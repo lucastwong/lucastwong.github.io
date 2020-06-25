@@ -322,6 +322,10 @@
 "link": "https://dl.dropbox.com/s/o3kdv149qup0tfk/haba.musicxml",
 "lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "L'anima ho stanca (Cilea)", "shortcut": "lanimaho",
+"link": "https://dl.dropbox.com/s/hglhfhggzm2m0g9/lanima.musicxml",
+"lyrics": "","tracer":"","pedal":0.8},
+      
 {"name": "L'orage s'est calmé...Ô Nadir (Bizet)", "shortcut": "nadir",
 "link": "https://dl.dropbox.com/s/h6g690587awhcrn/nadir.musicxml",
 "lyrics": "","tracer":"","pedal":0.4},
