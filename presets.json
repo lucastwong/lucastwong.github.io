@@ -98,6 +98,10 @@
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/caromioben.json",
  "tracer":"","pedal":0.1},
       
+{"name": "Catalogue aria from Don Giovanni (Mozart)", "shortcut": "catalogue",
+"link": "https://dl.dropbox.com/s/le3sicz8hix0o3f/Madamina.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Caro nome (Verdi)","shortcut": "caronome",
 "link": "https://dl.dropbox.com/s/3n4ruywaysjynfk/caronome.musicxml",
 "lyrics": "","tracer":"","pedal":0.2},
@@ -440,6 +444,10 @@
       
 {"name": "Mab, le reine des mensonges (Gounod)", "shortcut": "mab",
 "link": "https://dl.dropbox.com/s/8390czof6agx974/mab.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Madamina (Mozart)", "shortcut": "madamina",
+"link": "https://dl.dropbox.com/s/le3sicz8hix0o3f/Madamina.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Marietta's Lied (Korngold)", "shortcut": "maria",
