@@ -198,6 +198,10 @@
 "link": "https://dl.dropbox.com/s/h5yhru9ueh13t4y/Do-Re-Mi.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Durch Zärtlichkeit (Mozart)", "shortcut": "durch",
+"link": "https://dl.dropbox.com/s/xn3b3rc5gpi877f/durch.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "E fra quest'ansie (Leoncavallo)", "shortcut": "efra",
 "link": "https://dl.dropbox.com/s/8rxlujrtvhs4e54/efra.musicxml",
 "lyrics": "","tracer":"","pedal":0.5},
