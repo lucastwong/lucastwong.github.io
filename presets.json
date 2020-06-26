@@ -266,6 +266,10 @@
 "link": "https://dl.dropbox.com/s/93aeu0rdkg8mlqq/glitter.musicxml",
 "lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Glück das mir verblieb (Korngold)", "shortcut": "maria",
+"link": "https://dl.dropbox.com/s/snxe9od8m1o4zq0/marietta.musicxml",
+"lyrics": "","tracer":"","pedal":0.7}, 
+      
 {"name": "Go the Distance (Alan Menken)", "shortcut": "distance",
 "link": "https://dl.dropbox.com/s/vrtf5fwca9r8gzh/distance.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
@@ -425,6 +429,10 @@
 {"name": "Mab, le reine des mensonges (Gounod)", "shortcut": "mab",
 "link": "https://dl.dropbox.com/s/8390czof6agx974/mab.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Marietta's Lied (Korngold)", "shortcut": "maria",
+"link": "https://dl.dropbox.com/s/snxe9od8m1o4zq0/marietta.musicxml",
+"lyrics": "","tracer":"","pedal":0.7}, 
       
 {"name": "Meditation from Thaïs (Massenet)", "shortcut": "thais",
 "link": "https://dl.dropbox.com/s/xrf7c4jx52h7mkz/Thais_Meditation.musicxml",
