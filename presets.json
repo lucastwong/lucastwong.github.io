@@ -13,6 +13,10 @@
 "link": "https://dl.dropbox.com/s/c3pvvhm09lp5bms/Adagio%20and%20Allegro.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Adagio2.json","tracer":"","pedal":0.3}, 
 
+{"name": "Ah, je ris de me voir (Gounod)", "shortcut": "jewel2",
+"link": "https://dl.dropbox.com/s/lwld9qfujnf840r/jewelsong.musicxml",
+"lyrics": "","tracer":"","pedal":0.3},
+      
 {"name": "Ah! Lève toi soleil! (Gounod)", "shortcut": "soleil",
 "link": "https://dl.dropbox.com/s/pb52ivhclyc62ei/soleil.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
@@ -24,6 +28,10 @@
 {"name": "Ain't it a pretty night (Floyd)", "shortcut": "aintit",
 "link": "https://dl.dropbox.com/s/8vf5ol9duf9qv0h/aintit.musicxml",
 "lyrics": "","tracer":"","pedal":0.7},
+      
+{"name": "Air des Bijoux (Gounod)", "shortcut": "jewel3",
+"link": "https://dl.dropbox.com/s/lwld9qfujnf840r/jewelsong.musicxml",
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Air on G String - accompaniment (Bach)", "shortcut": "air",
 "link": "https://dl.dropbox.com/s/6th4p166ybtztx7/air.musicxml",
@@ -309,6 +317,10 @@
 {"name": "Je veux vivre (Gounod)", "shortcut": "jeveux",
 "link": "https://dl.dropbox.com/s/njcsqz7lbjlry8g/jeveux.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Jewel Song (Gounod)", "shortcut": "jewel",
+"link": "https://dl.dropbox.com/s/lwld9qfujnf840r/jewelsong.musicxml",
+"lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Kogda by zhizn domashnim krugom (Tchaikovsky)", "shortcut": "kogda",
 "link": "https://dl.dropbox.com/s/3a770qx2bplbybs/kogda.musicxml",
