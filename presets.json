@@ -370,6 +370,10 @@
 "link": "https://dl.dropbox.com/s/o3kdv149qup0tfk/haba.musicxml",
 "lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "L'ho perduta (Mozart)", "shortcut": "lho",
+"link": "https://dl.dropbox.com/s/vpk30ry5bxhtuuf/lho.musicxml",
+"lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "L'anima ho stanca (Cilea)", "shortcut": "lanimaho",
 "link": "https://dl.dropbox.com/s/hglhfhggzm2m0g9/lanima.musicxml",
 "lyrics": "","tracer":"","pedal":0.8},
