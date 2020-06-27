@@ -762,8 +762,12 @@
 "link": "https://dl.dropbox.com/s/o1uqdvvq3kj4mn3/aura.musicxml",
 "lyrics": "","tracer":"","pedal":0.2},
       
-{"name": "Una furtiva lagrima (Donizetti)", "shortcut": "unafurtiva",
+{"name": "Una furtiva lagrima - in 2 (Donizetti)", "shortcut": "unafurtiva",
 "link": "https://dl.dropbox.com/s/fm60hdjbqflw9l7/unafurtiva.musicxml",
+"lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "Una furtiva lagrima - in 6 (Donizetti)", "shortcut": "unafurtiva2",
+"link": "https://dl.dropbox.com/s/umgai9p5w3k0rur/unafurtiva2.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Uzhel ta samaja Tatiana (Tchaikovsky)", "shortcut": "uzhel",
