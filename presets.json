@@ -13,6 +13,10 @@
 "link": "https://dl.dropbox.com/s/c3pvvhm09lp5bms/Adagio%20and%20Allegro.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Adagio2.json","tracer":"","pedal":0.3}, 
 
+{"name": "Addio del passato (Verdi)", "shortcut": "addiopassato",
+"link": "https://dl.dropbox.com/s/5us2cwnr72lovpe/addiopassato.musicxml",
+"lyrics": "","tracer":"","pedal":0.25},
+      
 {"name": "Ah, je ris de me voir (Gounod)", "shortcut": "jewel2",
 "link": "https://dl.dropbox.com/s/lwld9qfujnf840r/jewelsong.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
