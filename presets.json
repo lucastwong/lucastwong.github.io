@@ -574,6 +574,10 @@
 "link": "https://dl.dropbox.com/s/jdf8jsgb3p0qhcn/berkovich.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/berkovich.json","tracer":"","pedal":0.1},
       
+{"name": "Porgi, amor (Mozart)", "shortcut": "porgi",
+"link": "https://dl.dropbox.com/s/f7dzlnoxymfokeg/porgi.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Pourqoui me réveiller? (Massenet)", "shortcut": "werther",
 "link": "https://dl.dropbox.com/s/3i297ronpu8m1r3/werther.musicxml",
 "lyrics": "","tracer":"","pedal":0.5},
