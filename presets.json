@@ -270,8 +270,12 @@
 "link": "https://dl.dropbox.com/s/ao70zv1m4vaubde/sogno.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
       
-{"name": "Gavotte (Gossec)", "shortcut": "gossec",
+{"name": "Gavotte in 2 (Gossec)", "shortcut": "gossec",
 "link": "https://dl.dropbox.com/s/ocadaug1kry6lcy/gossec.musicxml",
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gossec.json","tracer":"","pedal":0.1},
+      
+{"name": "Gavotte in 4 (Gossec)", "shortcut": "gossec",
+"link": "https://dl.dropbox.com/s/y57zas2bug4n6vl/gossec2.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gossec.json","tracer":"","pedal":0.1},
       
 {"name": "Gavotte (Popper)", "shortcut": "popper",
