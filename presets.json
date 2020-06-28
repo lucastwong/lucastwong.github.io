@@ -242,6 +242,10 @@
 "link": "https://dl.dropbox.com/s/a55z2hn6l2d2fi2/GRIEG.musicxml",
 "lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Embroidery aria (Britten)", "shortcut": "embrod",
+"link": "https://dl.dropbox.com/s/1b4z6gf24wpbd0s/emb.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Eri tu (Verdi)", "shortcut": "eritu",
 "link": "https://dl.dropbox.com/s/rjoqotudmcf8c1g/eritu.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
