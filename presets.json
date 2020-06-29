@@ -446,6 +446,10 @@
 "link": "https://dl.dropbox.com/s/yozbt0dpqqj3tpq/morire.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Laughing Song (Johann Strauss II)", "shortcut": "laughing2",
+"link": "https://dl.dropbox.com/s/dprgjpzhbktzpjy/meinherr.musicxml",
+"lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Le Cygne - subdivided (Saint-Saëns)", "shortcut": "swan6",
 "link": "https://dl.dropbox.com/s/lpwyvtn98ldosv3/swan.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
@@ -513,6 +517,10 @@
 {"name": "Melodie (Gluck-Kreisler)", "shortcut": "gluck",
 "link": "https://dl.dropbox.com/s/t3j8p5jkepj3eyx/gluck.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "Mein Herr Marquis (Johann Strauss II)", "shortcut": "laughing",
+"link": "https://dl.dropbox.com/s/dprgjpzhbktzpjy/meinherr.musicxml",
+"lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Mein Sehnen, mein Wähnen (Korngold)", "shortcut": "pierrot",
 "link": "https://dl.dropbox.com/s/9dj53ntd6izcen9/tanzlied.musicxml",
