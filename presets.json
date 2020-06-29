@@ -218,6 +218,10 @@
 "link": "https://dl.dropbox.com/s/piofgivcqzjcga8/diesbildnis.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Do-Re-Mi (Rodgers & Hammerstein)", "shortcut": "doremi",
+"link": "https://dl.dropbox.com/s/h5yhru9ueh13t4y/Do-Re-Mi.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Donde lieta usci (Puccini)", "shortcut": "donde",
 "link": "https://dl.dropbox.com/s/6jmi7os67vua2vz/donde.musicxml",
 "lyrics": "","tracer":"","pedal":0.2},
@@ -225,9 +229,9 @@
 {"name": "Donne mie (Mozart)", "shortcut": "donnemie",
 "link": "https://dl.dropbox.com/s/41qhpd0ooaaz5zx/donnemie.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
-
-{"name": "Do-Re-Mi (Rodgers & Hammerstein)", "shortcut": "doremi",
-"link": "https://dl.dropbox.com/s/h5yhru9ueh13t4y/Do-Re-Mi.musicxml",
+      
+{"name": "Dove sono (Mozart)", "shortcut": "dovesono",
+"link": "https://dl.dropbox.com/s/dusxu8g6zxplgfr/dovesono.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Durch Zärtlichkeit (Mozart)", "shortcut": "durch",
@@ -245,6 +249,10 @@
 {"name": "È sogno? (Verdi)", "shortcut": "sogno",
 "link": "https://dl.dropbox.com/s/ao70zv1m4vaubde/sogno.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "E Susanna non vien!...Dove sono (Mozart)", "shortcut": "esusanna",
+"link": "https://dl.dropbox.com/s/dusxu8g6zxplgfr/dovesono.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Edelweiss (Rodgers & Hammerstein)", "shortcut": "edel",
 "link": "https://dl.dropbox.com/s/1z4t8pvlnytpjj5/Edelweiss.musicxml",
