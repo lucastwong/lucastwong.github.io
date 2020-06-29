@@ -92,6 +92,10 @@
 {"name": "C'est l'extase langoureuse (Debussy)", "shortcut": "extase",
 "link": "https://dl.dropbox.com/s/p28xoto12bbt4c8/extase.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
+
+{"name": "C'est des contrebandiers...Je dis que rien ne m'épouvante (Bizet)", "shortcut": "jedis",
+"link": "hhttps://dl.dropbox.com/s/vvuj5n3ut115wen/jedis.musicxml",
+"lyrics": "","tracer":"","pedal":0.5},
       
 {"name": "Cäcilie (Richard Strauss)", "shortcut": "cacilie",
 "link": "https://dl.dropbox.com/s/3qkw4nh7s7fo5bd/cacilie.musicxml",
@@ -630,6 +634,10 @@
 "link": "https://dl.dropbox.com/s/e4mtumz7vzvh4pz/quandomenvo.musicxml",
 "lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Quando rapito in estasi (Donizetti)", "shortcut": "regnava",
+"link": "https://dl.dropbox.com/s/nw65bulb2wbasus/lucia.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Questo amor (Puccini)", "shortcut": "questoamor",
 "link": "https://dl.dropbox.com/s/tiew4ovxoez5hot/questo2.musicxml",
 "lyrics": "","tracer":"","pedal":0.5},
@@ -637,6 +645,10 @@
 {"name": "Recondita armonia (Puccini)", "shortcut": "recondita",
 "link": "https://dl.dropbox.com/s/zno26ist4bg5srw/recondita.musicxml",
 "lyrics": "","tracer":"","pedal":0.5},
+      
+{"name": "Regnava nel silenzio...Quando rapito in estasi (Donizetti)", "shortcut": "regnava",
+"link": "https://dl.dropbox.com/s/nw65bulb2wbasus/lucia.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Rivolgete a lui lo squardo (Mozart)", "shortcut": "rivo",
 "link": "https://dl.dropbox.com/s/qzxuki4nhmv430o/rivo.musicxml",
