@@ -25,6 +25,10 @@
 "link": "https://dl.dropbox.com/s/pb52ivhclyc62ei/soleil.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Ah! Non credea mirarti (Bellini)", "shortcut": "noncredea",
+"link": "https://dl.dropbox.com/s/1kwz5qf8d1r4h2h/ahnoncredea.musicxml",
+"lyrics": "","tracer":"","pedal":0.25},
+      
 {"name": "Ah! per sempre (Bellini)", "shortcut": "ahper",
 "link": "https://dl.dropbox.com/s/ui733l9cyw8i0hj/ahper.musicxml",
 "lyrics": "","tracer":"","pedal":0.5},
