@@ -172,7 +172,7 @@
       
 {"name": "Czardas (Monti)","shortcut": "monti",
 "link": "https://dl.dropbox.com/s/apkn94er60ebu1k/monti.musicxml",
-"lyrics": "","tracer":"","pedal":0.1}, 
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/montimap.json","tracer":"","pedal":0.1}, 
       
 {"name": "Da geh ich zu Maxim (Lehar)", "shortcut": "dageh",
 "link": "https://dl.dropbox.com/s/7n4tgt32odr8o1e/ich.musicxml",
