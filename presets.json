@@ -174,8 +174,12 @@
 "link": "https://dl.dropbox.com/s/4e7ads2cyp8o2xi/cruda.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
-{"name": "Czardas (Monti)","shortcut": "monti",
+{"name": "Czardas - with fast section in 2 (Monti)","shortcut": "monti",
 "link": "https://dl.dropbox.com/s/apkn94er60ebu1k/monti.musicxml",
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/montimap.json","tracer":"","pedal":0.1}, 
+      
+{"name": "Czardas - with fast section in 1 (Monti)","shortcut": "monti2",
+"link": "https://dl.dropbox.com/s/tdtx65orbwd3n19/monti2.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/montimap.json","tracer":"","pedal":0.1}, 
       
 {"name": "Da geh ich zu Maxim (Lehar)", "shortcut": "dageh",
