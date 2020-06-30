@@ -834,6 +834,10 @@
 "link": "https://dl.dropbox.com/s/7un3aax8uk53qet/twinkle.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/twinkle.json","tracer":"","pedal":0.1},     
       
+{"name": "Un bel dì vedremo (Puccini)", "shortcut": "unbeldi",
+"link": "https://dl.dropbox.com/s/k7zq7cvbz5xrcub/unbeldi.musicxml",
+"lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Un'aura amorosa (Mozart)", "shortcut": "aura",
 "link": "https://dl.dropbox.com/s/o1uqdvvq3kj4mn3/aura.musicxml",
 "lyrics": "","tracer":"","pedal":0.2},
