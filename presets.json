@@ -574,6 +574,10 @@
 "link": "https://dl.dropbox.com/s/d48zbdwlu84tvqa/nothing.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "O Canada (Calixa Lavallée)", "shortcut": "ocanada",
+"link": "https://dl.dropbox.com/s/aa1pjmco4csmbcy/ocanada.musicxml",
+"lyrics": "","tracer":"","pedal":0.25},
+      
 {"name": "O du mein holder Abendstern (Wagner)", "shortcut": "odumein",
 "link": "https://dl.dropbox.com/s/iwi6jsrvo9l7310/odumein.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
