@@ -382,6 +382,10 @@
 "link": "https://dl.dropbox.com/s/pncnvk15irmw7yh/indiesen.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "In quali eccessi...Mi tradi (Mozart)", "shortcut": "mitradi",
+"link": "https://dl.dropbox.com/s/3uktjg9ajnlbw71/mitradi.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "In quelle trine morbide (Puccini)", "shortcut": "inquelle",
 "link": "https://dl.dropbox.com/s/0qy3vh5nudqvwh3/inquelle.musicxml",
 "lyrics": "","tracer":"","pedal":0.5},
@@ -541,6 +545,10 @@
 {"name": "Mein Sehnen, mein Wähnen (Korngold)", "shortcut": "pierrot",
 "link": "https://dl.dropbox.com/s/9dj53ntd6izcen9/tanzlied.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "Mi tradi (Mozart)", "shortcut": "mitradi",
+"link": "https://dl.dropbox.com/s/3uktjg9ajnlbw71/mitradi.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Minuet in G BWV anh 114 (Bach)", "shortcut": "114",
 "link": "https://dl.dropbox.com/s/dode14yaz9isybo/114.musicxml",
