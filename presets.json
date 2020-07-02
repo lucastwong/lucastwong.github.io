@@ -177,6 +177,10 @@
 {"name": "Comme une pâle fleur (Thomas)","shortcut": "pale",
 "link": "https://dl.dropbox.com/s/feu968dsyn7rx3a/pale2.musicxml",
 "lyrics": "","tracer":"","pedal":0.25},
+
+{"name": "Composer's aria (Richard Strauss)","shortcut": "composer",
+{"link": "https://dl.dropbox.com/s/1nj8rf370833e5x/composer.musicxml",
+"lyrics": "","tracer":"","pedal":0.5},
       
 {"name": "Concertino for Clarinet Op. 26 (Weber)","shortcut": "concertino",
 "link": "https://dl.dropbox.com/s/xhpillbwcgql6hz/weber.musicxml",
@@ -789,6 +793,10 @@
 {"name": "Se tu m'ami (Pergolesi)", "shortcut": "setu",
 "link": "https://dl.dropbox.com/s/q1dod9zxtbr1rxx/setu.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Sein wir wieder gut (Richard Strauss)","shortcut": "composer2",
+{"link": "https://dl.dropbox.com/s/1nj8rf370833e5x/composer.musicxml",
+"lyrics": "","tracer":"","pedal":0.5},
       
 {"name": "September (Maurice White, Al McKay, and Allee Willis)", "shortcut": "sept",
 "link": "https://dl.dropbox.com/s/ab94amkea1o9u1z/september.musicxml",
