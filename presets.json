@@ -570,6 +570,10 @@
 "link": "https://dl.dropbox.com/s/h086fkzb0910xc3/Minuet116.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Mir ist die Ehre widerfahren - aria cut (Richard Strauss)", "shortcut": "miristdie",
+"link": "https://dl.dropbox.com/s/mk2u8otstnplcc2/presentation.musicxml",
+"lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Musetta's Waltz (Puccini)", "shortcut": "musetta",
 "link": "https://dl.dropbox.com/s/e4mtumz7vzvh4pz/quandomenvo.musicxml",
 "lyrics": "","tracer":"","pedal":0.5},      
@@ -705,6 +709,10 @@
 {"name": "Prendi, per me sei libero (Donizetti)", "shortcut": "prendi",
 "link": "https://dl.dropbox.com/s/o4ytcdtue4lv83f/prendi.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "Presentation of the Rose - aria cut (Richard Strauss)", "shortcut": "presentation",
+"link": "https://dl.dropbox.com/s/mk2u8otstnplcc2/presentation.musicxml",
+"lyrics": "","tracer":"","pedal":0.5},
 
 {"name": "Prologue from I Pagliacci (Leoncavallo)", "shortcut": "sipuo",
 "link": "https://dl.dropbox.com/s/1xooon2yk5c5zya/sipuo.musicxml",
