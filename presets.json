@@ -718,6 +718,10 @@
 "link": "https://dl.dropbox.com/s/nw65bulb2wbasus/lucia.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Quel guardo, il cavaliere...so anch'io la virtù magica (Donizetti)", "shortcut": "quel",
+"link": "https://dl.dropbox.com/s/dv94uv7tci2jshc/dorina.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Questo amor (Puccini)", "shortcut": "questoamor",
 "link": "https://dl.dropbox.com/s/tiew4ovxoez5hot/questo2.musicxml",
 "lyrics": "","tracer":"","pedal":0.5},
@@ -797,6 +801,10 @@
 {"name": "Smoke Gets in Your Eyes (Jerome Kern)", "shortcut": "smoke",
 "link": "https://dl.dropbox.com/s/1jy86oswdz6jev9/SmokeGets.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
+
+{"name": "So anch'io la virtù magica (Donizetti)", "shortcut": "soanchio",
+"link": "https://dl.dropbox.com/s/dv94uv7tci2jshc/dorina.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Sois immobile (Rossini)", "shortcut": "sois",
 "link": "https://dl.dropbox.com/s/ralt0qvmkekp876/sois.musicxml",
