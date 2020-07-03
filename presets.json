@@ -17,6 +17,10 @@
 "link": "https://dl.dropbox.com/s/5us2cwnr72lovpe/addiopassato.musicxml",
 "lyrics": "","tracer":"","pedal":0.25},
       
+{"name": "Ah, fors'è lui...Sempre libera (Verdi)", "shortcut": "strano1",
+"link": "https://dl.dropbox.com/s/4g2xmbgf1bzq3b1/semprelibera.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Ah, fuggi il traditor (Mozart)", "shortcut": "ahfuggi",
 "link": "https://dl.dropbox.com/s/4m02vd5fgxcewnm/fuggi.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
@@ -281,6 +285,10 @@
 {"name": "È sogno? (Verdi)", "shortcut": "sogno",
 "link": "https://dl.dropbox.com/s/ao70zv1m4vaubde/sogno.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "È strano!...Ah, fors'è lui...Sempre libera (Verdi)", "shortcut": "strano1",
+"link": "https://dl.dropbox.com/s/4g2xmbgf1bzq3b1/semprelibera.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "E Susanna non vien!...Dove sono (Mozart)", "shortcut": "esusanna",
 "link": "https://dl.dropbox.com/s/dusxu8g6zxplgfr/dovesono.musicxml",
@@ -805,6 +813,10 @@
 {"name": "Sein wir wieder gut (Richard Strauss)","shortcut": "composer2",
 "link": "https://dl.dropbox.com/s/1nj8rf370833e5x/composer.musicxml",
 "lyrics": "","tracer":"","pedal":0.5},
+      
+{"name": "Sempre libera (Verdi)", "shortcut": "strano1",
+"link": "https://dl.dropbox.com/s/4g2xmbgf1bzq3b1/semprelibera.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "September (Maurice White, Al McKay, and Allee Willis)", "shortcut": "sept",
 "link": "https://dl.dropbox.com/s/ab94amkea1o9u1z/september.musicxml",
