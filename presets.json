@@ -81,6 +81,10 @@
 "link": "https://dl.dropbox.com/s/rtaqslr4je88oep/aubord.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Audition aria - Spiel ich die Unschuld vom Lande (Johann Strauss Jr)", "shortcut": "spielich",
+"link": "https://dl.dropbox.com/s/y58cxvxke53s63z/spielich2.musicxml",
+"lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Avant de quitter ces lieux (Gounod)", "shortcut": "avant",
 "link": "https://dl.dropbox.com/s/6hmrrxuqozhqedo/valentin.musicxml",
 "lyrics": "","tracer":"","pedal":0.2},
@@ -881,6 +885,10 @@
 {"name": "Songs of Travel (Vaughan Williams)", "shortcut": "songsoftravel",
 "link": "https://dl.dropbox.com/s/gt3683ac92lz6uh/songsoftravel.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Spiel ich die Unschuld vom Lande (Johann Strauss Jr)", "shortcut": "spielich",
+"link": "https://dl.dropbox.com/s/y58cxvxke53s63z/spielich2.musicxml",
+"lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Stride la vampa (Verdi)", "shortcut": "stride",
 "link": "https://dl.dropbox.com/s/3tiji0jkvybjc4h/stride.musicxml",
