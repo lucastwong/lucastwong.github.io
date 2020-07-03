@@ -150,6 +150,10 @@
 "link": "https://dl.dropbox.com/s/pefpw90mlhzvp4j/chegelida.musicxml",
 "lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/chegelida.json","tracer":"","pedal":0.3},
 
+{"name": "Chacun le sait (Donizetti)", "shortcut": "chacunlesait",
+"link": "https://dl.dropbox.com/s/ehm8kenj2f4mpsc/chacunlesait.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Chi il bel sogno (Puccini)", "shortcut": "chiil",
 "link": "https://dl.dropbox.com/s/5ks2sp7q6k4rs3k/chiil.musicxml",
 "lyrics": "","tracer":"","pedal":0.25},
