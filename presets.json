@@ -940,7 +940,7 @@
       
 {"name": "The Star-Spangled Banner (John Stafford Smith)", "shortcut": "starsp",
 "link": "https://dl.dropbox.com/s/70aislvedb4glh9/The_Star_Spangled_Banner.musicxml",
-"lyrics": "","tracer":"","pedal":0.5},
+"lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/starmap.json","tracer":"","pedal":0.5},
       
 {"name": "To a Wild Rose - accompaniment (MacDowell)", "shortcut": "wildrose",
 "link": "https://dl.dropbox.com/s/il3p91ggyowwpla/To_A_Wild_Rose.musicxml",
