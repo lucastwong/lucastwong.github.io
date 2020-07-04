@@ -438,6 +438,10 @@
 "link": "https://dl.dropbox.com/s/6l88oq8fib0ywpm/inuomini.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Ingrato Polinesso!...Neghittosi or voi che fate? (Handel)", "shortcut": "negh2",
+"link": "https://dl.dropbox.com/s/65ucvxtx2yzzqr3/negh.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Je dis que rien ne m'épouvante (Bizet)", "shortcut": "jedis",
 "link": "https://dl.dropbox.com/s/vvuj5n3ut115wen/jedis.musicxml",
 "lyrics": "","tracer":"","pedal":0.5},
@@ -629,6 +633,10 @@
 {"name": "Nanetta's aria (Verdi)", "shortcut": "sulfil",
 "link": "https://dl.dropbox.com/s/s74npkqz56b2jsp/sulfil.musicxml",
 "lyrics": "","tracer":"","pedal":0.2},
+      
+{"name": "Neghittosi or voi che fate? (Handel)", "shortcut": "negh",
+"link": "https://dl.dropbox.com/s/65ucvxtx2yzzqr3/negh.musicxml",
+"lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "No word from Tom (Stravinsky)", "shortcut": "nwft",
 "link": "https://dl.dropbox.com/s/e6uhaih4yt9bgx6/nwft.musicxml",
