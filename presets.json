@@ -946,6 +946,10 @@
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee5.xml",
 "lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Tacea la notte placida (Verdi)", "shortcut": "tacea",
+"link": "https://dl.dropbox.com/s/bq74jo7i92vjix9/tacea.musicxml",
+"lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "The Entertainer (Joplin)", "shortcut": "enter",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Entertainer.xml",
 "lyrics": "","tracer":"","pedal":0.1},
