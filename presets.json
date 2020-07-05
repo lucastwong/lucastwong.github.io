@@ -322,6 +322,10 @@
 "link": "https://dl.dropbox.com/s/u7wk0r6h54nohki/Du_bist_der_Lenz.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Du gai soleil (Massenet)", "shortcut": "dugai",
+"link": "https://dl.dropbox.com/s/hc0fp6rtbqw7jsv/dugai2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Durch Zärtlichkeit (Mozart)", "shortcut": "durch",
 "link": "https://dl.dropbox.com/s/xn3b3rc5gpi877f/durch.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
