@@ -93,6 +93,10 @@
 "link": "https://dl.dropbox.com/s/rsysxzdkoy82hs0/aprite.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Arrière! Je rechauffe les bons (Ravel)", "shortcut": "firearia2",
+"link": "https://dl.dropbox.com/s/mwk66r7nlhhnvy4/ravel.musicxml",
+"lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Au bord de l'eau (Fauré)", "shortcut": "aubord",
 "link": "https://dl.dropbox.com/s/rtaqslr4je88oep/aubord.musicxml",
 "lyrics": "","tracer":"","pedal":0.3},
@@ -385,6 +389,10 @@
 {"name": "Fin ch'han dal vino (Mozart)", "shortcut": "fin",
 "link": "https://dl.dropbox.com/s/5qcm9xkzysekaqo/fin.musicxml",
 "lyrics": "","tracer":"","pedal":0.5},
+      
+{"name": "Fire aria (Ravel)", "shortcut": "firearia",
+"link": "https://dl.dropbox.com/s/mwk66r7nlhhnvy4/ravel.musicxml",
+"lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Ford's aria (Verdi)", "shortcut": "ford",
 "link": "https://dl.dropbox.com/s/ao70zv1m4vaubde/sogno.musicxml",
