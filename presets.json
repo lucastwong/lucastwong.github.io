@@ -1108,6 +1108,10 @@
      
 {"name": "Vocalise - accompaniment (Rachmaninoff)", "shortcut": "vocalise",
 "link": "https://dl.dropbox.com/s/0lrcai1blh639hg/vocalise.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
+
+{"name": "Vocalise (Rachmaninoff)", "shortcut": "vocalise",
+"link": "https://dl.dropbox.com/s/0lrcai1blh639hg/vocalise.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Votre Toast (Bizet)", "shortcut": "votre",
