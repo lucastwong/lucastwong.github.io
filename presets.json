@@ -184,7 +184,7 @@
       
 {"name": "Chinois Tambourin (Kreisler)","shortcut": "chinois",
 "link": "https://dl.dropbox.com/s/cssf8ku4h92hz9k/tambourin.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Climb Ev'ry Mountain (Rogers & Hammerstein)", "shortcut": "climb",
 "link": "https://dl.dropbox.com/s/h0aylnydixqr2lx/ClimbEvryMountain.musicxml",
@@ -436,7 +436,7 @@
       
 {"name": "Harpsichord Concerto in D minor BWV 1052 (Bach)", "shortcut": "1052",
 "link": "https://dl.dropbox.com/s/hjziw8k8as1amdk/1052.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"3","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Humoresque - accompaniment (Dvořák)", "shortcut": "humor",
 "link": "https://dl.dropbox.com/s/74kw52qvsq3bv61/humor.musicxml",
@@ -812,7 +812,7 @@
       
 {"name": "Prelude in G minor (Rachmaninoff)", "shortcut": "rachprelude",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/RachPrelude.xml",
-"category":"1","lyrics": "","tracer":"","pedal":0.3},
+"category":"3","lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Prendi, per me sei libero (Donizetti)", "shortcut": "prendi",
 "link": "https://dl.dropbox.com/s/o4ytcdtue4lv83f/prendi.musicxml",
@@ -1024,7 +1024,7 @@
       
 {"name": "Twinkle, Twinkle, Little Star Variations (Suzuki)", "shortcut": "twinkle",
 "link": "https://dl.dropbox.com/s/7un3aax8uk53qet/twinkle.musicxml",
-"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/twinkle.json","tracer":"","pedal":0.1},     
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/twinkle.json","tracer":"","pedal":0.1},     
       
 {"name": "Un bel dì vedremo (Puccini)", "shortcut": "unbeldi",
 "link": "https://dl.dropbox.com/s/k7zq7cvbz5xrcub/unbeldi.musicxml",
