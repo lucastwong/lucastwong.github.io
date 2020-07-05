@@ -410,6 +410,10 @@
 "link": "https://dl.dropbox.com/s/y57zas2bug4n6vl/gossec2.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gossec.json","tracer":"","pedal":0.1},
       
+{"name": "Gavotte: Obeissons quand leur voix appelle (Massenet)", "shortcut": "manongavotte",
+"link": "https://dl.dropbox.com/s/hjjcmkz3ktnczu7/manongavotte2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Gavotte (Popper)", "shortcut": "popper",
 "link": "https://dl.dropbox.com/s/v2o1q3ac0397n31/popper.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
@@ -757,7 +761,11 @@
 {"name": "O zittre nicht (Mozart)", "shortcut": "ozittre",
 "link": "https://dl.dropbox.com/s/261p82i5wxms8xi/ozittre.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
-         
+       
+{"name": "Obeissons quand leur voix appelle (Massenet)", "shortcut": "manongavotte2",
+"link": "https://dl.dropbox.com/s/hjjcmkz3ktnczu7/manongavotte2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Oh, What a Beautiful Mornin' (Rodgers & Hammerstein)", "shortcut": "brian",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Oh%20what%20a%20beautiful%20morning.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
