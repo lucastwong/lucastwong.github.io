@@ -430,6 +430,10 @@
 "link": "https://dl.dropbox.com/s/vrtf5fwca9r8gzh/distance.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Gold is a Fine Thing (Moore)", "shortcut": "silver",
+"link": "https://dl.dropbox.com/s/en1h6dxgh0igiro/silveraria.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Habanera (Bizet)", "shortcut": "haba",
 "link": "https://dl.dropbox.com/s/o3kdv149qup0tfk/haba.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -929,6 +933,10 @@
 {"name": "Signore ascolta (Puccini)", "shortcut": "Signore",
 "link": "https://dl.dropbox.com/s/b6gloedrkpvvfh9/Signore_ascolta.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "Silver Aria (Moore)", "shortcut": "silver",
+"link": "https://dl.dropbox.com/s/en1h6dxgh0igiro/silveraria.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
 
 {"name": "Sixteen Going On Seventeen (Rodgers & Hammerstein)", "shortcut": "16",
 "link": "https://dl.dropbox.com/s/j34f2cc6sx5zb8l/Sixteen_Going_On_Seventeen.musicxml",
