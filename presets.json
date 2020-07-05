@@ -334,6 +334,10 @@
 "link": "https://dl.dropbox.com/s/dusxu8g6zxplgfr/dovesono.musicxml",
 "lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Eccomi in lieta vesta...O quante volte (Bellini)", "shortcut": "eccomi",
+"link": "https://dl.dropbox.com/s/w932tz746yt00im/ohquante.musicxml",
+"lyrics": "","tracer":"","pedal":0.25},
+      
 {"name": "Edelweiss (Rodgers & Hammerstein)", "shortcut": "edel",
 "link": "https://dl.dropbox.com/s/1z4t8pvlnytpjj5/Edelweiss.musicxml",
 "lyrics": "","tracer":"https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/edelmap.json","pedal":0.5},
@@ -709,6 +713,10 @@
 {"name": "Ô Nadir (Bizet)", "shortcut": "nadir2",
 "link": "https://dl.dropbox.com/s/h6g690587awhcrn/nadir.musicxml",
 "lyrics": "","tracer":"","pedal":0.4},
+      
+{"name": "O quante volte (Bellini)", "shortcut": "quantevolte",
+"link": "https://dl.dropbox.com/s/w932tz746yt00im/ohquante.musicxml",
+"lyrics": "","tracer":"","pedal":0.25},
       
 {"name": "O sainte médaille (Gounod)", "shortcut": "avant",
 "link": "https://dl.dropbox.com/s/6hmrrxuqozhqedo/valentin.musicxml",
