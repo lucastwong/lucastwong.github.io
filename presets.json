@@ -294,6 +294,10 @@
 "link": "https://dl.dropbox.com/s/neih9xgwiu9j1d4/dehvieni.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Deh! Proteggimi, O Dio! (Bellini)", "shortcut": "sgombra",
+"link": "https://dl.dropbox.com/s/l8yx93twaxbsrc8/dehpro.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Dein ist Mein Ganzes Herz (Lehár)", "shortcut": "dein",
 "link": "https://dl.dropbox.com/s/eet5z4r6l6dnpto/dein.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/dein.json","tracer":"","pedal":0.3},
@@ -981,6 +985,10 @@
 {"name": "September (Maurice White, Al McKay, and Allee Willis)", "shortcut": "sept",
 "link": "https://dl.dropbox.com/s/ab94amkea1o9u1z/september.musicxml",
 "category":"1","lyrics": "", "tracer":"","pedal":0.1},
+      
+{"name": "Sgombra è la sacra selva...Deh! Proteggimi, O Dio! (Bellini)", "shortcut": "sgombra",
+"link": "https://dl.dropbox.com/s/l8yx93twaxbsrc8/dehpro.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Si, corre dal notaio (Puccini)", "shortcut": "notaio",
 "link": "https://dl.dropbox.com/s/0pivoeo5cym3npi/notaio.musicxml",
