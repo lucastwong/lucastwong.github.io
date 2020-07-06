@@ -1214,6 +1214,10 @@
 "link": "https://dl.dropbox.com/s/phzvzgcgndfeso7/whentheair.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Wie Du warst (Richard Strauss)", "shortcut": "wiedu",
+"link": "https://dl.dropbox.com/s/fxfj2h21t11z4zk/wiedu.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.25},
+      
 {"name": "Winterstürme wichen dem Wonnemond (Wagner)", "shortcut": "winters",
 "link": "https://dl.dropbox.com/s/uq4smaqdv9hw54n/wagner.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.7},
