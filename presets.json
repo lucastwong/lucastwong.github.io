@@ -514,6 +514,10 @@
 "link": "https://dl.dropbox.com/s/ce15eh8qrsloxky/ilestdoux2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Il faut partir (Donizetti)", "shortcut": "ilfaut",
+"link": "https://dl.dropbox.com/s/82e7aswb8j5gw11/ilfaut.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "In diesen heil'gen Hallen (Mozart)", "shortcut": "indiesen",
 "link": "https://dl.dropbox.com/s/pncnvk15irmw7yh/indiesen.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
