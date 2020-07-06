@@ -582,6 +582,10 @@
 "link": "https://dl.dropbox.com/s/o3kdv149qup0tfk/haba.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "L'amour est une vertu rare (Massenet)", "shortcut": "lamourest",
+"link": "https://dl.dropbox.com/s/oj0hplgx7ptzw9k/lamourestune.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "L'anima ho stanca (Cilea)", "shortcut": "lanimaho",
 "link": "https://dl.dropbox.com/s/hglhfhggzm2m0g9/lanima.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.8},
