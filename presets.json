@@ -157,6 +157,10 @@
 "link": "https://dl.dropbox.com/s/3qkw4nh7s7fo5bd/cacilie.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Care compagne (Bellini)", "shortcut": "carecom",
+"link": "https://dl.dropbox.com/s/5z6p4mr1577mh7r/carecom.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Caro mio ben (Giordani)","shortcut": "CaroMio",
 "link": "https://dl.dropbox.com/s/93b9x2ocotmmqta/caro.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/caromioben.json",
