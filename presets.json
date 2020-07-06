@@ -306,6 +306,14 @@
 "link": "https://dl.dropbox.com/s/h5yhru9ueh13t4y/Do-Re-Mi.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Doll song - in 2 (Offenbach)", "shortcut": "doll1",
+"link": "https://dl.dropbox.com/s/96el377k0d375uz/doll1.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Doll song - in 6 (Offenbach)", "shortcut": "doll2",
+"link": "https://dl.dropbox.com/s/2d9t6pv1fmn3gql/doll2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Donde lieta usci (Puccini)", "shortcut": "donde",
 "link": "https://dl.dropbox.com/s/6jmi7os67vua2vz/donde.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
@@ -609,6 +617,14 @@
 {"name": "Lensky's Aria (Tchaikovsky)", "shortcut": "lensky",
 "link": "https://dl.dropbox.com/s/67ofh7mtbrk6c9t/lensky.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
+{"name": "Les oiseaux dans la charmille - in 2 (Offenbach)", "shortcut": "doll1",
+"link": "https://dl.dropbox.com/s/96el377k0d375uz/doll1.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Les oiseaux dans la charmille - in 6 (Offenbach)", "shortcut": "doll2",
+"link": "https://dl.dropbox.com/s/2d9t6pv1fmn3gql/doll2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},  
       
 {"name": "Libiamo (Verdi)", "shortcut": "libiamo",
 "link": "https://dl.dropbox.com/s/5js02oczatimcap/libiamo.musicxml",
