@@ -838,6 +838,10 @@
 "link": "https://dl.dropbox.com/s/w1v6eres8ivkifm/OutOfMyDreams.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Padre, germani, addio! (Mozart)", "shortcut": "padre",
+"link": "https://dl.dropbox.com/s/1h8xwxggwbscu4p/padre2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Papagena, Papagena! (Mozart)", "shortcut": "papa",
 "link": "https://dl.dropbox.com/s/kercqfphlhp8ntp/papa.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -901,6 +905,10 @@
 {"name": "Prologue from I Pagliacci (Leoncavallo)", "shortcut": "sipuo",
 "link": "https://dl.dropbox.com/s/1xooon2yk5c5zya/sipuo.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "Quando avran fine omai...Padre, germani, addio! (Mozart)", "shortcut": "padre2",
+"link": "https://dl.dropbox.com/s/1h8xwxggwbscu4p/padre2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Quando m'en vo' (Puccini)", "shortcut": "qmv",
 "link": "https://dl.dropbox.com/s/e4mtumz7vzvh4pz/quandomenvo.musicxml",
