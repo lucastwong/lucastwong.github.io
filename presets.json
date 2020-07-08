@@ -318,6 +318,10 @@
 "link": "https://dl.dropbox.com/s/wy5dw9wz3yej7i5/dichterliebe.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Die Wiener Herrn (Richard Strauss)", "shortcut": "fiak",
+"link": "https://dl.dropbox.com/s/33u4o6tpf6wf9ld/fiak.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.25},
+      
 {"name": "Dies Bildnis (Mozart)", "shortcut": "diesbildnis",
 "link": "https://dl.dropbox.com/s/piofgivcqzjcga8/diesbildnis.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -430,6 +434,10 @@
 "link": "https://dl.dropbox.com/s/k7gztpaa7vggs7d/home.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
 
+{"name": "Fiakermilli's Aria (Richard Strauss)", "shortcut": "fiak",
+"link": "https://dl.dropbox.com/s/33u4o6tpf6wf9ld/fiak.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.25},
+      
 {"name": "Fin ch'han dal vino (Mozart)", "shortcut": "fin",
 "link": "https://dl.dropbox.com/s/5qcm9xkzysekaqo/fin.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
