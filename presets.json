@@ -966,6 +966,10 @@
 "link": "https://dl.dropbox.com/s/47pz9lo59v7643w/Camille_Saint-Sans_-_Romance.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Ruhe sanft - abridged version (Mozart)", "shortcut": "ruhe2",
+"link": "https://dl.dropbox.com/s/pa9913ymd9b80qh/ruhesanft.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Sakura (Traditional)", "shortcut": "sakura",
 "link": "https://dl.dropbox.com/s/sjic1unt3t155a5/Sakura.musicxml",
 "category":"4","lyrics": "","tracer":"","pedal":0.1},
