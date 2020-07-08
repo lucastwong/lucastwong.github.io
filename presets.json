@@ -390,6 +390,10 @@
 "link": "https://dl.dropbox.com/s/a55z2hn6l2d2fi2/GRIEG.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
 
+{"name": "Einsam in trüben Tagen (Wagner)", "shortcut": "einsam",
+"link": "https://dl.dropbox.com/s/s7pw2h5k34tk6xp/einsamin.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
 {"name": "Elle a fui, la tourterelle (Offenbach)", "shortcut": "ellea",
 "link": "https://dl.dropbox.com/s/e5ajtmsc9u6ovzk/ellea.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
