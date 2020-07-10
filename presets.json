@@ -886,6 +886,10 @@
 "link": "https://dl.dropbox.com/s/kercqfphlhp8ntp/papa.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Par le rang et par l'opulence...Salut à la France! (Donizetti)", "shortcut": "parle",
+"link": "https://dl.dropbox.com/s/r1qqbgyn1khdqh5/parlerang2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "People Will Say We're In Love (Rodgers & Hammerstein)", "shortcut": "peoplewill",
 "link": "https://dl.dropbox.com/s/vsjmfolqhi9ctyc/PeopleWillSay.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -1001,7 +1005,11 @@
 {"name": "Sakura (Traditional)", "shortcut": "sakura",
 "link": "https://dl.dropbox.com/s/sjic1unt3t155a5/Sakura.musicxml",
 "category":"4","lyrics": "","tracer":"","pedal":0.1},
-
+      
+{"name": "Salut à la France! (Donizetti)", "shortcut": "salutfrance",
+"link": "https://dl.dropbox.com/s/r1qqbgyn1khdqh5/parlerang2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Salut d'amour (Elgar)", "shortcut": "salut",
 "link": "https://dl.dropbox.com/s/on9x5spxaszmz4c/salut.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.3},
