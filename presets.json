@@ -866,6 +866,10 @@
 "link": "https://dl.dropbox.com/s/rzqt90jdpzfrssb/moment.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Or sai chi l'onore (Mozart)", "shortcut": "orsai",
+"link": "https://dl.dropbox.com/s/8if4rmb62orzevm/orsai.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Out of My Dreams (Rodgers & Hammerstein)", "shortcut": "outof",
 "link": "https://dl.dropbox.com/s/w1v6eres8ivkifm/OutOfMyDreams.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
