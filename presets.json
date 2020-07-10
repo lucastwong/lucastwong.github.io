@@ -886,6 +886,10 @@
 "link": "https://dl.dropbox.com/s/w1v6eres8ivkifm/OutOfMyDreams.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Pace, pace mio Dio (Verdi)", "shortcut": "pacepace",
+"link": "https://dl.dropbox.com/s/ebu4jy0ta316r6d/pacepace.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Padre, germani, addio! (Mozart)", "shortcut": "padre",
 "link": "https://dl.dropbox.com/s/1h8xwxggwbscu4p/padre2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
