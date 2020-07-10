@@ -762,6 +762,10 @@
 "link": "https://dl.dropbox.com/s/mk2u8otstnplcc2/presentation.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Morrò, ma prima in grazia (Verdi)", "shortcut": "morroma",
+"link": "https://dl.dropbox.com/s/f1mjyulvaueqpwq/morroma.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Musetta's Waltz (Puccini)", "shortcut": "musetta",
 "link": "https://dl.dropbox.com/s/e4mtumz7vzvh4pz/quandomenvo.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},      
