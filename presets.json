@@ -694,6 +694,10 @@
 "link": "https://dl.dropbox.com/s/572f0xsz5jotufb/Le_Grillon.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Le veau d'or (Gounod)", "shortcut": "leveau",
+"link": "https://dl.dropbox.com/s/5xi9vgk22zfrxdk/Le_veau_d_or.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1}, 
+      
 {"name": "Lensky's Aria (Tchaikovsky)", "shortcut": "lensky",
 "link": "https://dl.dropbox.com/s/67ofh7mtbrk6c9t/lensky.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
