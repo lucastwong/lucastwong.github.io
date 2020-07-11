@@ -310,6 +310,10 @@
 "link": "https://dl.dropbox.com/s/eet5z4r6l6dnpto/dein.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/dein.json","tracer":"","pedal":0.3},
       
+{"name": "Dew Fairy's aria (Humperdinck)", "shortcut": "dew",
+"link": "https://dl.dropbox.com/s/05e6t57267vz339/wobinich.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Di Provenza (Verdi)", "shortcut": "provenza",
 "link": "https://dl.dropbox.com/s/7ccrehh3gylor8m/provenza.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
@@ -1305,6 +1309,10 @@
 {"name": "Winterstürme wichen dem Wonnemond (Wagner)", "shortcut": "winters",
 "link": "https://dl.dropbox.com/s/uq4smaqdv9hw54n/wagner.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.7},
+      
+{"name": "Wo bin ich? (Humperdinck)", "shortcut": "wobin",
+"link": "https://dl.dropbox.com/s/05e6t57267vz339/wobinich.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Ya vas lyublyu (Tchaikovsky)", "shortcut": "yavas",
 "link": "https://dl.dropbox.com/s/1cdnjn4lve9h8sv/yeletsky.musicxml",
