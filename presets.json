@@ -634,6 +634,10 @@
 "link": "https://dl.dropbox.com/s/hglhfhggzm2m0g9/lanima.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.8},
       
+{"name": "L'année, en vain chasse l'année (Debussy)", "shortcut": "lia",
+"link": "https://dl.dropbox.com/s/a5bcehck5tijxu0/lia.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5}, 
+      
 {"name": "L'ho perduta (Mozart)", "shortcut": "lho",
 "link": "https://dl.dropbox.com/s/vpk30ry5bxhtuuf/lho.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
@@ -697,6 +701,10 @@
 {"name": "Les oiseaux dans la charmille - in 6 (Offenbach)", "shortcut": "doll2",
 "link": "https://dl.dropbox.com/s/2d9t6pv1fmn3gql/doll2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},  
+      
+{"name": "Lia's aria (Debussy)", "shortcut": "lia",
+"link": "https://dl.dropbox.com/s/a5bcehck5tijxu0/lia.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},  
       
 {"name": "Libiamo (Verdi)", "shortcut": "libiamo",
 "link": "https://dl.dropbox.com/s/5js02oczatimcap/libiamo.musicxml",
