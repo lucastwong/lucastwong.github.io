@@ -430,6 +430,10 @@
 "link": "https://dl.dropbox.com/s/6obcpcwdynqbict/ernani.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Es gibt ein Reich (Richard Strauss)", "shortcut": "esgibt",
+"link": "https://dl.dropbox.com/s/emfb66abnvygo58/esgibt.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
 {"name": "Etude Op. 10, No. 1 (Chopin)", "shortcut": "chopin",
 "link": "https://dl.dropbox.com/s/ggc3dpjw87lje5g/Fredryk_Chopin_Etude_Op.10_No.1-2020.05.23.19.16.58.xml",
 "category":"3","lyrics": "","tracer":"","pedal":0.5},
