@@ -1345,6 +1345,10 @@
 {"name": "Wie Du warst (Richard Strauss)", "shortcut": "wiedu",
 "link": "https://dl.dropbox.com/s/fxfj2h21t11z4zk/wiedu.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25},
+     
+{"name": "Wings (Carl Strommen)", "shortcut": "wings",
+"link": "https://dl.dropbox.com/s/65d671ksn0qzn71/Wings-2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Winterstürme wichen dem Wonnemond (Wagner)", "shortcut": "winters",
 "link": "https://dl.dropbox.com/s/uq4smaqdv9hw54n/wagner.musicxml",
