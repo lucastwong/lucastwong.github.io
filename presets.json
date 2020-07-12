@@ -398,6 +398,10 @@
 "link": "https://dl.dropbox.com/s/dusxu8g6zxplgfr/dovesono.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Ebben! Ne andrò lontana (Catalani)", "shortcut": "ebben",
+"link": "https://dl.dropbox.com/s/0rc79y5eejjskq0/ebben.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
 {"name": "Eccomi in lieta vesta...O quante volte (Bellini)", "shortcut": "eccomi",
 "link": "https://dl.dropbox.com/s/w932tz746yt00im/ohquante.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25},
