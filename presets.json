@@ -29,6 +29,10 @@
 "link": "https://dl.dropbox.com/s/5wf00e0pn8inrvl/achichliebte.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Ach, istomilas ja gorem (Tchaikovsky)", "shortcut": "utzh2",
+"link": "https://dl.dropbox.com/s/k1hj7xu5divcpjh/utzh2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Ah! douce enfant (Massenet)", "shortcut": "ahdouce",
 "link": "https://dl.dropbox.com/s/2zpoln61ctmmwv6/ahdouce.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -1273,6 +1277,10 @@
 {"name": "Una voce poco fa (Rossini)", "shortcut": "unavoce",
 "link": "https://dl.dropbox.com/s/d0drh0biwbj4nhr/unavoce.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Utzh polnoch blizitsya...Ach, istomilas ja gorem (Tchaikovsky)", "shortcut": "utzh2",
+"link": "https://dl.dropbox.com/s/k1hj7xu5divcpjh/utzh2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Uzhel ta samaja Tatiana (Tchaikovsky)", "shortcut": "uzhel",
 "link": "https://dl.dropbox.com/s/gqrvhnpve3jzpyz/uzhel.musicxml",
