@@ -1034,6 +1034,10 @@
 "link": "https://dl.dropbox.com/s/tiew4ovxoez5hot/questo2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Qui la voce sua soave...Vien, diletto (Bellini)", "shortcut": "quilavoce",
+"link": "https://dl.dropbox.com/s/avtx82zfbq7nqb1/quilavoce.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Recondita armonia (Puccini)", "shortcut": "recondita",
 "link": "https://dl.dropbox.com/s/zno26ist4bg5srw/recondita.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
@@ -1269,6 +1273,10 @@
 {"name": "Va! Laisse couler mes larmes (Massenet)", "shortcut": "va",
 "link": "https://dl.dropbox.com/s/n9nvx6snzi2hmt5/va.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25},
+      
+{"name": "Vien, diletto (Bellini)", "shortcut": "quilavoce",
+"link": "https://dl.dropbox.com/s/avtx82zfbq7nqb1/quilavoce.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Vien, Leonora (Donizetti)", "shortcut": "vien",
 "link": "https://dl.dropbox.com/s/30rsdm3bcwezknr/vien.musicxml",
