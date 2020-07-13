@@ -658,6 +658,10 @@
 "link": "https://dl.dropbox.com/s/h6g690587awhcrn/nadir.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.4},
       
+{"name": "La calunnia (Rossini)", "shortcut": "calunnia",
+"link": "https://dl.dropbox.com/s/hig5ed9xnntxp0u/lacalunnia.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Là ci darem la mano (Mozart)", "shortcut": "LaCi",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
