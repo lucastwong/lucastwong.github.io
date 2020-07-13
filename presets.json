@@ -938,6 +938,10 @@
 "link": "https://dl.dropbox.com/s/kercqfphlhp8ntp/papa.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Papers! (Menotti)", "shortcut": "papers",
+"link": "https://dl.dropbox.com/s/83qq3yrmasj2tha/ToThis.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
 {"name": "Par le rang et par l'opulence...Salut à la France! (Donizetti)", "shortcut": "parle",
 "link": "https://dl.dropbox.com/s/r1qqbgyn1khdqh5/parlerang2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
@@ -1221,6 +1225,10 @@
 {"name": "To a Wild Rose - accompaniment (MacDowell)", "shortcut": "wildrose",
 "link": "https://dl.dropbox.com/s/il3p91ggyowwpla/To_A_Wild_Rose.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "To this we've come...Papers! (Menotti)", "shortcut": "papers",
+"link": "https://dl.dropbox.com/s/83qq3yrmasj2tha/ToThis.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "Tornami a vagheggiar (Handel)", "shortcut": "tornami",
 "link": "https://dl.dropbox.com/s/gl4l4kvfuzzx7pp/Alcina_Tornami_a_vagheggiar_Hndel.musicxml",
