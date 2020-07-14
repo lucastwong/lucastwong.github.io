@@ -286,6 +286,10 @@
 "link": "https://dl.dropbox.com/s/apkn94er60ebu1k/monti.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/montimap.json","tracer":"","pedal":0.1}, 
       
+{"name": "D'amor sull'ali rosee (Verdi)","shortcut": "damorsull",
+"link": "https://dl.dropbox.com/s/76pazbl9eqdqtq9/damorsull.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.25},
+      
 {"name": "D'Oreste, d'Ajace - with abridged recit. (Mozart)","shortcut": "oreste",
 "link": "https://dl.dropbox.com/s/3evct7iwt1wqiys/oreste.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
