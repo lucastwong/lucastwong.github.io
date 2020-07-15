@@ -838,6 +838,10 @@
 "link": "https://dl.dropbox.com/s/9dj53ntd6izcen9/tanzlied.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Meine Lippen sie küssen so heiss (Lehár)", "shortcut": "meinlippen",
+"link": "https://dl.dropbox.com/s/nutwgio64a4qeq3/meinlippen.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Mi tradi (Mozart)", "shortcut": "mitradi",
 "link": "https://dl.dropbox.com/s/3uktjg9ajnlbw71/mitradi.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
