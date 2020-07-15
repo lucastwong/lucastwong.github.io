@@ -454,6 +454,10 @@
 "link": "https://dl.dropbox.com/s/1b4z6gf24wpbd0s/emb.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Empio, dirò, tu sei (Handel)", "shortcut": "empiodiro",
+"link": "https://dl.dropbox.com/s/68s9l833kl24491/empio%20fixed.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "En proie à la tristesse (Rossini)", "shortcut": "enproie",
 "link": "https://dl.dropbox.com/s/k656bj8lla8idf9/enproie.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
