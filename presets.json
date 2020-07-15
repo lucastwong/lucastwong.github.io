@@ -758,6 +758,10 @@
 "link": "https://dl.dropbox.com/s/2d9t6pv1fmn3gql/doll2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},  
       
+{"name": "Letter Scene from Eugene Onegin - with cuts (Tchaikovsky)", "shortcut": "letterscene",
+"link": "https://dl.dropbox.com/s/52zmgnk08jat1rw/letter.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.25},  
+      
 {"name": "Lia's aria (Debussy)", "shortcut": "lia",
 "link": "https://dl.dropbox.com/s/a5bcehck5tijxu0/lia.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},  
@@ -1058,6 +1062,10 @@
 "link": "https://dl.dropbox.com/s/1xooon2yk5c5zya/sipuo.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Puskai pogibnu - with cuts (Tchaikovsky)", "shortcut": "letterscene",
+"link": "https://dl.dropbox.com/s/52zmgnk08jat1rw/letter.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.25}, 
+      
 {"name": "Quando avran fine omai...Padre, germani, addio! (Mozart)", "shortcut": "padre2",
 "link": "https://dl.dropbox.com/s/1h8xwxggwbscu4p/padre2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -1265,6 +1273,10 @@
 {"name": "The Star-Spangled Banner (John Stafford Smith)", "shortcut": "starsp",
 "link": "https://dl.dropbox.com/s/70aislvedb4glh9/The_Star_Spangled_Banner.musicxml",
 "category":"4","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/starmap.json","tracer":"","pedal":0.5},
+      
+{"name": "Tatiana's Letter Scene - with cuts (Tchaikovsky)", "shortcut": "letterscene",
+"link": "https://dl.dropbox.com/s/52zmgnk08jat1rw/letter.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.25}, 
       
 {"name": "To a Wild Rose - accompaniment (MacDowell)", "shortcut": "wildrose",
 "link": "https://dl.dropbox.com/s/il3p91ggyowwpla/To_A_Wild_Rose.musicxml",
