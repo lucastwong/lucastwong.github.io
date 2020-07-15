@@ -810,6 +810,10 @@
 "link": "https://dl.dropbox.com/s/snxe9od8m1o4zq0/marietta.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.7}, 
       
+{"name": "Me voici dans son boudoir (Thomas)", "shortcut": "mevoicidans",
+"link": "https://dl.dropbox.com/s/pz2fxfg8vju7or4/mevoici%20fixed.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1}, 
+      
 {"name": "Meditation from Thaïs (Massenet)", "shortcut": "thais",
 "link": "https://dl.dropbox.com/s/xrf7c4jx52h7mkz/Thais_Meditation.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/thais.json","tracer":"","pedal":0.5},
