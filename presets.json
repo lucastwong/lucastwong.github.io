@@ -918,6 +918,10 @@
 "link": "https://dl.dropbox.com/s/d48zbdwlu84tvqa/nothing.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Nun eilt herbei (Nicolai)", "shortcut": "nuneilt",
+"link": "https://dl.dropbox.com/s/gt8xpezogixi35s/nun.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "O Canada (Calixa Lavallée)", "shortcut": "ocanada",
 "link": "https://dl.dropbox.com/s/aa1pjmco4csmbcy/ocanada.musicxml",
 "category":"4","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/ocanadamap.json","tracer":"","pedal":0.25},
