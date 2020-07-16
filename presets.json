@@ -1233,7 +1233,11 @@
 {"name": "Si può? (Leoncavallo)", "shortcut": "sipuo",
 "link": "https://dl.dropbox.com/s/1xooon2yk5c5zya/sipuo.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
-
+      
+{"name": "Si, ritrovarla io giuro? (Rossini)", "shortcut": "sirit",
+"link": "https://dl.dropbox.com/s/83cr9zhmi63n6ya/sirit.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Siegmunds Liebeslied (Wagner)", "shortcut": "winters",
 "link": "https://dl.dropbox.com/s/uq4smaqdv9hw54n/wagner.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.7},
