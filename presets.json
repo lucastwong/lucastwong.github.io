@@ -1302,6 +1302,10 @@
 "link": "https://dl.dropbox.com/s/z7p61g69b4j7lk8/Summertime.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Svegliatevi nel core (Handel)", "shortcut": "sveg",
+"link": "https://dl.dropbox.com/s/faeb5r65nujs28o/sveg.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Symphony No. 5 - 1st mvt. (Beethoven)", "shortcut": "Bee5",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee5.xml",
 "category":"4","lyrics": "","tracer":"","pedal":0.3},
