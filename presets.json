@@ -862,6 +862,10 @@
 "link": "https://dl.dropbox.com/s/dprgjpzhbktzpjy/meinherr.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "Mein Herr und Gott (Wagner)", "shortcut": "meinherrundgott",
+"link": "https://dl.dropbox.com/s/93mx0inmc372gj2/Mein_Herr_und_Gott-Part.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Mein Sehnen, mein Wähnen (Korngold)", "shortcut": "pierrot",
 "link": "https://dl.dropbox.com/s/9dj53ntd6izcen9/tanzlied.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
