@@ -1298,6 +1298,10 @@
 "link": "https://dl.dropbox.com/s/y58cxvxke53s63z/spielich2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "Steal me, sweet thief (Menotti)", "shortcut": "stealme",
+"link": "https://dl.dropbox.com/s/w50e3gjt0awitic/stealme.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Stride la vampa (Verdi)", "shortcut": "stride",
 "link": "https://dl.dropbox.com/s/3tiji0jkvybjc4h/stride.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
