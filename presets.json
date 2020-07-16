@@ -1094,6 +1094,10 @@
 "link": "https://dl.dropbox.com/s/o4ytcdtue4lv83f/prendi.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Près des ramparts de Séville (Bizet)", "shortcut": "bizet",
+"link": "https://dl.dropbox.com/s/k3uiagsz18ytv7j/Seguidilla.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Presentation of the Rose - aria cut (Richard Strauss)", "shortcut": "presentation",
 "link": "https://dl.dropbox.com/s/mk2u8otstnplcc2/presentation.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
@@ -1196,6 +1200,10 @@
       
 {"name": "Se tu m'ami (Pergolesi)", "shortcut": "setu",
 "link": "https://dl.dropbox.com/s/q1dod9zxtbr1rxx/setu.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Seguidilla - Près des ramparts de Séville (Bizet)", "shortcut": "bizet",
+"link": "https://dl.dropbox.com/s/k3uiagsz18ytv7j/Seguidilla.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Sein wir wieder gut (Richard Strauss)","shortcut": "composer2",
