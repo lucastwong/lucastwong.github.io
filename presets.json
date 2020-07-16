@@ -302,6 +302,10 @@
 "link": "https://dl.dropbox.com/s/pj95nwboln5o5tp/datemp.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Dalla sua pace (Mozart)", "shortcut": "dallasua",
+"link": "https://dl.dropbox.com/s/c33wh8fpm5w163y/dalla.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Das war sehr gut, Mandryka (Richard Strauss)", "shortcut": "daswar",
 "link": "https://dl.dropbox.com/s/i492nc1rmfq6mgm/daswar.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
