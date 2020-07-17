@@ -1122,10 +1122,6 @@
 "link": "https://dl.dropbox.com/s/52zmgnk08jat1rw/letter.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25}, 
       
-{"name": "Ritorna vicitor (Verdi)", "shortcut": "ritorna",
-"link": "https://dl.dropbox.com/s/8vwtlyy980rfx3z/ritorna.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.20}, 
-      
 {"name": "Quando avran fine omai...Padre, germani, addio! (Mozart)", "shortcut": "padre2",
 "link": "https://dl.dropbox.com/s/1h8xwxggwbscu4p/padre2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -1165,6 +1161,10 @@
 {"name": "Regnava nel silenzio...Quando rapito in estasi (Donizetti)", "shortcut": "regnava",
 "link": "https://dl.dropbox.com/s/nw65bulb2wbasus/lucia.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Ritorna vicitor (Verdi)", "shortcut": "ritorna",
+"link": "https://dl.dropbox.com/s/8vwtlyy980rfx3z/ritorna.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.20}, 
       
 {"name": "Rivolgete a lui lo squardo (Mozart)", "shortcut": "rivo",
 "link": "https://dl.dropbox.com/s/qzxuki4nhmv430o/rivo.musicxml",
