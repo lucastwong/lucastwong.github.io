@@ -149,6 +149,10 @@
 "link": "https://dl.dropbox.com/s/4vw26lu535st0rl/batti.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Be Kind and Courteous (Britten)", "shortcut": "bekind",
+"link": "https://dl.dropbox.com/s/4m0tdaoa8kh4g70/bekind.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Beautiful Dreamer (Stephen Foster)", "shortcut": "beautiful",
 "link": "https://dl.dropbox.com/s/1leoc7lgugnfnp5/BeautifulDreamer.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
