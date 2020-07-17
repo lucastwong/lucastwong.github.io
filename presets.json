@@ -1550,6 +1550,10 @@
 "link": "https://dl.dropbox.com/s/fxfj2h21t11z4zk/wiedu.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25},
      
+{"name": "Wie Schön ist doch die Musik (Richard Strauss)", "shortcut": "wieschonist",
+"link": "https://dl.dropbox.com/s/zvxptptehjgpu61/wieschon.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.30},
+      
 {"name": "Willow Song (Douglas Moore)", "shortcut": "willow",
 "link": "https://dl.dropbox.com/s/h2ac3t8mvkask9h/willow.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
