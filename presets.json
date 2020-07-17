@@ -1206,6 +1206,10 @@
 "link": "https://dl.dropbox.com/s/hnpc880vm1zje21/rosmarin.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Scintille, diamant (Offenbach)", "shortcut": "scintille",
+"link": "https://dl.dropbox.com/s/ge85zifexcvbrux/Scintille_4D.musicxml",
+"category":"1","lyrics": "", "tracer":"","pedal":0.25},
+      
 {"name": "Se vuol ballare (Mozart)", "shortcut": "sevuol",
 "link": "https://dl.dropbox.com/s/sb2ft3ipfdrnjmp/sevuol.musicxml",
 "category":"1","lyrics": "", "tracer":"","pedal":0.1},
