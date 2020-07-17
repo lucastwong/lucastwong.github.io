@@ -1286,6 +1286,10 @@
 "link": "https://dl.dropbox.com/s/ea4t12sntmokkru/sola.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Sombre forêt (Rossini)", "shortcut": "sombreforet",
+"link": "https://dl.dropbox.com/s/mgoo6s1aya4yspb/sombreforet.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Some Enchanted Evening (Rodgers & Hammerstein)", "shortcut": "someenchanted",
 "link": "https://dl.dropbox.com/s/j591nv62z2catq5/SomeEnchantedEvening.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
