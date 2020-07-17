@@ -710,6 +710,10 @@
 "link": "https://dl.dropbox.com/s/67ofh7mtbrk6c9t/lensky.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2}, 
       
+{"name": "L'altra notte in fondo al mare (Boito)", "shortcut": "laltranotte",
+"link": "https://dl.dropbox.com/s/wkk7z8ggu3l94jp/laltranotte.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.3}, 
+      
 {"name": "L'amour est un oiseau (Bizet)", "shortcut": "haba",
 "link": "https://dl.dropbox.com/s/o3kdv149qup0tfk/haba.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
