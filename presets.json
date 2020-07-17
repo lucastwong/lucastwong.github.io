@@ -602,6 +602,10 @@
 "link": "https://dl.dropbox.com/s/t1rg2g6m7rcg6o8/bach5.musicxml",
 "category":"3","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Ho capito (Mozart)", "shortcut": "hocapito",
+"link": "https://dl.dropbox.com/s/73blh174ljep0gv/Ho_capito.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Humoresque - accompaniment (Dvořák)", "shortcut": "humor",
 "link": "https://dl.dropbox.com/s/74kw52qvsq3bv61/humor.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
