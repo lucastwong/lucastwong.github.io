@@ -1470,6 +1470,10 @@
 "link": "https://dl.dropbox.com/s/n9nvx6snzi2hmt5/va.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25},
       
+{"name": "Vecchia zimarra (Puccini)", "shortcut": "vecchia",
+"link": "https://dl.dropbox.com/s/r0fjn1z5xu6ww3y/vecchia.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.10},
+      
 {"name": "Vien, diletto (Bellini)", "shortcut": "quilavoce",
 "link": "https://dl.dropbox.com/s/avtx82zfbq7nqb1/quilavoce.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
