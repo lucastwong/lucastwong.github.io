@@ -1062,6 +1062,10 @@
 "link": "https://dl.dropbox.com/s/rzqt90jdpzfrssb/moment.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Ophelie's Mad Scene (Thomas)", "shortcut": "ophelie",
+"link": "https://dl.dropbox.com/s/u7tx7btlovkym08/opheliamad.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Or sai chi l'onore (Mozart)", "shortcut": "orsai",
 "link": "https://dl.dropbox.com/s/8if4rmb62orzevm/orsai.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -1077,6 +1081,10 @@
 {"name": "Padre, germani, addio! (Mozart)", "shortcut": "padre",
 "link": "https://dl.dropbox.com/s/1h8xwxggwbscu4p/padre2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Pâle et blonde (Thomas)", "shortcut": "paleet",
+"link": "https://dl.dropbox.com/s/u7tx7btlovkym08/opheliamad.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Papagena, Papagena! (Mozart)", "shortcut": "papa",
 "link": "https://dl.dropbox.com/s/kercqfphlhp8ntp/papa.musicxml",
