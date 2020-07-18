@@ -1150,6 +1150,10 @@
 "link": "https://dl.dropbox.com/s/52zmgnk08jat1rw/letter.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25}, 
       
+{"name": "Quand la flamme de l'amour (Bizet)", "shortcut": "quandlaflamme",
+"link": "https://dl.dropbox.com/s/rqclwv53vqv1551/quandlaflamme.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.20},
+      
 {"name": "Quando avran fine omai...Padre, germani, addio! (Mozart)", "shortcut": "padre2",
 "link": "https://dl.dropbox.com/s/1h8xwxggwbscu4p/padre2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
