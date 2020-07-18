@@ -161,6 +161,10 @@
 "link": "https://dl.dropbox.com/s/f72kodyro3p0z8i/_Bel_raggio_lusinghier_.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "Bell Song - Où va la jeune Hindoue? (Delibes)", "shortcut": "bellsong",
+"link": "https://dl.dropbox.com/s/4gdabf1h9ec890x/bellsong.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Bella siccome un angelo (Donizetti)", "shortcut": "bella",
 "link": "https://dl.dropbox.com/s/q1wasaj9wi2z6n0/bella.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
@@ -1073,6 +1077,10 @@
 {"name": "Or sai chi l'onore (Mozart)", "shortcut": "orsai",
 "link": "https://dl.dropbox.com/s/8if4rmb62orzevm/orsai.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Où va la jeune Hindoue? (Delibes)", "shortcut": "bellsong",
+"link": "https://dl.dropbox.com/s/4gdabf1h9ec890x/bellsong.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Out of My Dreams (Rodgers & Hammerstein)", "shortcut": "outof",
 "link": "https://dl.dropbox.com/s/w1v6eres8ivkifm/OutOfMyDreams.musicxml",
