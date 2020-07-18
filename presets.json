@@ -1130,6 +1130,10 @@
 "link": "https://dl.dropbox.com/s/1ciyo37qrcurqp1/permegiunto.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
  
+{"name": "Per pietà, ben mio, perdona (Mozart)", "shortcut": "perpieta",
+"link": "https://dl.dropbox.com/s/arphthhsspb45gy/perpieta.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Pierrot's Tanzlied (Korngold)", "shortcut": "pierrot2",
 "link": "https://dl.dropbox.com/s/9dj53ntd6izcen9/tanzlied.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
