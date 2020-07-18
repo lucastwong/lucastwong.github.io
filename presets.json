@@ -197,7 +197,7 @@
 "link": "https://dl.dropbox.com/s/3qkw4nh7s7fo5bd/cacilie.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
-{"name": "Care compagne (Bellini)", "shortcut": "carecom",
+{"name": "Care compagne...Come per me sereno (Bellini)", "shortcut": "carecom",
 "link": "https://dl.dropbox.com/s/5z6p4mr1577mh7r/carecom.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
@@ -265,6 +265,10 @@
 {"name": "Come paride vezzoso (Donizetti)","shortcut": "paride",
 "link": "https://dl.dropbox.com/s/cbh6etoijqg6k0i/paride2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "Come per me sereno (Bellini)", "shortcut": "carecom",
+"link": "https://dl.dropbox.com/s/5z6p4mr1577mh7r/carecom.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2}, 
       
 {"name": "Come raggio di sol (Caldara)","shortcut": "comeraggio",
 "link": "https://dl.dropbox.com/s/sn1ej2jrta7xh5e/comeraggio.musicxml",
