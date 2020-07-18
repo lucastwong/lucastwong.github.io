@@ -1514,6 +1514,10 @@
 "link": "https://dl.dropbox.com/s/r0fjn1z5xu6ww3y/vecchia.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.10},
       
+{"name": "Vedrò con mio diletto (Vivaldi)", "shortcut": "vedro",
+"link": "https://dl.dropbox.com/s/knoghawj6x8r7na/vedrocon_4D.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.20},
+      
 {"name": "Vien, diletto (Bellini)", "shortcut": "quilavoce",
 "link": "https://dl.dropbox.com/s/avtx82zfbq7nqb1/quilavoce.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
