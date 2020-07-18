@@ -85,6 +85,10 @@
 "link": "https://dl.dropbox.com/s/6th4p166ybtztx7/air.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Al dolce guidami (Donizetti)", "shortcut": "aldolce",
+"link": "https://dl.dropbox.com/s/t4hoj8sc1vzaxfs/aldolce.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.3}, 
+      
 {"name": "Alma del core (Caldara)", "shortcut": "alma",
 "link": "https://dl.dropbox.com/s/jhlt48z9r0rlh9g/alma.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1}, 
