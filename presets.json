@@ -937,7 +937,11 @@
 {"name": "My Favourite Things (Rogers & Hammerstein)", "shortcut": "myfav",
 "link": "https://dl.dropbox.com/s/6zsyyqpxgqpckuh/MyFavouriteThings.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
-
+      
+{"name": "Nacqui all'affanno, al pianto...Non più mesta (Rossini)", "shortcut": "nonpiumesta",
+"link": "https://dl.dropbox.com/s/hfysze8996vnzxc/Nacqui_all%27affanno_.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Nanetta's aria (Verdi)", "shortcut": "sulfil",
 "link": "https://dl.dropbox.com/s/s74npkqz56b2jsp/sulfil.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
@@ -965,6 +969,10 @@
 {"name": "Non, monsieur mon mari (Poulenc)", "shortcut": "nonmonsieur",
 "link": "https://dl.dropbox.com/s/tmwk43b5fu36ej4/poulenc.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25},
+      
+{"name": "Non più mesta (Rossini)", "shortcut": "nonpiumesta",
+"link": "https://dl.dropbox.com/s/hfysze8996vnzxc/Nacqui_all%27affanno_.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Non siate ritrosi (Mozart)", "shortcut": "nonsiate",
 "link": "https://dl.dropbox.com/s/gw0sj1hw8jxovfa/nonsiate.musicxml",
