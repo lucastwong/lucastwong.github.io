@@ -1326,6 +1326,10 @@
 "link": "https://dl.dropbox.com/s/4g2xmbgf1bzq3b1/semprelibera.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Senza mamma (Puccini)", "shortcut": "senzamamma",
+"link": "https://dl.dropbox.com/s/1l0xbjedomco03k/senzamamma.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "September (Maurice White, Al McKay, and Allee Willis)", "shortcut": "sept",
 "link": "https://dl.dropbox.com/s/ab94amkea1o9u1z/september.musicxml",
 "category":"1","lyrics": "", "tracer":"","pedal":0.1},
