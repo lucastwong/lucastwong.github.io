@@ -658,6 +658,10 @@
 "link": "https://dl.dropbox.com/s/tlz02me9mrpeprc/king.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "I know a Bank (Britten)", "shortcut": "iknowabank",
+"link": "https://dl.dropbox.com/s/aay5wpahclh72ri/iknowabank.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "I Lived (Ryan Tedder & Noel Zancanella)", "shortcut": "lived",
 "link": "https://dl.dropbox.com/s/5zs4fyw48q3zej3/lived.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
