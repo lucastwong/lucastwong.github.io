@@ -1412,11 +1412,11 @@
       
 {"name": "Sonata - 1st mvt in 4 & 2nd mvt (Eccles)", "shortcut": "eccles",
 "link": "https://dl.dropbox.com/s/t2xyi8u01245bqs/sax-eccles1.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/eccles.json","tracer":"","pedal":0.1},
  
 {"name": "Sonata - 1st mvt in 8 & 2nd mvt (Eccles)", "shortcut": "eccles2",
 "link": "https://dl.dropbox.com/s/toduyb4tcmsoz5m/sax-eccles2.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/eccles.json","tracer":"","pedal":0.1},
       
 {"name": "Song to the Moon (Dvořák)", "shortcut": "Rusalka",
 "link": "https://dl.dropbox.com/s/39qgp975vw4f8dd/songtothemoon.musicxml",
