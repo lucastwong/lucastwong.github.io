@@ -518,6 +518,10 @@
 "link": "https://dl.dropbox.com/s/k656bj8lla8idf9/enproie.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Enfin, je suis ici (Massenet)", "shortcut": "enfinjesuis",
+"link": "https://dl.dropbox.com/s/v6w372ma885ns5u/enfinjesuis.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Eri tu (Verdi)", "shortcut": "eritu",
 "link": "https://dl.dropbox.com/s/rjoqotudmcf8c1g/eritu.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
