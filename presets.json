@@ -362,6 +362,10 @@
 "link": "https://dl.dropbox.com/s/0lho8zwneij7p3c/dlj.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Deh se piacer mi vuoi (Mozart)", "shortcut": "dehsepiacer",
+"link": "https://dl.dropbox.com/s/dgk9co9w0tj3wbd/dehsepiacer2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Deh vieni, non tardar (Mozart)", "shortcut": "dehvieni",
 "link": "https://dl.dropbox.com/s/neih9xgwiu9j1d4/dehvieni.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
