@@ -1602,6 +1602,10 @@
 "link": "https://dl.dropbox.com/s/gqrvhnpve3jzpyz/uzhel.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.4},
       
+{"name": "V'adoro, pupille (Handel)", "shortcut": "vadoro",
+"link": "https://dl.dropbox.com/s/6kc2l6sr757tu88/vadoro.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Va! Laisse couler mes larmes (Massenet)", "shortcut": "va",
 "link": "https://dl.dropbox.com/s/n9nvx6snzi2hmt5/va.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25},
