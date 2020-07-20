@@ -1554,6 +1554,10 @@
 "link": "https://dl.dropbox.com/s/o0poxinkmlc9m8q/tupun.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Tutte le feste al tempio (Verdi)", "shortcut": "tuttelefeste",
+"link": "https://dl.dropbox.com/s/v53zwzzvl9dgh29/Tutte_le_feste_al_tempio.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Tutto è disposto (Mozart)", "shortcut": "aprite",
 "link": "https://dl.dropbox.com/s/rsysxzdkoy82hs0/aprite.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
