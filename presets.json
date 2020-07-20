@@ -714,6 +714,10 @@
 "link": "https://dl.dropbox.com/s/0qy3vh5nudqvwh3/inquelle.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Il segreto per esser felici (Donizetti)", "shortcut": "ilsegreto",
+"link": "https://dl.dropbox.com/s/8fc0anyzuxc3bgn/ilsegreto.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "In uomini in soldati (Mozart)", "shortcut": "inuomini",
 "link": "https://dl.dropbox.com/s/6l88oq8fib0ywpm/inuomini.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
