@@ -1026,6 +1026,10 @@
 "link": "https://dl.dropbox.com/s/w70tqec2ov3yk7b/nonmi.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Non mi resta (Mascagni)", "shortcut": "nonmiresta",
+"link": "https://dl.dropbox.com/s/81yo00js93a2li4/nonmiresta.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Non, monsieur mon mari (Poulenc)", "shortcut": "nonmonsieur",
 "link": "https://dl.dropbox.com/s/tmwk43b5fu36ej4/poulenc.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25},
