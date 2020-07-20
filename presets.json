@@ -398,6 +398,10 @@
 "link": "https://dl.dropbox.com/s/wy5dw9wz3yej7i5/dichterliebe.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Dido's Lament (Purcell)", "shortcut": "wheniamlaid",
+"link": "https://dl.dropbox.com/s/mhr1wfg55dfjlpt/wheniamlaid.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.3}, 
+      
 {"name": "Die Wiener Herrn (Richard Strauss)", "shortcut": "fiak",
 "link": "https://dl.dropbox.com/s/33u4o6tpf6wf9ld/fiak.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25},
@@ -1664,6 +1668,10 @@
       
 {"name": "Wheels of a Dream (Flaherty)", "shortcut": "wheels",
 "link": "https://dl.dropbox.com/s/iq20rce69gwl2aa/wheels.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "When I am laid (Purcell)", "shortcut": "wheniam",
+"link": "https://dl.dropbox.com/s/mhr1wfg55dfjlpt/wheniamlaid.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
 {"name": "When the air sings of summer (Menotti)", "shortcut": "whentheair",
