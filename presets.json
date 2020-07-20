@@ -1118,6 +1118,10 @@
 "link": "https://dl.dropbox.com/s/hjjcmkz3ktnczu7/manongavotte2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Och, jaký žal!...Ten lásky sen (Smetana)", "shortcut": "ochjaky",
+"link": "https://dl.dropbox.com/s/arijuyc2nlsabj5/ochjaky.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
+      
 {"name": "Oh, What a Beautiful Mornin' (Rodgers & Hammerstein)", "shortcut": "brian",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Oh%20what%20a%20beautiful%20morning.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
@@ -1517,6 +1521,10 @@
 {"name": "The Star-Spangled Banner (John Stafford Smith)", "shortcut": "starsp",
 "link": "https://dl.dropbox.com/s/70aislvedb4glh9/The_Star_Spangled_Banner.musicxml",
 "category":"4","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/starmap.json","tracer":"","pedal":0.5},
+      
+{"name": "Ten lásky sen (Smetana)", "shortcut": "ochjaky",
+"link": "https://dl.dropbox.com/s/arijuyc2nlsabj5/ochjaky.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
       
 {"name": "Tatiana's Letter Scene - with cuts (Tchaikovsky)", "shortcut": "letterscene",
 "link": "https://dl.dropbox.com/s/52zmgnk08jat1rw/letter.musicxml",
