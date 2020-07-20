@@ -1438,6 +1438,10 @@
 "link": "https://dl.dropbox.com/s/j591nv62z2catq5/SomeEnchantedEvening.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Son pochi fiori (Mascagni)", "shortcut": "sonpochi",
+"link": "https://dl.dropbox.com/s/lis7siy1l7po1cu/sonpochi.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Son reo (Mozart)", "shortcut": "sonreo",
 "link": "https://dl.dropbox.com/s/eh7qv3zflo1ylrv/Sonreo.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
