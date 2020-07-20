@@ -1650,6 +1650,10 @@
 "link": "https://dl.dropbox.com/s/5qidzgod8f778p4/voichesapete.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Voi lo sapete (Mascagni)", "shortcut": "voilosapete",
+"link": "https://dl.dropbox.com/s/gcg4qfpgwyjnlrv/voilo.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
 {"name": "Volta la terrea (Verdi)", "shortcut": "voltalaterrea",
 "link": "https://dl.dropbox.com/s/xzev6x2cf0zkt24/voltalaterrea.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
