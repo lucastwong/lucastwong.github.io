@@ -846,6 +846,10 @@
 "link": "https://dl.dropbox.com/s/le7fpqnrfw7j4oo/lavendetta.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "Lakmé, ton doux regard se voile (Delibes)","shortcut": "lakmeton",
+"link": "https://dl.dropbox.com/s/asxuig4bw9itubi/Lakm%C3%A9%2C%20ton%20doux.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Largo al factotum (Rossini)", "shortcut": "barber",
 "link": "https://dl.dropbox.com/s/pzch51vedxmsllp/barber.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
