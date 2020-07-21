@@ -478,6 +478,10 @@
 "link": "https://dl.dropbox.com/s/8rxlujrtvhs4e54/efra.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "E' la solita storia  (Cilea)", "shortcut": "elasolita",
+"link": "https://dl.dropbox.com/s/pou94z0dq9vun4m/E_la_solita_storia_del_pastore.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "E lucevan le stelle (Puccini)", "shortcut": "elucevan",
 "link": "https://dl.dropbox.com/s/742k3wpeqmx41qq/elucevan.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.7}, 
