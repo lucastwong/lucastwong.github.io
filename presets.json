@@ -530,6 +530,10 @@
 "link": "https://dl.dropbox.com/s/s7pw2h5k34tk6xp/einsamin.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Ella mi fu rapita...Parmi veder le lagrime (Verdi)", "shortcut": "parmi",
+"link": "https://dl.dropbox.com/s/ncbyjxu7kr1z6j8/Rigoletto.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Elle a fui, la tourterelle (Offenbach)", "shortcut": "ellea",
 "link": "https://dl.dropbox.com/s/e5ajtmsc9u6ovzk/ellea.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
@@ -1209,6 +1213,10 @@
 {"name": "Par le rang et par l'opulence...Salut à la France! (Donizetti)", "shortcut": "parle",
 "link": "https://dl.dropbox.com/s/r1qqbgyn1khdqh5/parlerang2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
+{"name": "Parmi veder le lagrime (Verdi)", "shortcut": "parmi",
+"link": "https://dl.dropbox.com/s/ncbyjxu7kr1z6j8/Rigoletto.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "People Will Say We're In Love (Rodgers & Hammerstein)", "shortcut": "peoplewill",
 "link": "https://dl.dropbox.com/s/vsjmfolqhi9ctyc/PeopleWillSay.musicxml",
