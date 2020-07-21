@@ -210,6 +210,10 @@
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/caromioben.json",
  "tracer":"","pedal":0.1},
       
+{"name": "Casta diva (Bellini)", "shortcut": "castadiva",
+"link": "https://dl.dropbox.com/s/ccvie3fhnv3ybfc/Casta%20Diva.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Catalogue aria from Don Giovanni (Mozart)", "shortcut": "catalogue",
 "link": "https://dl.dropbox.com/s/le3sicz8hix0o3f/Madamina.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
