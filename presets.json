@@ -654,6 +654,10 @@
 "link": "https://dl.dropbox.com/s/v2fu1ayrrylqo6p/hai.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Happy Birthday", "shortcut": "birthday",
+"link": "https://dl.dropbox.com/s/loohtpfkp0rvhnn/Happy_Birthday_Orhcestral.musicxml",
+"category":"4","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Harpsichord Concerto in D minor BWV 1052 (Bach)", "shortcut": "1052",
 "link": "https://dl.dropbox.com/s/hjziw8k8as1amdk/1052.musicxml",
 "category":"3","lyrics": "","tracer":"","pedal":0.1},
