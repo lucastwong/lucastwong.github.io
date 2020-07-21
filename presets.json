@@ -1038,6 +1038,10 @@
 "link": "https://dl.dropbox.com/s/tmwk43b5fu36ej4/poulenc.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25},
       
+{"name": "Non più andrai farfallone amoroso (Mozart)", "shortcut": "nonpiuandrai",
+"link": "https://dl.dropbox.com/s/st90x771szkc3ns/Non%20piu%20andrai.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Non più di fiori (Mozart)", "shortcut": "nonpiudifiori",
 "link": "https://dl.dropbox.com/s/gcp2tc08u4umkm0/nonpiudi.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
