@@ -1078,6 +1078,10 @@
 "link": "https://dl.dropbox.com/s/tmwk43b5fu36ej4/poulenc.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25},
       
+{"name": "Non piangere, Liù (Puccini)", "shortcut": "nonpiangereliu",
+"link": "https://dl.dropbox.com/s/qvr699pqio5b5ig/Non_piangere_Liu.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
+      
 {"name": "Non più andrai farfallone amoroso (Mozart)", "shortcut": "nonpiuandrai",
 "link": "https://dl.dropbox.com/s/st90x771szkc3ns/Non%20piu%20andrai.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
