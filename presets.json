@@ -1630,6 +1630,10 @@
 "link": "https://dl.dropbox.com/s/30rsdm3bcwezknr/vien.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25},
       
+{"name": "Vilja Lied (Lehár)", "shortcut": "vilja",
+"link": "https://dl.dropbox.com/s/p5flfwgqpc13l66/vilja.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.50},
+      
 {"name": "Violin Concerto in A major - 1st mvt. (Mozart)", "shortcut": "mozart5-1",
 "link": "https://dl.dropbox.com/s/96s8ekg2y498oy2/mozart5.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/mozart5-1map.json","tracer":"","pedal":0.1},
