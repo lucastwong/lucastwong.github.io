@@ -1114,6 +1114,10 @@
 "link": "https://dl.dropbox.com/s/aa1pjmco4csmbcy/ocanada.musicxml",
 "category":"4","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/ocanadamap.json","tracer":"","pedal":0.25},
       
+{"name": "O Dieu! de quelle ivresse (Offenbach)", "shortcut": "odieudequelle",
+"link": "https://dl.dropbox.com/s/jwtdwwmvqv5r95s/Oh_Dieu_de_quelle_ivresse%21.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "O du mein holder Abendstern (Wagner)", "shortcut": "odumein",
 "link": "https://dl.dropbox.com/s/iwi6jsrvo9l7310/odumein.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
