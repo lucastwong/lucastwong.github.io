@@ -838,6 +838,10 @@
 "link": "https://dl.dropbox.com/s/pzch51vedxmsllp/barber.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Lascia ch'io pianga (Handel)", "shortcut": "lasciaio",
+"link": "https://dl.dropbox.com/s/q5p245prnifxti5/Lascia.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Lasciatemi morire! (Monteverdi)", "shortcut": "monteverdi",
 "link": "https://dl.dropbox.com/s/yozbt0dpqqj3tpq/morire.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
