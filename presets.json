@@ -1138,6 +1138,10 @@
 "link": "https://dl.dropbox.com/s/a922q57l3yumz47/nonsele.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "Non so più cosa son (Mozart)", "shortcut": "nonsopiu",
+"link": "https://dl.dropbox.com/s/uduuaseiksuy2vs/nonsopiu.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.25},
+      
 {"name": "Nothing (Marvin Hamlisch)", "shortcut": "nothing",
 "link": "https://dl.dropbox.com/s/d48zbdwlu84tvqa/nothing.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
