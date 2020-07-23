@@ -1269,6 +1269,10 @@
 {"name": "Parto, parto (Mozart)", "shortcut": "partoparto",
 "link": "https://dl.dropbox.com/s/n6ug1xnac6z3tlf/partoparto.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
+
+{"name": "Pauline's aria (Tchaikovsky)", "shortcut": "podru",
+"link": "https://dl.dropbox.com/s/78cgtro37dxcz9w/podrugi2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "People Will Say We're In Love (Rodgers & Hammerstein)", "shortcut": "peoplewill",
 "link": "https://dl.dropbox.com/s/vsjmfolqhi9ctyc/PeopleWillSay.musicxml",
@@ -1309,6 +1313,10 @@
 {"name": "Pleurez! pleurez, mes yeux! (Massenet)", "shortcut": "pleurez",
 "link": "https://dl.dropbox.com/s/bn987ldhyg33inr/pleurez.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
+{"name": "Podrugi milyye (Tchaikovsky)", "shortcut": "podru",
+"link": "https://dl.dropbox.com/s/78cgtro37dxcz9w/podrugi2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Porgi, amor - in 2 (Mozart)", "shortcut": "porgi",
 "link": "https://dl.dropbox.com/s/f7dzlnoxymfokeg/porgi.musicxml",
