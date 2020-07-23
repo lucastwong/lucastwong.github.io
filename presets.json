@@ -786,6 +786,10 @@
 "link": "https://dl.dropbox.com/s/vd31nsf4mmwzpeu/Io_Son_L%27umile_Ancella.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Ja nye sposobna k grusti tomnoy (Tchaikovsky)", "shortcut": "janye",
+"link": "https://dl.dropbox.com/s/zm1333cl6rqz6uo/janye.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Je crois entendre encore (Bizet)", "shortcut": "jecrois",
 "link": "https://dl.dropbox.com/s/il897cm3crwi8p6/JE_CROIS_ENTENDRE_ENCORE.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":1},
@@ -1205,6 +1209,10 @@
 {"name": "Oh, What a Beautiful Mornin' (Rodgers & Hammerstein)", "shortcut": "brian",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Oh%20what%20a%20beautiful%20morning.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "Olga's aria (Tchaikovsky)", "shortcut": "janye",
+"link": "https://dl.dropbox.com/s/zm1333cl6rqz6uo/janye.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Ombra mai fù (Handel)", "shortcut": "ombra",
 "link": "https://dl.dropbox.com/s/e3gdyr3pxpp2c39/ombra.musicxml",
