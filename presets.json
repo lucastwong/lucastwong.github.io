@@ -5,6 +5,10 @@
 "link": "https://dl.dropbox.com/s/js3znpfpszmzm6v/aquoi.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "A simple sailor, lowly born (Gilbert & Sullivan)", "shortcut": "sailor",
+"link": "https://dl.dropbox.com/s/segussbdnixqt1m/sailor.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Abscheulicher!...Komm, Hoffnung (Beethoven)", "shortcut": "absch",
 "link": "https://dl.dropbox.com/s/n4t07tvysonqwl0/absch.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
@@ -1650,6 +1654,10 @@
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Entertainer.xml",
 "category":"3","lyrics": "","tracer":"","pedal":0.1},
 
+{"name": "The hours creep on apace...A simple sailor, lowly born (Gilbert & Sullivan)", "shortcut": "sailor",
+"link": "https://dl.dropbox.com/s/segussbdnixqt1m/sailor.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "The Rainbow Connection (Paul Williams & Kenneth L. Ascher)", "shortcut": "rainbow",
 "link": "https://dl.dropbox.com/s/l046eqo72r8lmxp/rainbow.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
