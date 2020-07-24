@@ -914,6 +914,10 @@
 "link": "https://dl.dropbox.com/s/s5is5ll4iqpn7pd/lafleur.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "La tremenda ultrice spada (Bellini)", "shortcut": "seromeo",
+"link": "https://dl.dropbox.com/s/spmqu9847edm4sh/seromeo.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "La vendetta, oh la vendetta! (Mozart)","shortcut": "lavendetta",
 "link": "https://dl.dropbox.com/s/le7fpqnrfw7j4oo/lavendetta.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
@@ -1501,6 +1505,10 @@
 {"name": "Se il mio nome (Rossini)", "shortcut": "seilmionome",
 "link": "https://dl.dropbox.com/s/vz4m6a1wz2n7n1j/seilmionome.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/seilmionome.json","tracer":"","pedal":0.2},
+      
+{"name": "Se Romeo t'uccise un figlio...La tremenda ultrice spada (Bellini)", "shortcut": "seromeo",
+"link": "https://dl.dropbox.com/s/spmqu9847edm4sh/seromeo.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Se tu m'ami (Pergolesi)", "shortcut": "setu",
 "link": "https://dl.dropbox.com/s/q1dod9zxtbr1rxx/setu.musicxml",
