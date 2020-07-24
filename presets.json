@@ -398,18 +398,6 @@
 "link": "https://dl.dropbox.com/s/i492nc1rmfq6mgm/daswar.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
-{"name": "Der Hölle Rache (Mozart)", "shortcut": "hollerach",
-"link": "https://dl.dropbox.com/s/392pwgdbsmf9lrx/queen1.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
-      
-{"name": "Der Vogelfänger bin ich ja (Mozart)", "shortcut": "vogel",
-"link": "https://dl.dropbox.com/s/xoq9535osbm2esu/vogel.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.2},
-      
-{"name": "Depuis le jour (Charpentier)", "shortcut": "depuislejour",
-"link": "https://dl.dropbox.com/s/0lho8zwneij7p3c/dlj.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.5},
-      
 {"name": "Deh se piacer mi vuoi (Mozart)", "shortcut": "dehsepiacer",
 "link": "https://dl.dropbox.com/s/dgk9co9w0tj3wbd/dehsepiacer2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -432,6 +420,18 @@
       
 {"name": "Depuis hier...Que fais tu, blanche tourterelle? (Gounod)", "shortcut": "quefaistu",
 "link": "https://dl.dropbox.com/s/igpkdw86d1aejwq/quefaistu.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
+{"name": "Depuis le jour (Charpentier)", "shortcut": "depuislejour",
+"link": "https://dl.dropbox.com/s/0lho8zwneij7p3c/dlj.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+
+{"name": "Der Hölle Rache (Mozart)", "shortcut": "hollerach",
+"link": "https://dl.dropbox.com/s/392pwgdbsmf9lrx/queen1.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Der Vogelfänger bin ich ja (Mozart)", "shortcut": "vogel",
+"link": "https://dl.dropbox.com/s/xoq9535osbm2esu/vogel.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Dew Fairy's aria (Humperdinck)", "shortcut": "dew",
