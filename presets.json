@@ -266,6 +266,10 @@
 "link": "https://dl.dropbox.com/s/pefpw90mlhzvp4j/chegelida.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/chegelida.json","tracer":"","pedal":0.3},
 
+{"name": "Chacun à son goût (Johann Strauss)", "shortcut": "chacunason",
+"link": "https://dl.dropbox.com/s/5s2ymcx4bd0zgj4/ichlade.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Chacun le sait (Donizetti)", "shortcut": "chacunlesait",
 "link": "https://dl.dropbox.com/s/ehm8kenj2f4mpsc/chacunlesait.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -362,7 +366,7 @@
 "link": "https://dl.dropbox.com/s/8yskp5ecrs5x335/crudefurie.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
-{"name": "Csárdás - Klänge der Heimat (Johann Strauss II)", "shortcut": "klange2",
+{"name": "Csárdás - Klänge der Heimat (Johann Strauss)", "shortcut": "klange2",
 "link": "https://dl.dropbox.com/s/q6nd8ew1kx04dd4/klange.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
@@ -761,7 +765,11 @@
 {"name": "I Wonder Why - Reprise (Oscar Feltsman)", "shortcut": "iwonder",
 "link": "https://dl.dropbox.com/s/1hpt40c8otbfucs/iwonder.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/iwonder.json","tracer":"","pedal":0.3},
-
+      
+{"name": "Ich lade gern mir Gäste ein (Johann Strauss)", "shortcut": "chacunason",
+"link": "https://dl.dropbox.com/s/5s2ymcx4bd0zgj4/ichlade.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "If Somebody there chanced to be (Gilbert & Sullivan)", "shortcut": "ifsomebody",
 "link": "https://dl.dropbox.com/s/wwi8ttdjxexqzq6/ruddigore.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
