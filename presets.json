@@ -742,6 +742,10 @@
 "link": "https://dl.dropbox.com/s/1hpt40c8otbfucs/iwonder.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/iwonder.json","tracer":"","pedal":0.3},
 
+"name": "If Somebody There Chanced to Be (Gilbert & Sullivan)", "shortcut": "ifsomebody",
+"link": "https://dl.dropbox.com/s/wwi8ttdjxexqzq6/ruddigore.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Il balen (Verdi)", "shortcut": "balen",
 "link": "https://dl.dropbox.com/s/jp7gzwed4345vza/balen.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
