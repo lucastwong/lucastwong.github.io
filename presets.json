@@ -430,6 +430,10 @@
 "link": "https://dl.dropbox.com/s/eet5z4r6l6dnpto/dein.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/dein.json","tracer":"","pedal":0.3},
       
+{"name": "Depuis hier...Que fais tu, blanche tourterelle? (Gounod)", "shortcut": "quefaistu",
+"link": "https://dl.dropbox.com/s/igpkdw86d1aejwq/quefaistu.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Dew Fairy's aria (Humperdinck)", "shortcut": "dew",
 "link": "https://dl.dropbox.com/s/05e6t57267vz339/wobinich.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
@@ -1417,6 +1421,10 @@
 {"name": "Questa o quella (Verdi)", "shortcut": "qoq",
 "link": "https://www.dropbox.com/s/u79sclas6foy5ek/qoq.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Que fais tu, blanche tourterelle? (Gounod)", "shortcut": "quefaistu",
+"link": "https://dl.dropbox.com/s/igpkdw86d1aejwq/quefaistu.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Questo amor (Puccini)", "shortcut": "questoamor",
 "link": "https://dl.dropbox.com/s/tiew4ovxoez5hot/questo2.musicxml",
