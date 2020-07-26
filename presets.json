@@ -45,6 +45,10 @@
 "link": "https://dl.dropbox.com/s/k1hj7xu5divcpjh/utzh2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "Ah! chi mi dice mai (Mozart)", "shortcut": "ahchimi",
+"link": "https://dl.dropbox.com/s/fuqtuwvrekbugcc/ahchimi.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Ah! douce enfant (Massenet)", "shortcut": "ahdouce",
 "link": "https://dl.dropbox.com/s/2zpoln61ctmmwv6/ahdouce.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
