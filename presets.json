@@ -1838,6 +1838,10 @@
 "link": "https://dl.dropbox.com/s/zdi1xlelhokuejh/Vesti_La_giubba_%28Paggliaci%29.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Vi ravviso (Bellini)", "shortcut": "viravviso",
+"link": "https://dl.dropbox.com/s/nriivdwfr89tqw0/viravviso.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Vien, diletto (Bellini)", "shortcut": "quilavoce",
 "link": "https://dl.dropbox.com/s/avtx82zfbq7nqb1/quilavoce.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
