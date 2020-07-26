@@ -233,6 +233,10 @@
 "link": "https://dl.dropbox.com/s/3qkw4nh7s7fo5bd/cacilie.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Card aria (Bizet)", "shortcut": "envain",
+"link": "https://dl.dropbox.com/s/5xjveudnuqdrr05/cardaria.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Care compagne...Come per me sereno (Bellini)", "shortcut": "carecom",
 "link": "https://dl.dropbox.com/s/5z6p4mr1577mh7r/carecom.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
@@ -616,6 +620,10 @@
       
 {"name": "En proie à la tristesse (Rossini)", "shortcut": "enproie",
 "link": "https://dl.dropbox.com/s/k656bj8lla8idf9/enproie.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "En vain pour éviter (Bizet)", "shortcut": "envain",
+"link": "https://dl.dropbox.com/s/5xjveudnuqdrr05/cardaria.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Enfin, je suis ici (Massenet)", "shortcut": "enfinjesuis",
