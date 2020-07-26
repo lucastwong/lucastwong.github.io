@@ -746,6 +746,10 @@
 "link": "https://dl.dropbox.com/s/1g6ameuxaw3kxbx/iris.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Hexenlied (Humperdinck)", "shortcut": "hurr",
+"link": "https://dl.dropbox.com/s/lci1iwmg6tta899/hurrhopp.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Ho capito (Mozart)", "shortcut": "hocapito",
 "link": "https://dl.dropbox.com/s/73blh174ljep0gv/Ho_capito.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -753,6 +757,10 @@
 {"name": "Humoresque - accompaniment (Dvořák)", "shortcut": "humor",
 "link": "https://dl.dropbox.com/s/74kw52qvsq3bv61/humor.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Hurr hopp (Humperdinck)", "shortcut": "hurr",
+"link": "https://dl.dropbox.com/s/lci1iwmg6tta899/hurrhopp.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Introduction et rondo capriccioso Op.28 (Saint-Saëns)", "shortcut": "rondo",
 "link": "https://dl.dropbox.com/s/v1lssxfmkwgumdk/rondo.musicxml",
