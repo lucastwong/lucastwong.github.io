@@ -362,6 +362,10 @@
 "link": "https://dl.dropbox.com/s/1nj8rf370833e5x/composer.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Connais-tu le pays? (Thomas)","shortcut": "connaistu",
+"link": "https://dl.dropbox.com/s/unkyvtmd230rzmv/connaistu.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Concertino for Clarinet Op. 26 (Weber)","shortcut": "concertino",
 "link": "https://dl.dropbox.com/s/xhpillbwcgql6hz/weber.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
