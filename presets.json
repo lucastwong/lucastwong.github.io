@@ -1794,6 +1794,10 @@
 "link": "https://dl.dropbox.com/s/0s3qj1nlgqakvqg/traumerei.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Tu fosti tradito (Mozart)", "shortcut": "tufosti",
+"link": "https://dl.dropbox.com/s/zlkn8bmati3cmq4/tufosti.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Tu, che di gel sei cinta (Puccini)", "shortcut": "liu",
 "link": "https://dl.dropbox.com/s/jxybuao64s7rgkw/liu.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
