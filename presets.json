@@ -1958,6 +1958,10 @@
 "link": "https://dl.dropbox.com/s/0lrcai1blh639hg/vocalise.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Voce di donna (Ponchielli)", "shortcut": "vocedidonna",
+"link": "https://dl.dropbox.com/s/dbcivbu24t52u7i/vocedidonna.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Voi che sapete (Mozart)", "shortcut": "voichesapete",
 "link": "https://dl.dropbox.com/s/5qidzgod8f778p4/voichesapete.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
