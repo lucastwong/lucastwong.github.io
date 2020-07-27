@@ -1421,6 +1421,14 @@
 {"name": "Piano Concerto No. 2 in G minor - 1st mvt. (Saint-Saëns)", "shortcut": "sspiano1",
 "link": "https://dl.dropbox.com/s/bd8z9qsnbeqxvwe/Second_Piano_Concerto.musicxml",
 "category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/ssmap.json","tracer":"","pedal":0.1},
+
+{"name": "Piano Concerto No. 3 in C minor - 1st mvt. in 2 (Beethoven)", "shortcut": "beethoven31v2",
+"link": "https://dl.dropbox.com/s/8tc0xcmltddy79z/Beethoven3RD1v2.musicxml",
+"category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee3map.json","tracer":"","pedal":0.1},
+      
+{"name": "Piano Concerto No. 3 in C minor - 1st mvt. in 4 (Beethoven)", "shortcut": "beethoven31",
+"link": "https://dl.dropbox.com/s/ujo3f05dmhi1jum/Beethoven3RD1.musicxml",
+"category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee3map.json","tracer":"","pedal":0.1},
       
 {"name": "Pleurez! pleurez, mes yeux! (Massenet)", "shortcut": "pleurez",
 "link": "https://dl.dropbox.com/s/bn987ldhyg33inr/pleurez.musicxml",
