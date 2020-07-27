@@ -1282,6 +1282,10 @@
 "link": "https://dl.dropbox.com/s/h6g690587awhcrn/nadir.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.4},
       
+{"name": "O pallida (Mascagni)", "shortcut": "opallida",
+"link": "https://dl.dropbox.com/s/3t56tepldc7d8ba/opallida.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "O quante volte (Bellini)", "shortcut": "quantevolte",
 "link": "https://dl.dropbox.com/s/w932tz746yt00im/ohquante.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25},
