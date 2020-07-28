@@ -149,9 +149,13 @@
 "link": "https://dl.dropbox.com/s/q4ouzhmlfxdbg08/amourranime.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
-{"name": "Amour, viens aider (Saint-Saëns)", "shortcut": "amourviensaider",
+{"name": "Amour! viens aider ma faiblesse! (Saint-Saëns)", "shortcut": "amourviensaider",
 "link": "https://dl.dropbox.com/s/i5xnzj81xvkn8eh/amourviens.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
+{"name": "Amour, viens rendre à mon âme (Gluck)", "shortcut": "amourviensrendre",
+"link": "https://dl.dropbox.com/s/t3j8p5jkepj3eyx/gluck.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Andante Cantabile (Tchaikovsky-Kreisler)", "shortcut": "andante",
 "link": "https://dl.dropbox.com/s/rzn6k5yu4dek5er/andante.musicxml",
