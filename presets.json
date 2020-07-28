@@ -774,6 +774,10 @@
 "link": "https://dl.dropbox.com/s/o3kdv149qup0tfk/haba.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Hai ben ragione (Puccini)", "shortcut": "haiben",
+"link": "https://dl.dropbox.com/s/b0vyfyrdv3rlq13/haiben2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Hai già vinta la causa! (Mozart)", "shortcut": "haigia",
 "link": "https://dl.dropbox.com/s/v2fu1ayrrylqo6p/hai.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
