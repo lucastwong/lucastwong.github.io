@@ -1298,6 +1298,10 @@
 "link": "https://dl.dropbox.com/s/3t56tepldc7d8ba/opallida.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "O petite étoile (Chabrier)", "shortcut": "opetite",
+"link": "https://dl.dropbox.com/s/tzet94a5664kajd/etoile2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
 {"name": "O quante volte (Bellini)", "shortcut": "quantevolte",
 "link": "https://dl.dropbox.com/s/w932tz746yt00im/ohquante.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25},
