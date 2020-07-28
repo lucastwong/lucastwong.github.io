@@ -450,6 +450,10 @@
 "link": "https://dl.dropbox.com/s/i492nc1rmfq6mgm/daswar.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "De' miei bollenti spiriti (Verdi)", "shortcut": "demiei",
+"link": "https://dl.dropbox.com/s/1imbmgtzqbbw904/lungeda.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Deh per questo istante solo (Mozart)", "shortcut": "dehperquesto",
 "link": "https://dl.dropbox.com/s/8kkz1g2xukmxxmh/dehperquesto.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -1112,6 +1116,10 @@
       
 {"name": "Lovesick (Oscar Feltsman)", "shortcut": "lovesick",
 "link": "https://dl.dropbox.com/s/em1zhqbsl47ax43/lovesick.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Lunge da lei...De' miei bollenti spiriti (Verdi)", "shortcut": "demiei",
+"link": "https://dl.dropbox.com/s/1imbmgtzqbbw904/lungeda.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Ma de' malvagi invan...Vien, Leonora (Donizetti)", "shortcut": "vien",
