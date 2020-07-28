@@ -442,6 +442,10 @@
 "link": "https://dl.dropbox.com/s/dgk9co9w0tj3wbd/dehsepiacer2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Deh! Tu, deh! Tu, bell'anima (Bellini)", "shortcut": "dehtubell",
+"link": "https://dl.dropbox.com/s/bf7epnfcbivhnvm/dehtubell.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Deh vieni alla finestra (Mozart)", "shortcut": "dehvienialla",
 "link": "https://dl.dropbox.com/s/w64u0u5hwpanbgq/Deh%20vieni.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -1820,6 +1824,10 @@
       
 {"name": "Tu puniscimi, O Signore (Verdi)", "shortcut": "tupun",
 "link": "https://dl.dropbox.com/s/o0poxinkmlc9m8q/tupun.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Tu sola...Deh! Tu, deh! Tu, bell'anima (Bellini)", "shortcut": "dehtubell",
+"link": "https://dl.dropbox.com/s/bf7epnfcbivhnvm/dehtubell.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Tu, tu piccolo iddio (Puccini)", "shortcut": "tutu",
