@@ -806,6 +806,10 @@
 "link": "https://dl.dropbox.com/s/1g6ameuxaw3kxbx/iris.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Here I Stand...Since it is not by merit (Stravinsky)", "shortcut": "hereistand",
+"link": "https://dl.dropbox.com/s/blruqygzs929jjc/hereistand2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Hexenlied (Humperdinck)", "shortcut": "hurr",
 "link": "https://dl.dropbox.com/s/lci1iwmg6tta899/hurrhopp.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -1713,7 +1717,11 @@
 {"name": "Silver Aria (Moore)", "shortcut": "silver",
 "link": "https://dl.dropbox.com/s/en1h6dxgh0igiro/silveraria.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
-
+      
+{"name": "Since it is not by merit (Stravinsky)", "shortcut": "hereistand",
+"link": "https://dl.dropbox.com/s/blruqygzs929jjc/hereistand2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Sixteen Going On Seventeen (Rodgers & Hammerstein)", "shortcut": "16",
 "link": "https://dl.dropbox.com/s/j34f2cc6sx5zb8l/Sixteen_Going_On_Seventeen.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
