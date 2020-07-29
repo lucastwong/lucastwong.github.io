@@ -294,6 +294,10 @@
 "link": "https://dl.dropbox.com/s/xws4yth8n5dyomo/ceslettres.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Ch'ella mi creda (Puccini)","shortcut": "chella",
+"link": "https://dl.dropbox.com/s/23xks9jbb31ryo7/chella.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Che fiero momento (Gluck)","shortcut": "chefiero",
 "link": "https://dl.dropbox.com/s/dqtx0g7rzndx33l/chefiero2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
