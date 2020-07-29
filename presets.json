@@ -1166,6 +1166,14 @@
 "link": "https://dl.dropbox.com/s/szyld2k2ml4e720/martern.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1}, 
       
+{"name": "Mattinata in 2 (Leoncavallo)", "shortcut": "matti2",
+"link": "https://www.dropbox.com/s/16njpb7lq78lm8n/mattinata1.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.25},
+      
+{"name": "Mattinata in 3 (Leoncavallo)", "shortcut": "matti3",
+"link": "https://dl.dropbox.com/s/oqsduogn3h1eju2/mattinata2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Me voici dans son boudoir (Thomas)", "shortcut": "mevoicidans",
 "link": "https://dl.dropbox.com/s/pz2fxfg8vju7or4/mevoici%20fixed.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1}, 
