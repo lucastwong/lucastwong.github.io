@@ -1950,6 +1950,10 @@
 "link": "https://dl.dropbox.com/s/knoghawj6x8r7na/vedrocon_4D.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.20},
       
+{"name": "Vedrommi intorno (Mozart)", "shortcut": "vedrommi",
+"link": "https://dl.dropbox.com/s/nj5cfd5t03wousr/Vedrommi_intorno.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Venti, turbini, prestate le vostre ali (Handel)", "shortcut": "venti",
 "link": "https://dl.dropbox.com/s/2zherfnj4anzcrz/_Venti_Turbini_.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
