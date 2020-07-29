@@ -1114,6 +1114,10 @@
 "link": "https://dl.dropbox.com/s/346xllhg6gnp7nv/budd.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Lonely House (Weill)", "shortcut": "lonelyhouse",
+"link": "https://dl.dropbox.com/s/4w736jrvgzqxitf/lonelyhouse.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Love is Where You Find It (Nacio Herb Brown)", "shortcut": "loveis",
 "link": "https://dl.dropbox.com/s/83oszpa8ox3v56r/loveis.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
