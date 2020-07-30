@@ -874,6 +874,10 @@
 "link": "https://dl.dropbox.com/s/5s2ymcx4bd0zgj4/ichlade.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Ideale (Tosti)", "shortcut": "idealetosti",
+"link": "https://dl.dropbox.com/s/h89ngamcpmz90vz/idealetosti.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
+      
 {"name": "If Somebody there chanced to be (Gilbert & Sullivan)", "shortcut": "ifsomebody",
 "link": "https://dl.dropbox.com/s/wwi8ttdjxexqzq6/ruddigore.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
