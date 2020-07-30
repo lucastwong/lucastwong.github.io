@@ -1374,6 +1374,10 @@
 "link": "https://dl.dropbox.com/s/6hmrrxuqozhqedo/valentin.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "O sole mio (Eduardo di Capua)", "shortcut": "osolemio",
+"link": "https://dl.dropbox.com/s/kd5l1tb8j4kwix4/O_Sole_Mio.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Ô vin, dissipe la tristesse (Thomas)", "shortcut": "vin",
 "link": "https://dl.dropbox.com/s/5wz22bjt6jfftrz/vin.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
