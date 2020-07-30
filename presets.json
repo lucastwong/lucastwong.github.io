@@ -1,6 +1,10 @@
 {"presets":
 [
       
+{"name": "Ah, quel giorno ognor rammento (Rossini)", "shortcut": "aquelgiorno",
+"link": "https://dl.dropbox.com/s/ccjs7mawkflakpz/_A_quel_giorno_ognor_rammento_.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "A quoi bon l'economie (Massenet)", "shortcut": "aquoi",
 "link": "https://dl.dropbox.com/s/js3znpfpszmzm6v/aquoi.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -640,6 +644,10 @@
       
 {"name": "Ecco ridente (Rossini)", "shortcut": "eccoridente",
 "link": "https://dl.dropbox.com/s/koa0nga52njypab/eccoridente.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Eccomi alfine in Babilonia...Ah, quel giorno ognor rammento (Rossini)", "shortcut": "aquelgiorno",
+"link": "https://dl.dropbox.com/s/ccjs7mawkflakpz/_A_quel_giorno_ognor_rammento_.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Eccomi in lieta vesta...O quante volte (Bellini)", "shortcut": "eccomi",
