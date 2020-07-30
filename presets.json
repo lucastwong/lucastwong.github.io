@@ -290,6 +290,10 @@
 "link": "https://dl.dropbox.com/s/7l8h9l0u0uc88if/debussy.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "Cercherò lontana terra (Donizetti)","shortcut": "cerchero",
+"link": "https://dl.dropbox.com/s/0i9z956csl3zyua/cercherolon.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Ces lettres, ces lettres (Massenet)","shortcut": "ceslettres",
 "link": "https://dl.dropbox.com/s/xws4yth8n5dyomo/ceslettres.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
