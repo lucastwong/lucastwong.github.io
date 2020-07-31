@@ -1034,6 +1034,10 @@
 "link": "https://dl.dropbox.com/s/a5bcehck5tijxu0/lia.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5}, 
       
+{"name": "L'aure che spira tiranno e fiero (Handel)", "shortcut": "laure",
+"link": "https://dl.dropbox.com/s/4onnff559r5hkvr/laure.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1}, 
+      
 {"name": "L'espoir renaît dans mon âme (Gluck)", "shortcut": "lespoir",
 "link": "https://dl.dropbox.com/s/c8ah22oapdd2rfp/L%27espoir_rena%C3%AEt_dans_mon_%C3%A2me.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1}, 
