@@ -910,6 +910,14 @@
 "link": "https://dl.dropbox.com/s/h89ngamcpmz90vz/idealetosti.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":1},
       
+{"name": "If Music be the Food of Love - in 2 (Purcell)", "shortcut": "food2",
+"link": "https://dl.dropbox.com/s/wshdouhx0aaab9x/If_Music_be_the_food_of_love2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "If Music be the Food of Love - in 4 (Purcell)", "shortcut": "food1",
+"link": "https://dl.dropbox.com/s/27iu3a32yh0j43h/If_Music_be_the_food_of_love1.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "If Somebody there chanced to be (Gilbert & Sullivan)", "shortcut": "ifsomebody",
 "link": "https://dl.dropbox.com/s/wwi8ttdjxexqzq6/ruddigore.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
