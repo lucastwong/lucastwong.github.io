@@ -61,6 +61,10 @@
 "link": "https://dl.dropbox.com/s/4m02vd5fgxcewnm/fuggi.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Ah! fuyez, douce image (Massenet)", "shortcut": "ahfuyez",
+"link": "https://dl.dropbox.com/s/dnw7jh85zqbnxiy/ahfuyez.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
 {"name": "Ah, je ris de me voir (Gounod)", "shortcut": "jewel2",
 "link": "https://dl.dropbox.com/s/lwld9qfujnf840r/jewelsong.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
