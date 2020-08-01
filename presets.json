@@ -1998,6 +1998,10 @@
 "link": "https://dl.dropbox.com/s/gl4l4kvfuzzx7pp/Alcina_Tornami_a_vagheggiar_Hndel.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Total Eclipse (Handel)", "shortcut": "eclipse",
+"link": "https://dl.dropbox.com/s/037vkrhgth4r3yr/totaleclip.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Träumerei - accompaniment (Schumann)", "shortcut": "traumerei",
 "link": "https://dl.dropbox.com/s/0s3qj1nlgqakvqg/traumerei.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.3},
