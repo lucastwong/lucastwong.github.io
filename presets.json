@@ -2002,6 +2002,10 @@
 "link": "https://dl.dropbox.com/s/037vkrhgth4r3yr/totaleclip.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Tradito, schemito (Mozart)", "shortcut": "traditoschemito",
+"link": "https://dl.dropbox.com/s/sqi1l0yqttr62ax/traditosch.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Träumerei - accompaniment (Schumann)", "shortcut": "traumerei",
 "link": "https://dl.dropbox.com/s/0s3qj1nlgqakvqg/traumerei.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.3},
