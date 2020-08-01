@@ -2234,6 +2234,10 @@
 "link": "https://dl.dropbox.com/s/fxfj2h21t11z4zk/wiedu.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.25},
       
+{"name": "Wie eine Rosenknospe (Lehár)", "shortcut": "wieeinerosenknospe",
+"link": "https://dl.dropbox.com/s/n75wdsmei4v4pql/wieeinerosen.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
+      
 {"name": "Wie nahte mir der Schlummer...Leise, leise, fromme Weise (Weber)", "shortcut": "leiseleise",
 "link": "https://dl.dropbox.com/s/h8q6euiqusbvfos/leise2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.35}, 
