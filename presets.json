@@ -734,6 +734,10 @@
 "link": "https://dl.dropbox.com/s/bc0an2a3djlueh1/carmen.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Fantaisie aux divins mensonges (Delibes)", "shortcut": "fantaisieaux",
+"link": "https://dl.dropbox.com/s/2kehtho5lo7qmgo/fantaisieaux2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Feels Like Home (Randy Newman)", "shortcut": "home",
 "link": "https://dl.dropbox.com/s/k7gztpaa7vggs7d/home.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
