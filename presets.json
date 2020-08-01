@@ -1086,6 +1086,10 @@
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "La dolcissima effigie (Cilea)", "shortcut": "ladolccisima",
+"link": "https://dl.dropbox.com/s/dytd3vbxmyyuykc/ladolcissima.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "La donna è mobile (Verdi)", "shortcut": "LaDonna",
 "link": "https://dl.dropbox.com/s/3zex92is780jujb/ladonna.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
