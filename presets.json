@@ -1334,6 +1334,10 @@
 "link": "https://dl.dropbox.com/s/gcob6jz7vjjm4ny/Nessun_Dorma.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":1},
       
+{"name": "Net! Chary lask krasy myatezhnoy (Puccini)", "shortcut": "entchary",
+"link": "https://dl.dropbox.com/s/q48q9z5igou85yn/netchary.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "No word from Tom (Stravinsky)", "shortcut": "nwft",
 "link": "https://dl.dropbox.com/s/e6uhaih4yt9bgx6/nwft.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
