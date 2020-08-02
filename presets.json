@@ -974,6 +974,10 @@
 "link": "https://dl.dropbox.com/s/6l88oq8fib0ywpm/inuomini.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Infelice! e tu credevi (Verdi)", "shortcut": "infelice",
+"link": "https://dl.dropbox.com/s/2wh55e0fwj3hosk/Infeliceetu.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.25},
+      
 {"name": "Ingrato Polinesso!...Neghittosi or voi che fate? (Handel)", "shortcut": "negh2",
 "link": "https://dl.dropbox.com/s/65ucvxtx2yzzqr3/negh.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
