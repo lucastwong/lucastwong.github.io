@@ -1770,6 +1770,10 @@
 "link": "https://dl.dropbox.com/s/hnpc880vm1zje21/rosmarin.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Schweig' (Weber)", "shortcut": "schweig",
+"link": "https://dl.dropbox.com/s/5wuxoirfw8yll47/Schweig.musicxml",
+"category":"1","lyrics": "", "tracer":"","pedal":0.1},
+      
 {"name": "Scintille, diamant (Offenbach)", "shortcut": "scintille",
 "link": "https://dl.dropbox.com/s/ge85zifexcvbrux/Scintille_4D.musicxml",
 "category":"1","lyrics": "", "tracer":"","pedal":0.25},
