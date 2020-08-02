@@ -1596,7 +1596,7 @@
       
 {"name": "Piano Concerto No. 2 in B flat major - 1st mvt. (Brahms)", "shortcut": "b21",
 "link": "https://dl.dropbox.com/s/n8mgc05eiquzupd/Brahms_Piano_Concerto_2__First_Movement.musicxml",
-"category":"3","lyrics": "","tracer":"","pedal":0.1},
+"category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/brahms2imap.json","tracer":"","pedal":0.1},
       
 {"name": "Piano Concerto No. 2 in G minor - 1st mvt. (Saint-Saëns)", "shortcut": "sspiano1",
 "link": "https://dl.dropbox.com/s/bd8z9qsnbeqxvwe/Second_Piano_Concerto.musicxml",
