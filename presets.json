@@ -530,6 +530,10 @@
 "link": "https://dl.dropbox.com/s/05e6t57267vz339/wobinich.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "Di due figli vivea (Verdi)", "shortcut": "di due figli",
+"link": "https://dl.dropbox.com/s/gvi3fb0yptgmqiu/diduefigli.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Di Provenza (Verdi)", "shortcut": "provenza",
 "link": "https://dl.dropbox.com/s/7ccrehh3gylor8m/provenza.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
