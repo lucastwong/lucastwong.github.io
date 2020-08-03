@@ -1714,6 +1714,10 @@
 "link": "https://dl.dropbox.com/s/igpkdw86d1aejwq/quefaistu.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "Que les songes heureux (Gounod)", "shortcut": "quelessonges",
+"link": "https://dl.dropbox.com/s/nwtsyu5bzxkansb/Que%20les%20songes.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Questo amor (Puccini)", "shortcut": "questoamor",
 "link": "https://dl.dropbox.com/s/tiew4ovxoez5hot/questo2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
