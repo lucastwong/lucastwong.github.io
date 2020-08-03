@@ -2238,6 +2238,10 @@
 "link": "https://dl.dropbox.com/s/gcg4qfpgwyjnlrv/voilo.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Voici des roses (Berlioz)", "shortcut": "voici des roses",
+"link": "https://dl.dropbox.com/s/uz8y6th36k2iouj/Voici%20des%20roses.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.15},
+      
 {"name": "Volta la terrea (Verdi)", "shortcut": "voltalaterrea",
 "link": "https://dl.dropbox.com/s/xzev6x2cf0zkt24/voltalaterrea.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
