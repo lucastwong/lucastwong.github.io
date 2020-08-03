@@ -1846,6 +1846,10 @@
 "link": "https://dl.dropbox.com/s/0pivoeo5cym3npi/notaio.musicxml",
 "category":"1","lyrics": "", "tracer":"","pedal":0.2},
       
+{"name": "Si la rigueur (Halévy)", "shortcut": "silarigueur",
+"link": "https://dl.dropbox.com/s/628t1gm8qx5z2xp/silarigueur.musicxml",
+"category":"1","lyrics": "", "tracer":"","pedal":0.5},
+      
 {"name": "Si può? (Leoncavallo)", "shortcut": "sipuo",
 "link": "https://dl.dropbox.com/s/1xooon2yk5c5zya/sipuo.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
