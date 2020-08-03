@@ -1018,6 +1018,10 @@
 "link": "https://dl.dropbox.com/s/ykha6e3e9x302ww/jesuisgris2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":1},
       
+{"name": "Je t'implore, ô mon frère (Thomas)", "shortcut": "jetimploreomonfrere",
+"link": "https://dl.dropbox.com/s/1uxxkxlzluaaiw4/Je%20timplore.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Je veux vivre (Gounod)", "shortcut": "jeveux",
 "link": "https://dl.dropbox.com/s/njcsqz7lbjlry8g/jeveux.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
