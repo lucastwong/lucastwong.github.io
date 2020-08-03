@@ -2142,6 +2142,10 @@
 "link": "https://dl.dropbox.com/s/2zherfnj4anzcrz/_Venti_Turbini_.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Ves' tabar spit (Rachmaninoff)", "shortcut": "vestbar",
+"link": "https://dl.dropbox.com/s/7c8y2b7h01ffzn6/vestabar.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Vesti la giubba (Leoncavallo)", "shortcut": "vesti",
 "link": "https://dl.dropbox.com/s/zdi1xlelhokuejh/Vesti_La_giubba_%28Paggliaci%29.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
