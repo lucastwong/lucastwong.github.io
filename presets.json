@@ -514,6 +514,10 @@
 "link": "https://dl.dropbox.com/s/eet5z4r6l6dnpto/dein.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/dein.json","tracer":"","pedal":0.3},
       
+{"name": "Del più sublime soglio (Mozart)", "shortcut": "delpiusublime",
+"link": "https://dl.dropbox.com/s/iwrlhrok0vo1htw/Del%20piu%20sublime%20soglio.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Depuis hier...Que fais tu, blanche tourterelle? (Gounod)", "shortcut": "quefaistu",
 "link": "https://dl.dropbox.com/s/igpkdw86d1aejwq/quefaistu.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
