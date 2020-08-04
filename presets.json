@@ -2366,6 +2366,10 @@
 "link": "https://dl.dropbox.com/s/0aqran3ow7k4ydc/YoungerThanSpringtime.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Zerbinetta's aria (Richard Strauss)", "shortcut": "zerbin",
+"link": "https://dl.dropbox.com/s/c21o66fozl9sa8c/zerbin.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Zigeunerweisen (Sarasate)", "shortcut": "zige",
 "link": "https://dl.dropbox.com/s/y36w0nyolei1v0v/zige.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.2},
