@@ -2102,6 +2102,10 @@
 "link": "https://dl.dropbox.com/s/7un3aax8uk53qet/twinkle.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/twinkle.json","tracer":"","pedal":0.1},     
       
+{"name": "Udite o rustici (Donizetti)", "shortcut": "udite",
+"link": "https://dl.dropbox.com/s/2ktvklgvdjwbsnn/udite.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Un bel dì vedremo (Puccini)", "shortcut": "unbeldi",
 "link": "https://dl.dropbox.com/s/k7zq7cvbz5xrcub/unbeldi.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
