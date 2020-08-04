@@ -209,6 +209,10 @@
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.xml",
 "category":"4","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/avemaria.json","tracer":"","pedal":0.3},
 
+{"name": "Avete torto...Firenze è come un albero fiorito (Puccini)", "shortcut": "firenze",
+"link": "https://dl.dropbox.com/s/lr2khhfjhh0ny07/Firenze_come_4d.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Baba's aria (Stravinsky)", "shortcut": "baba",
 "link": "https://dl.dropbox.com/s/hnzlqas1p9q7gt5/babaaria.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -764,6 +768,10 @@
       
 {"name": "Fire aria (Ravel)", "shortcut": "firearia",
 "link": "https://dl.dropbox.com/s/mwk66r7nlhhnvy4/ravel.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
+{"name": "Firenze è come un albero fiorito (Puccini)", "shortcut": "firenze",
+"link": "https://dl.dropbox.com/s/lr2khhfjhh0ny07/Firenze_come_4d.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Flor Roja (Jacinto Guerrero)", "shortcut": "flor",
