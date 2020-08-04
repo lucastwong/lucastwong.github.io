@@ -674,6 +674,10 @@
 "link": "https://dl.dropbox.com/s/a922q57l3yumz47/nonsele.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "Ehi paggio!...L'onore! Ladri! (Verdi)", "shortcut": "ehipaggio",
+"link": "https://dl.dropbox.com/s/1iykjqssjg4l9o5/Ehi_paggio.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Ein traum (Grieg)", "shortcut": "eintraum",
 "link": "https://dl.dropbox.com/s/a55z2hn6l2d2fi2/GRIEG.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
