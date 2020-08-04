@@ -710,6 +710,10 @@
 "link": "https://dl.dropbox.com/s/68s9l833kl24491/empio%20fixed.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "En fermant les yeux (Rossini)", "shortcut": "enfermant",
+"link": "https://dl.dropbox.com/s/mwugj7yy7o0yh5i/En_fermant_les_yeux.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
+      
 {"name": "En proie à la tristesse (Rossini)", "shortcut": "enproie",
 "link": "https://dl.dropbox.com/s/k656bj8lla8idf9/enproie.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
