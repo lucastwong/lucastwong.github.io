@@ -1,6 +1,10 @@
 {"presets":
 [
       
+{"name": "À Chloris (Hahn)", "shortcut": "achloris",
+"link": "https://dl.dropbox.com/s/p5z6qp1kbkg7ujy/A_Chloris.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "A quoi bon l'economie (Massenet)", "shortcut": "aquoi",
 "link": "https://dl.dropbox.com/s/js3znpfpszmzm6v/aquoi.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/aquoi.json","tracer":"","pedal":0.1},
