@@ -1462,6 +1462,10 @@
 "link": "https://dl.dropbox.com/s/lnpziohgisue6um/ocolomb.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "O del mio amato ben (Donaudy)", "shortcut": "odelmioamato",
+"link": "https://dl.dropbox.com/s/rnw4uwaex9bqdxw/O_del_mio_amato_ben.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "O Dieu! de quelle ivresse (Offenbach)", "shortcut": "odieudequelle",
 "link": "https://dl.dropbox.com/s/jwtdwwmvqv5r95s/Oh_Dieu_de_quelle_ivresse%21.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
