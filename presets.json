@@ -1938,6 +1938,10 @@
 "link": "https://dl.dropbox.com/s/628t1gm8qx5z2xp/silarigueur.musicxml",
 "category":"1","lyrics": "", "tracer":"","pedal":0.5},
       
+{"name": "Si mes vers avaient des ailes! (Hahn)", "shortcut": "simesvers",
+"link": "https://dl.dropbox.com/s/ra7vrqkogh7b5q0/SI_MES_VERS_AVAIENT_DES_AILES.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
+      
 {"name": "Si può? (Leoncavallo)", "shortcut": "sipuo",
 "link": "https://dl.dropbox.com/s/1xooon2yk5c5zya/sipuo.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
