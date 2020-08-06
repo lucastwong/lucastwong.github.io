@@ -2405,6 +2405,10 @@
 {"name": "Zigeunerweisen (Sarasate)", "shortcut": "zige",
 "link": "https://dl.dropbox.com/s/y36w0nyolei1v0v/zige.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.2},
+
+{"name": "Zueignung (Richard Strauss)", "shortcut": "zueignung",
+"link": "https://dl.dropbox.com/s/q0hhpmpk3ecjsa3/zueignung.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.3},
       
 
 
