@@ -770,6 +770,10 @@
 "link": "https://dl.dropbox.com/s/jqsagw7erwp4bn4/Chopin_-_Etude_Op._25_No._6_in_G-sharp_minor-2020.05.25.12.42.15.xml",
 "category":"3","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Fagnes de Wallonie (Poulenc)", "shortcut": "fagnesde",
+"link": "https://dl.dropbox.com/s/r5sr1a05b74j03v/banal3.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.25},
+      
 {"name": "Faites-lui mes aveux (Gounod)", "shortcut": "faiteslui",
 "link": "https://dl.dropbox.com/s/naf66vtakyfpokm/faiteslui.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
