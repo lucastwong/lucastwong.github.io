@@ -1858,6 +1858,10 @@
 "link": "https://dl.dropbox.com/s/odnfrc6voxd167p/salutde.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Sanglots (Poulenc)", "shortcut": "sanglots",
+"link": "https://dl.dropbox.com/s/aaddwi42r4iyayx/banal5.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
+      
 {"name": "Schaunard's aria from La Bohème (Puccini)", "shortcut": "schaunard",
 "link": "https://dl.dropbox.com/s/1f3pea8702ug89a/schu.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
