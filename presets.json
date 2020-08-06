@@ -1466,6 +1466,10 @@
 "link": "https://dl.dropbox.com/s/gt8xpezogixi35s/nun.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "O blonde Cérès (Berlioz)", "shortcut": "oblondeceres",
+"link": "https://dl.dropbox.com/s/0r58jxdr21rctld/O_blonde_C%C3%A9r%C3%A8s.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
+      
 {"name": "O Canada (Calixa Lavallée)", "shortcut": "ocanada",
 "link": "https://dl.dropbox.com/s/aa1pjmco4csmbcy/ocanada.musicxml",
 "category":"4","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/ocanadamap.json","tracer":"","pedal":0.25},
