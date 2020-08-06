@@ -534,6 +534,10 @@
 "link": "https://dl.dropbox.com/s/0lho8zwneij7p3c/dlj.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
 
+{"name": "Der Engel (Wagner)", "shortcut": "derengel",
+"link": "https://dl.dropbox.com/s/hcetc1dzb8ymgj0/Der_Engel.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
+      
 {"name": "Der Hölle Rache (Mozart)", "shortcut": "hollerach",
 "link": "https://dl.dropbox.com/s/392pwgdbsmf9lrx/queen1.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
