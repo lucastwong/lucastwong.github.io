@@ -1530,6 +1530,10 @@
 "link": "https://dl.dropbox.com/s/kd5l1tb8j4kwix4/O_Sole_Mio.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "O tu Palermo (Verdi)", "shortcut": "otupalermo",
+"link": "https://dl.dropbox.com/s/upiztdufyrkttw2/O_tu_Palermo.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Ô vin, dissipe la tristesse (Thomas)", "shortcut": "vin",
 "link": "https://dl.dropbox.com/s/5wz22bjt6jfftrz/vin.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
