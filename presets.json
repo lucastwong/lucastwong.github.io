@@ -338,6 +338,10 @@
 "link": "https://dl.dropbox.com/s/ehm8kenj2f4mpsc/chacunlesait.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Chanson d'Orkenise (Poulenc)", "shortcut": "chansondorkenise",
+"link": "https://dl.dropbox.com/s/4fc7tnj9qw7229x/banal1.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.33},
+      
 {"name": "Che farò senza Euridice (Gluck)", "shortcut": "chefaro",
 "link": "https://dl.dropbox.com/s/e5qjpyvcbls4v7v/Che%20faro.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
