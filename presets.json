@@ -650,6 +650,10 @@
 "link": "https://dl.dropbox.com/s/8rxlujrtvhs4e54/efra.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "E l'uccellino (Puccini)", "shortcut": "eluccellino",
+"link": "https://dl.dropbox.com/s/ufgldivhhi3mjg9/uccellino.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "E' la solita storia  (Cilea)", "shortcut": "elasolita",
 "link": "https://dl.dropbox.com/s/pou94z0dq9vun4m/E_la_solita_storia_del_pastore.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
