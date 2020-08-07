@@ -866,12 +866,12 @@
 "link": "https://dl.dropbox.com/s/vrtf5fwca9r8gzh/distance.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
-{"name": "Gospod' moy, yesli greshen ya (Tchaikovsky)", "shortcut": "gospod",
-"link": "https://dl.dropbox.com/s/ehb5lpvhqt9dwgd/Gospod_moi.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.5},
-      
 {"name": "Gold is a Fine Thing (Moore)", "shortcut": "silver",
 "link": "https://dl.dropbox.com/s/en1h6dxgh0igiro/silveraria.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
+{"name": "Gospod' moy, yesli greshen ya (Tchaikovsky)", "shortcut": "gospod",
+"link": "https://dl.dropbox.com/s/ehb5lpvhqt9dwgd/Gospod_moi.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
 {"name": "Gott! welch' Dunkel hier! (Beethoven)", "shortcut": "gottwelch",
