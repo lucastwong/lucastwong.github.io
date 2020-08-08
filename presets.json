@@ -1158,6 +1158,10 @@
 "link": "https://dl.dropbox.com/s/h6g690587awhcrn/nadir.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.4},
       
+{"name": "La barcheta (Hahn)", "shortcut": "barcheta",
+"link": "https://dl.dropbox.com/s/osx4r0m480lkqin/Hahn2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "La calunnia (Rossini)", "shortcut": "calunnia",
 "link": "https://dl.dropbox.com/s/hig5ed9xnntxp0u/lacalunnia.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
