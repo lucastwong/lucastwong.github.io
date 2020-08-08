@@ -1166,6 +1166,10 @@
 "link": "https://dl.dropbox.com/s/osx4r0m480lkqin/Hahn2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "La Biondina in Gondoleta (Hahn)", "shortcut": "biondina",
+"link": "https://dl.dropbox.com/s/2rcoktaiwe92ro3/Hahn_-_Venezia_IV_La_Biondina_.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
+      
 {"name": "La calunnia (Rossini)", "shortcut": "calunnia",
 "link": "https://dl.dropbox.com/s/hig5ed9xnntxp0u/lacalunnia.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
