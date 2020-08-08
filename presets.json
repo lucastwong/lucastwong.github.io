@@ -330,6 +330,10 @@
 "link": "https://dl.dropbox.com/s/pefpw90mlhzvp4j/chegelida.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/chegelida.json","tracer":"","pedal":0.3},
 
+{"name": "Che pecà! (Hahn)", "shortcut": "chepeca",
+"link": "https://dl.dropbox.com/s/hcyjuyqcoy5p6d6/Hahn%20-%20Venezia%20V%20Che%20Peca.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Chacun à son goût (Johann Strauss)", "shortcut": "chacunason",
 "link": "https://dl.dropbox.com/s/5s2ymcx4bd0zgj4/ichlade.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
