@@ -982,6 +982,10 @@
 "link": "https://dl.dropbox.com/s/1hpt40c8otbfucs/iwonder.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/iwonder.json","tracer":"","pedal":0.3},
       
+{"name": "Ich baue ganz (Mozart)", "shortcut": "ichbaueganz",
+"link": "https://dl.dropbox.com/s/dyi56vocmglxfsl/Ich%20baue%20ganz.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Ich lade gern mir Gäste ein (Johann Strauss)", "shortcut": "chacunason",
 "link": "https://dl.dropbox.com/s/5s2ymcx4bd0zgj4/ichlade.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
