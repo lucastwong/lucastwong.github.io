@@ -1206,6 +1206,10 @@
 "link": "https://dl.dropbox.com/s/s5is5ll4iqpn7pd/lafleur.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "La Primavera (Hahn)","shortcut": "laprimavera",
+"link": "https://dl.dropbox.com/s/vf4f0um4n6416v8/Hahn%20-%20Venezia%20VI%20La%20Primavera.xml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "La tremenda ultrice spada (Bellini)", "shortcut": "seromeo",
 "link": "https://dl.dropbox.com/s/spmqu9847edm4sh/seromeo.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
