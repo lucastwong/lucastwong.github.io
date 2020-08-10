@@ -806,10 +806,6 @@
 "link": "https://dl.dropbox.com/s/5qcm9xkzysekaqo/fin.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
-{"name": "La fioraja fiorentina (Rossini)", "shortcut": "lafioraja",
-"link": "https://dl.dropbox.com/s/9l1jg53f5h5siop/fioraja.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
-      
 {"name": "Fire aria (Ravel)", "shortcut": "firearia",
 "link": "https://dl.dropbox.com/s/mwk66r7nlhhnvy4/ravel.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
@@ -1212,6 +1208,10 @@
       
 {"name": "La Fée's aria (Massenet)", "shortcut": "ahdouce",
 "link": "https://dl.dropbox.com/s/2zpoln61ctmmwv6/ahdouce.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "La fioraja fiorentina (Rossini)", "shortcut": "lafioraja",
+"link": "https://dl.dropbox.com/s/9l1jg53f5h5siop/fioraja.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "La fleur que tu m’avais jetée (Bizet)","shortcut": "lafleur2",
