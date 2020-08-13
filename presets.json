@@ -2370,6 +2370,10 @@
 "link": "https://dl.dropbox.com/s/hfm7yq32wk5bjgc/mendelssohn.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Violin Concerto No. 2 in G major - 3rd mvt. (Seitz)", "shortcut": "seitz2-3",
+"link": "https://dl.dropbox.com/s/ml1gl3nquajswm3/Seitz_Concerto_No_2_Mov_3.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Vision fugitive (Massenet)", "shortcut": "vision",
 "link": "https://dl.dropbox.com/s/hqq1qjlccl2v1nz/fugitive.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
