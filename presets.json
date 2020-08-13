@@ -1326,6 +1326,14 @@
 "link": "https://dl.dropbox.com/s/em1zhqbsl47ax43/lovesick.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Lullaby in F major (Brahms)", "shortcut": "lullabybrahms",
+"link": "https://dl.dropbox.com/s/vl2jd3yz486j215/Wiegenlied.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.5},
+      
+{"name": "Lullaby in G major (Schubert)", "shortcut": "lullabyschubert",
+"link": "https://dl.dropbox.com/s/2b0j20ro9d6igkb/schubertlullaby.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Lunge da lei...De' miei bollenti spiriti (Verdi)", "shortcut": "demiei",
 "link": "https://dl.dropbox.com/s/1imbmgtzqbbw904/lungeda.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
