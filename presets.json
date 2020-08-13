@@ -39,7 +39,7 @@
       
 {"name": "Adieu notre petite table (Massenet)", "shortcut": "adieunotre",
 "link": "https://dl.dropbox.com/s/8fxlx7rqkdqtwgo/adieunotre.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.25},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/adieunotre.json","tracer":"","pedal":0.25},
       
 {"name": "Ach ich liebte (Mozart)", "shortcut": "achichliebte",
 "link": "https://dl.dropbox.com/s/5wf00e0pn8inrvl/achichliebte.musicxml",
@@ -147,7 +147,7 @@
       
 {"name": "Allons! Il le faut!...Adieu notre petite table (Massenet)", "shortcut": "adieunotre2",
 "link": "https://dl.dropbox.com/s/8fxlx7rqkdqtwgo/adieunotre.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.25},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/adieunotre.json","tracer":"","pedal":0.25},
       
 {"name": "Amarilli, mia bella (Caccini)", "shortcut": "caccini",
 "link": "https://dl.dropbox.com/s/aemz9t231zakts7/amarilli.musicxml",
