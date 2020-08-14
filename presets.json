@@ -1190,6 +1190,10 @@
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/laci.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "La Cinquantaine (Gabriel-Marie)", "shortcut": "lacinquantaine",
+"link": "https://dl.dropbox.com/s/uchl35n5j7f2ubg/la_cinquantaine.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "La del ciel (Rossini)", "shortcut": "ladelciel",
 "link": "https://dl.dropbox.com/s/uz0j3tmc2elqqwg/ladelciel2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
