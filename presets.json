@@ -1244,7 +1244,7 @@
       
 {"name": "La ville qui dormait, toi (Messiaen)","shortcut": "harawi1",
 "link": "https://dl.dropbox.com/s/7pb8u27zi1zt66w/lavillequidormait.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.7},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/harawi1.json","tracer":"","pedal":0.7},
       
 {"name": "Lakmé, ton doux regard se voile (Delibes)","shortcut": "lakmeton",
 "link": "https://dl.dropbox.com/s/asxuig4bw9itubi/Lakm%C3%A9%2C%20ton%20doux.musicxml",
