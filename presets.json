@@ -31,7 +31,7 @@
 
 {"name": "Addio del passato (Verdi)", "shortcut": "addiopassato",
 "link": "https://dl.dropbox.com/s/5us2cwnr72lovpe/addiopassato.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.25},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/addiodelpassatomap.json","tracer":"","pedal":0.25},
       
 {"name": "Addio fiorito asil (Puccini)", "shortcut": "addiofiorito",
 "link": "https://dl.dropbox.com/s/cy1kwmjnv5ixqpg/addiofiorito.musicxml",
