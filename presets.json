@@ -19,7 +19,7 @@
       
 {"name": "Acerba voluttà (Cilea)", "shortcut": "acerba",
 "link": "https://dl.dropbox.com/s/8zw8lqqee4walcr/acerba.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.5},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/acerbamap.json","tracer":"","pedal":0.5},
       
 {"name": "Ach, ich fühl's (Mozart)", "shortcut": "achichfuhls",
 "link": "https://dl.dropbox.com/s/w1w5g16ae0gre60/achichfuhls.musicxml",
