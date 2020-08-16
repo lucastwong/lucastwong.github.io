@@ -35,7 +35,7 @@
       
 {"name": "Addio fiorito asil (Puccini)", "shortcut": "addiofiorito",
 "link": "https://dl.dropbox.com/s/cy1kwmjnv5ixqpg/addiofiorito.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.5},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/addiofioritomap.json","tracer":"","pedal":0.5},
       
 {"name": "Adieu notre petite table (Massenet)", "shortcut": "adieunotre",
 "link": "https://dl.dropbox.com/s/8fxlx7rqkdqtwgo/adieunotre.musicxml",
