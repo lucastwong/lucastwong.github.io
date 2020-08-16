@@ -2526,6 +2526,10 @@
 "link": "https://dl.dropbox.com/s/05e6t57267vz339/wobinich.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "Ya opyat odinok (Rachmaninoff)", "shortcut": "yaopyat",
+"link": "https://dl.dropbox.com/s/s0tbrvvh9j0tzo8/rachsong.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.6},
+      
 {"name": "Ya vas lyublyu (Tchaikovsky)", "shortcut": "yavas",
 "link": "https://dl.dropbox.com/s/1cdnjn4lve9h8sv/yeletsky.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/yeletsky.json","tracer":"","pedal":0.2},
