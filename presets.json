@@ -1426,6 +1426,14 @@
 "link": "https://dl.dropbox.com/s/3uktjg9ajnlbw71/mitradi.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Minuet from Op. 11, No. 5 - in A major (Boccherini)", "shortcut": "bocch1",
+"link": "https://dl.dropbox.com/s/qpbfxqkukjspqhi/Boccherini%20Minuet%20in%20A.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Minuet from Op. 11, No. 5 - in D major (Boccherini)", "shortcut": "bocch2",
+"link": "https://dl.dropbox.com/s/ncp08ypngn7nr5n/Boccherini%20Minuet%20in%20D.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Minuet in G BWV anh 114 (Bach)", "shortcut": "114",
 "link": "https://dl.dropbox.com/s/dode14yaz9isybo/114.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
