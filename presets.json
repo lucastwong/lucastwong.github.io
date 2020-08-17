@@ -2680,7 +2680,11 @@
       
 {"name": "", "shortcut": "youraise",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/youraise.xml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "","tracer":"","pedal":0.1},  
+      
+{"name": "***", "shortcut": "heggie",
+"link": "https://dl.dropbox.com/s/9xkoyebor2k6td3/heggie.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.33},
             
 {"name": "", "shortcut": "babbo",
 "link": "https://dl.dropbox.com/s/lyq77cxpi3uhmgz/babbino.musicxml",
