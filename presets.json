@@ -2184,11 +2184,11 @@
       
 {"name": "Song of the Wind - A major (Folk)", "shortcut": "wind2",
 "link": "https://dl.dropbox.com/s/u2fvhs48hw9yq5y/Song%20of%20the%20Wind%20in%20A.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/songofthewind.json","tracer":"","pedal":0.1},
       
 {"name": "Song of the Wind - D major (Folk)", "shortcut": "wind1",
 "link": "https://dl.dropbox.com/s/nrqrzknlwevpaai/Song%20of%20the%20Wind%20in%20D.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/songofthewind.json","tracer":"","pedal":0.1},
       
 {"name": "Song to the Moon (Dvořák)", "shortcut": "Rusalka",
 "link": "https://dl.dropbox.com/s/39qgp975vw4f8dd/songtothemoon.musicxml",
