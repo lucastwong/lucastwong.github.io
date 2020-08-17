@@ -1368,11 +1368,11 @@
       
 {"name": "Long, Long Ago - A major (Folk)", "shortcut": "longlong1",
 "link": "https://dl.dropbox.com/s/1orlddup83hn7bn/Long%20Long%20Ago%20in%20A.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.4},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/longlongago2.json","tracer":"","pedal":0.4},
       
 {"name": "Long, Long Ago - C major (Folk)", "shortcut": "longlong2",
 "link": "https://dl.dropbox.com/s/sua6ma79sufwhe6/Long%20Long%20Ago%20-%20in%20C.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.4}, 
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/longlongago1.json","tracer":"","pedal":0.4}, 
       
 {"name": "Look! Through the port (Britten)", "shortcut": "budd",
 "link": "https://dl.dropbox.com/s/346xllhg6gnp7nv/budd.musicxml",
