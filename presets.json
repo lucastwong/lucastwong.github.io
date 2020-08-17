@@ -1492,7 +1492,7 @@
       
 {"name": "Minuet in G BWV anh 116 (Bach)", "shortcut": "116",
 "link": "https://dl.dropbox.com/s/h086fkzb0910xc3/Minuet116.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuet116.json","tracer":"","pedal":0.1},
       
 {"name": "Mir ist die Ehre widerfahren - aria cut (Richard Strauss)", "shortcut": "miristdie",
 "link": "https://dl.dropbox.com/s/mk2u8otstnplcc2/presentation.musicxml",
