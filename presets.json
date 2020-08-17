@@ -888,11 +888,11 @@
       
 {"name": "Go Tell Aunt Rhody - A major (Folk)", "shortcut": "rhody1",
 "link": "https://dl.dropbox.com/s/8aakyoiwui0o98r/Aunt%20Rhody%20in%20A.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/auntrhody.json","tracer":"","pedal":0.1},
 
 {"name": "Go Tell Aunt Rhody - D major (Folk)", "shortcut": "rhody2",
 "link": "https://www.dropbox.com/s/c9mu4mtg4m44xiz/Aunt%20Rhody%20in%20D.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/auntrhody.json","tracer":"","pedal":0.1},
       
 {"name": "Go the Distance (Alan Menken)", "shortcut": "distance",
 "link": "https://dl.dropbox.com/s/vrtf5fwca9r8gzh/distance.musicxml",
