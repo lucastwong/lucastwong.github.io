@@ -938,6 +938,14 @@
 "link": "https://dl.dropbox.com/s/loohtpfkp0rvhnn/Happy_Birthday_Orhcestral.musicxml",
 "category":"4","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Happy Farmer - C major (Robert Schumann)", "shortcut": "farmerc",
+"link": "https://dl.dropbox.com/s/oscjinjpxpqy95s/Happy%20Farmer%20in%20C.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},  
+      
+{"name": "Happy Farmer - G major (Robert Schumann)", "shortcut": "farmerg",
+"link": "https://dl.dropbox.com/s/9bs0dde9xzgwt0n/Happy%20Farmer%20in%20G.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},    
+      
 {"name": "Harpsichord Concerto in D minor BWV 1052 (Bach)", "shortcut": "1052",
 "link": "https://dl.dropbox.com/s/hjziw8k8as1amdk/1052.musicxml",
 "category":"3","lyrics": "","tracer":"","pedal":0.1},
