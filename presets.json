@@ -1352,7 +1352,7 @@
       
 {"name": "Lightly Row - A major (Folk)", "shortcut": "row1",
 "link": "https://dl.dropbox.com/s/l1gmd8br5mpx9oj/Lightly%20Row%20in%20A.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.25},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lightlyrow4.json","tracer":"","pedal":0.25},
       
 {"name": "Lightly Row - A major in cut time (Folk)", "shortcut": "row2",
 "link": "https://dl.dropbox.com/s/hocfp4re7qrcqch/Lightly%20Row%20in%20A%20cut.musicxml",
@@ -1360,7 +1360,7 @@
       
 {"name": "Lightly Row - D major (Folk)", "shortcut": "row3",
 "link": "https://dl.dropbox.com/s/rskxaeovtr9sr9e/Lightly%20Row%20in%20D.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.25},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lightlyrow4.json","tracer":"","pedal":0.25},
       
 {"name": "Lightly Row - D major in cut time (Folk)", "shortcut": "row4",
 "link": "https://dl.dropbox.com/s/m9d7qopvqajpyk1/Lightly%20Row%20in%20D%20cut.musicxml",
