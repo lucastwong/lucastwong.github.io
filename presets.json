@@ -1628,11 +1628,11 @@
       
 {"name": "O Come, Little Children - A major (Folk)", "shortcut": "littlechildren2",
 "link": "https://dl.dropbox.com/s/07zraziykl2k772/Little%20Children%20in%20A.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},    
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/littlechildren.json","tracer":"","pedal":0.1},    
       
 {"name": "O Come, Little Children - D major (Folk)", "shortcut": "littlechildren1",
 "link": "https://dl.dropbox.com/s/qcn86mz5izun8sh/Little%20Children%20in%20D.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/littlechildren.json","tracer":"","pedal":0.1},
       
 {"name": "O del mio amato ben (Donaudy)", "shortcut": "odelmioamato",
 "link": "https://dl.dropbox.com/s/rnw4uwaex9bqdxw/O_del_mio_amato_ben.musicxml",
