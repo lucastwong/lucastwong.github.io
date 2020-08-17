@@ -888,11 +888,11 @@
       
 {"name": "Go Tell Aunt Rhody - A major (Folk)", "shortcut": "rhody1",
 "link": "https://dl.dropbox.com/s/8aakyoiwui0o98r/Aunt%20Rhody%20in%20A.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
 
 {"name": "Go Tell Aunt Rhody - D major (Folk)", "shortcut": "rhody2",
 "link": "https://www.dropbox.com/s/c9mu4mtg4m44xiz/Aunt%20Rhody%20in%20D.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Go the Distance (Alan Menken)", "shortcut": "distance",
 "link": "https://dl.dropbox.com/s/vrtf5fwca9r8gzh/distance.musicxml",
@@ -1597,6 +1597,14 @@
 {"name": "O Colombina (Leoncavallo)", "shortcut": "colombina",
 "link": "https://dl.dropbox.com/s/lnpziohgisue6um/ocolomb.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "O Come, Little Children - A major (Folk)", "shortcut": "littlechildren2",
+"link": "https://dl.dropbox.com/s/07zraziykl2k772/Little%20Children%20in%20A.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},    
+      
+{"name": "O Come, Little Children - D major (Folk)", "shortcut": "littlechildren1",
+"link": "https://dl.dropbox.com/s/qcn86mz5izun8sh/Little%20Children%20in%20D.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "O del mio amato ben (Donaudy)", "shortcut": "odelmioamato",
 "link": "https://dl.dropbox.com/s/rnw4uwaex9bqdxw/O_del_mio_amato_ben.musicxml",
