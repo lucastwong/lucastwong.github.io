@@ -1484,7 +1484,7 @@
       
 {"name": "Minuet in G BWV 822 (Bach)", "shortcut": "minuet822",
 "link": "https://dl.dropbox.com/s/0up48n3m7w7pf83/Violin%20Minuet%20Bach%20in%20G.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuet822.json","tracer":"","pedal":0.1},
       
 {"name": "Minuet in G BWV anh 114 (Bach)", "shortcut": "114",
 "link": "https://dl.dropbox.com/s/dode14yaz9isybo/114.musicxml",
