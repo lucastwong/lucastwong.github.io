@@ -852,11 +852,11 @@
       
 {"name": "Gavotte - G major (Gossec)", "shortcut": "gossec",
 "link": "https://dl.dropbox.com/s/y57zas2bug4n6vl/gossec2.musicxml",
-"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gossec.json","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gossec1.json","tracer":"","pedal":0.1},
       
 {"name": "Gavotte - G major in cut time (Gossec)", "shortcut": "gossec",
 "link": "https://dl.dropbox.com/s/ocadaug1kry6lcy/gossec.musicxml",
-"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gossec.json","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gossec2.json","tracer":"","pedal":0.1},
 
 {"name": "Gavotte - D minor (Lully)", "shortcut": "lully1",
 "link": "https://dl.dropbox.com/s/1u40g7rw0489n09/lully%20gavotte%20in%20d%20minor.musicxml",
