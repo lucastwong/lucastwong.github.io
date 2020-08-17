@@ -936,15 +936,7 @@
       
 {"name": "Happy Birthday", "shortcut": "birthday",
 "link": "https://dl.dropbox.com/s/loohtpfkp0rvhnn/Happy_Birthday_Orhcestral.musicxml",
-"category":"4","lyrics": "","tracer":"","pedal":0.1},
-      
-{"name": "Happy Farmer - C major (Robert Schumann)", "shortcut": "farmerc",
-"link": "https://dl.dropbox.com/s/oscjinjpxpqy95s/Happy%20Farmer%20in%20C.musicxml",
-"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/farmer.json","tracer":"","pedal":0.1},  
-      
-{"name": "Happy Farmer - G major (Robert Schumann)", "shortcut": "farmerg",
-"link": "https://dl.dropbox.com/s/9bs0dde9xzgwt0n/Happy%20Farmer%20in%20G.musicxml",
-"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/farmer.json","tracer":"","pedal":0.1},    
+"category":"4","lyrics": "","tracer":"","pedal":0.1},  
       
 {"name": "Harpsichord Concerto in D minor BWV 1052 (Bach)", "shortcut": "1052",
 "link": "https://dl.dropbox.com/s/hjziw8k8as1amdk/1052.musicxml",
@@ -2250,9 +2242,25 @@
 "link": "https://dl.dropbox.com/s/bq74jo7i92vjix9/tacea.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Tatiana's Letter Scene - with cuts (Tchaikovsky)", "shortcut": "letterscene",
+"link": "https://dl.dropbox.com/s/52zmgnk08jat1rw/letter.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.25}, 
+
+{"name": "Ten lásky sen (Smetana)", "shortcut": "ochjaky",
+"link": "https://dl.dropbox.com/s/arijuyc2nlsabj5/ochjaky.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
+      
 {"name": "The Entertainer (Joplin)", "shortcut": "enter",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Entertainer.xml",
 "category":"3","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "The Happy Farmer - C major (Robert Schumann)", "shortcut": "farmerc",
+"link": "https://dl.dropbox.com/s/oscjinjpxpqy95s/Happy%20Farmer%20in%20C.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/farmer.json","tracer":"","pedal":0.1},  
+      
+{"name": "The Happy Farmer - G major (Robert Schumann)", "shortcut": "farmerg",
+"link": "https://dl.dropbox.com/s/9bs0dde9xzgwt0n/Happy%20Farmer%20in%20G.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/farmer.json","tracer":"","pedal":0.1},  
 
 {"name": "The hours creep on apace...A simple sailor, lowly born (Gilbert & Sullivan)", "shortcut": "sailor",
 "link": "https://dl.dropbox.com/s/segussbdnixqt1m/sailor.musicxml",
@@ -2285,14 +2293,6 @@
 {"name": "The Star-Spangled Banner (John Stafford Smith)", "shortcut": "starsp",
 "link": "https://dl.dropbox.com/s/70aislvedb4glh9/The_Star_Spangled_Banner.musicxml",
 "category":"4","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/starmap.json","tracer":"","pedal":0.5},
-      
-{"name": "Ten lásky sen (Smetana)", "shortcut": "ochjaky",
-"link": "https://dl.dropbox.com/s/arijuyc2nlsabj5/ochjaky.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":1},
-      
-{"name": "Tatiana's Letter Scene - with cuts (Tchaikovsky)", "shortcut": "letterscene",
-"link": "https://dl.dropbox.com/s/52zmgnk08jat1rw/letter.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.25}, 
       
 {"name": "To a Wild Rose - accompaniment (MacDowell)", "shortcut": "wildrose",
 "link": "https://dl.dropbox.com/s/il3p91ggyowwpla/To_A_Wild_Rose.musicxml",
