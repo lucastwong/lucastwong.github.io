@@ -1760,7 +1760,7 @@
       
 {"name": "Papagena, Papagena! (Mozart)", "shortcut": "papa",
 "link": "https://dl.dropbox.com/s/kercqfphlhp8ntp/papa.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/papamap.json","tracer":"","pedal":0.1},
       
 {"name": "Papers! (Menotti)", "shortcut": "papers",
 "link": "https://dl.dropbox.com/s/83qq3yrmasj2tha/ToThis.musicxml",
