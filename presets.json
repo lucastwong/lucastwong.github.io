@@ -269,6 +269,14 @@
 "link": "https://dl.dropbox.com/s/nntzo30p40iexx3/bester.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Bourrée - C major (Handel)", "shortcut": "bourree1",
+"link": "https://dl.dropbox.com/s/7c83f8deyhg7wuk/Bourree%20in%20C.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1}, 
+      
+{"name": "Bourrée - G major (Handel)", "shortcut": "bourree1",
+"link": "https://dl.dropbox.com/s/mxz2d0s4356ss83/Bourree%20in%20G.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},  
+      
 {"name": "Brasset's Introduction (Oscar Feltsman)", "shortcut": "brasset",
 "link": "https://dl.dropbox.com/s/puufph7u3cn77vs/goodevening.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/brasset.json","tracer":"","pedal":0.1},
@@ -369,6 +377,10 @@
 {"name": "Chinois Tambourin (Kreisler)","shortcut": "chinois",
 "link": "https://dl.dropbox.com/s/cssf8ku4h92hz9k/tambourin.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Chorus from Judas Maccabaeus (Handel)","shortcut": "judas1",
+"link": "https://dl.dropbox.com/s/rymxerk5mewzrmc/Judas%20Chorus%20VIOLIN.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/chorusjudas.json","tracer":"","pedal":0.1},  
       
 {"name": "Climb Ev'ry Mountain (Rodgers & Hammerstein)", "shortcut": "climb",
 "link": "https://dl.dropbox.com/s/h0aylnydixqr2lx/ClimbEvryMountain.musicxml",
@@ -857,9 +869,17 @@
 {"name": "Gavotte - G major in cut time (Gossec)", "shortcut": "gossec",
 "link": "https://dl.dropbox.com/s/ocadaug1kry6lcy/gossec.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gossec2.json","tracer":"","pedal":0.1},
-
-{"name": "Gavotte - D minor (Lully)", "shortcut": "lully1",
+      
+{"name": "Gavotte - A minor (Lully)", "shortcut": "lully12",
 "link": "https://dl.dropbox.com/s/1u40g7rw0489n09/lully%20gavotte%20in%20d%20minor.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lullygavotte.json","tracer":"","pedal":0.1},
+      
+{"name": "Gavotte - A minor in cut time (Lully)", "shortcut": "lully22",
+"link": "https://dl.dropbox.com/s/edowtfnrq2p0lfk/lully%20gavotte%20in%20a%20minor%20cut.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lullygavotte2.json","tracer":"","pedal":0.1},
+      
+{"name": "Gavotte - D minor (Lully)", "shortcut": "lully1",
+"link": "https://www.dropbox.com/s/tkvwkntxdc1d19d/lully%20gavotte%20in%20a%20minor.musicxml?dl=0",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Gavotte - D minor in cut time (Lully)", "shortcut": "lully2",
@@ -873,6 +893,10 @@
 {"name": "Gavotte (Popper)", "shortcut": "popper",
 "link": "https://dl.dropbox.com/s/v2o1q3ac0397n31/popper.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Gavotte from Mignon (Thomas)", "shortcut": "mignongavotte",
+"link": "https://dl.dropbox.com/s/h1c6eu2hxlmjuh9/Mignon%20Gavotte.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/mignongavotte.json","tracer":"","pedal":0.1},
       
 {"name": "Gia il sole dal Gange (Scarlatti)", "shortcut": "Giail",
 "link": "https://dl.dropbox.com/s/ir1g4gnmxcg5v3r/giail.musicxml",
@@ -977,6 +1001,10 @@
 {"name": "Humoresque - accompaniment (Dvořák)", "shortcut": "humor",
 "link": "https://dl.dropbox.com/s/74kw52qvsq3bv61/humor.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
+          
+{"name": "Hunters' Chorus (Weber)", "shortcut": "hunters",
+"link": "https://dl.dropbox.com/s/wn118igj5aycli0/Hunters%20in%20G.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/huntersing.json","tracer":"","pedal":0.1},
       
 {"name": "Hurr hopp (Humperdinck)", "shortcut": "hurr",
 "link": "https://dl.dropbox.com/s/lci1iwmg6tta899/hurrhopp.musicxml",
@@ -1472,11 +1500,19 @@
       
 {"name": "Minuet from Op. 11, No. 5 - A major (Boccherini)", "shortcut": "bocch1",
 "link": "https://dl.dropbox.com/s/qpbfxqkukjspqhi/Boccherini%20Minuet%20in%20A.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/boccherini.json","tracer":"","pedal":0.1},
       
 {"name": "Minuet from Op. 11, No. 5 - D major (Boccherini)", "shortcut": "bocch2",
 "link": "https://dl.dropbox.com/s/ncp08ypngn7nr5n/Boccherini%20Minuet%20in%20D.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/boccherini.json","tracer":"","pedal":0.1},
+      
+{"name": "Minuet in G - for cello (Beethoven)", "shortcut": "beeminuet1",
+"link": "https://dl.dropbox.com/s/2cp68c523pr60y8/Beethoven%20Minuet%20CELLO.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/beethovenminuet.json","tracer":"","pedal":0.1}, 
+      
+{"name": "Minuet in G - for violin (Beethoven)", "shortcut": "beeminuet1",
+"link": "https://dl.dropbox.com/s/hnv7qoynjxiwie5/Beethoven%20Minuet%20VIOLIN.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/beethovenminuet.json","tracer":"","pedal":0.1}, 
       
 {"name": "Minuet in G BWV 822 (Bach)", "shortcut": "minuet822",
 "link": "https://dl.dropbox.com/s/0up48n3m7w7pf83/Violin%20Minuet%20Bach%20in%20G.musicxml",
@@ -1504,7 +1540,23 @@
       
 {"name": "Musetta's Waltz (Puccini)", "shortcut": "musetta",
 "link": "https://dl.dropbox.com/s/e4mtumz7vzvh4pz/quandomenvo.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.5},      
+"category":"1","lyrics": "","tracer":"","pedal":0.5},     
+      
+{"name": "Musette BWV 808 - D major (Bach)", "shortcut": "musette1",
+"link": "https://dl.dropbox.com/s/hqp0yqu6qz3x622/Musette%20in%20D.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/musette%20in%204.json","tracer":"","pedal":0.1},
+      
+{"name": "Musette BWV 808 - D major in cut time (Bach)", "shortcut": "musette1",
+"link": "https://dl.dropbox.com/s/rhirxjr4j7y8594/Musette%20in%20D%20cut.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/musette%20in%202.json","tracer":"","pedal":0.1},     
+      
+{"name": "Musette BWV 808 - G major (Bach)", "shortcut": "musette2",
+"link": "https://dl.dropbox.com/s/cacvg848yfny7z5/Musette%20in%20G.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/musette%20in%204.json","tracer":"","pedal":0.1},     
+      
+{"name": "Musette BWV 808 - G major in cut time (Bach)", "shortcut": "musette2",
+"link": "https://dl.dropbox.com/s/wpmzkqddjgeff41/Musette%20in%20G%20cut.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/musette%20in%202.json","tracer":"","pedal":0.1},  
       
 {"name": "Musica proibita (Gastaldon)", "shortcut": "musicaproibita",
 "link": "https://dl.dropbox.com/s/k2tiq47wr24jyjc/Musica_proibita.musicxml",
@@ -2270,6 +2322,14 @@
 "link": "https://dl.dropbox.com/s/segussbdnixqt1m/sailor.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},   
       
+{"name": "The Two Grenadiers - D minor (Robert Schumann)", "shortcut": "gren1",
+"link": "https://dl.dropbox.com/s/jrn7bodjdmpx1fm/Grenadiers%20in%20D.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/grenadiers.json","tracer":"","pedal":0.1}, 
+      
+{"name": "The Two Grenadiers - G minor (Robert Schumann)", "shortcut": "gren2",
+"link": "https://dl.dropbox.com/s/1ysitz9t9m9gpzc/Grenadiers%20in%20G.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/grenadiers.json","tracer":"","pedal":0.1}, 
+      
 {"name": "The Moon over the Ruined Castle - E minor (Taki)", "shortcut": "castle1",
 "link": "https://dl.dropbox.com/s/ughwlbwrkqgg9lt/Moon_over_the_Ruined_Castle%20e%20minor%20.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.2},
@@ -2297,6 +2357,14 @@
 {"name": "The Star-Spangled Banner (John Stafford Smith)", "shortcut": "starsp",
 "link": "https://dl.dropbox.com/s/70aislvedb4glh9/The_Star_Spangled_Banner.musicxml",
 "category":"4","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/starmap.json","tracer":"","pedal":0.5},
+      
+{"name": "Theme from Witches' Dance - D major (Paganini)", "shortcut": "witch1",
+"link": "https://dl.dropbox.com/s/b5v04cp9fz7wk92/Witches%20in%20D.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/witchesdance.json","tracer":"","pedal":0.1},
+      
+{"name": "Theme from Witches' Dance - G major (Paganini)", "shortcut": "witch1",
+"link": "https://dl.dropbox.com/s/myl1ukyfply322q/Witches%20in%20G.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/witchesdance.json","tracer":"","pedal":0.1},
       
 {"name": "To a Wild Rose - accompaniment (MacDowell)", "shortcut": "wildrose",
 "link": "https://dl.dropbox.com/s/il3p91ggyowwpla/To_A_Wild_Rose.musicxml",
@@ -2557,6 +2625,10 @@
 {"name": "Voyage à Paris (Poulenc)", "shortcut": "voyageaparis",
 "link": "https://dl.dropbox.com/s/sdenydqriki4p46/banal4.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
+ 
+{"name": "Waltz (Brahms)", "shortcut": "waltzbrahms",
+"link": "https://www.dropbox.com/s/lmda9v0lrhfexdi/Brahms%20Waltz.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/brahmswaltz.json","tracer":"","pedal":0.5},
       
 {"name": "Warm as the autumn light (Moore)", "shortcut": "warm",
 "link": "https://dl.dropbox.com/s/l32j7twoamwzs0f/warm.musicxml",
