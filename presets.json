@@ -1588,7 +1588,7 @@
       
 {"name": "Non siate ritrosi (Mozart)", "shortcut": "nonsiate",
 "link": "https://dl.dropbox.com/s/gw0sj1hw8jxovfa/nonsiate.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.2},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/nonsiate.json","tracer":"","pedal":0.2},
       
 {"name": "Non so le tetre immagini (Verdi)", "shortcut": "nonsolet",
 "link": "https://dl.dropbox.com/s/a922q57l3yumz47/nonsele.musicxml",
