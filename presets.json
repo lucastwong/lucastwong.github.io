@@ -2627,7 +2627,7 @@
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
  
 {"name": "Waltz (Brahms)", "shortcut": "waltzbrahms",
-"link": "https://www.dropbox.com/s/lmda9v0lrhfexdi/Brahms%20Waltz.musicxml",
+"link": "https://dl.dropbox.com/s/lmda9v0lrhfexdi/Brahms%20Waltz.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/brahmswaltz.json","tracer":"","pedal":0.5},
       
 {"name": "Warm as the autumn light (Moore)", "shortcut": "warm",
