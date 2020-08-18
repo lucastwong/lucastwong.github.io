@@ -271,11 +271,11 @@
       
 {"name": "Bourrée - C major (Handel)", "shortcut": "bourree1",
 "link": "https://dl.dropbox.com/s/7c83f8deyhg7wuk/Bourree%20in%20C.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1}, 
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bourreehandelCELLO.json","tracer":"","pedal":0.1}, 
       
 {"name": "Bourrée - G major (Handel)", "shortcut": "bourree1",
 "link": "https://dl.dropbox.com/s/mxz2d0s4356ss83/Bourree%20in%20G.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},  
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bourreehandelVIOLIN.json","tracer":"","pedal":0.1},  
       
 {"name": "Brasset's Introduction (Oscar Feltsman)", "shortcut": "brasset",
 "link": "https://dl.dropbox.com/s/puufph7u3cn77vs/goodevening.musicxml",
