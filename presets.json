@@ -1518,33 +1518,37 @@
 "link": "https://dl.dropbox.com/s/3uktjg9ajnlbw71/mitradi.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
-{"name": "Minuet from Op. 11, No. 5 - A major (Boccherini)", "shortcut": "bocch1",
-"link": "https://dl.dropbox.com/s/qpbfxqkukjspqhi/Boccherini%20Minuet%20in%20A.musicxml",
-"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/boccherini.json","tracer":"","pedal":0.1},
-      
-{"name": "Minuet from Op. 11, No. 5 - D major (Boccherini)", "shortcut": "bocch2",
-"link": "https://dl.dropbox.com/s/ncp08ypngn7nr5n/Boccherini%20Minuet%20in%20D.musicxml",
-"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/boccherini.json","tracer":"","pedal":0.1},
-      
-{"name": "Minuet in G - for cello (Beethoven)", "shortcut": "beeminuet1",
-"link": "https://dl.dropbox.com/s/2cp68c523pr60y8/Beethoven%20Minuet%20CELLO.musicxml",
-"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/beethovenminuet.json","tracer":"","pedal":0.1}, 
-      
-{"name": "Minuet in G - for violin (Beethoven)", "shortcut": "beeminuet1",
-"link": "https://dl.dropbox.com/s/hnv7qoynjxiwie5/Beethoven%20Minuet%20VIOLIN.musicxml",
-"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/beethovenminuet.json","tracer":"","pedal":0.1}, 
-      
-{"name": "Minuet in G BWV 822 (Bach)", "shortcut": "minuet822",
+{"name": "Minuet, BWV 822 - G major (Bach)", "shortcut": "minuet822",
 "link": "https://dl.dropbox.com/s/0up48n3m7w7pf83/Violin%20Minuet%20Bach%20in%20G.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuet822.json","tracer":"","pedal":0.1},
       
-{"name": "Minuet in G BWV anh 114 (Bach)", "shortcut": "114",
+{"name": "Minuet, BWV 822 - C major (Bach)", "shortcut": "minuet8222",
+"link": "https://dl.dropbox.com/s/983l1gmxzoze1eq/Violin%20Minuet%20Bach%20in%20C.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuet822.json","tracer":"","pedal":0.1},
+      
+{"name": "Minuet, BWV anh. 114 - G major (Bach)", "shortcut": "114",
 "link": "https://dl.dropbox.com/s/dode14yaz9isybo/114.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/114.json","tracer":"","pedal":0.1},
       
-{"name": "Minuet in G BWV anh 116 (Bach)", "shortcut": "116",
+{"name": "Minuet, BWV anh. 116 - G major (Bach)", "shortcut": "116",
 "link": "https://dl.dropbox.com/s/h086fkzb0910xc3/Minuet116.musicxml",
-"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuet116.json","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuet116.json","tracer":"","pedal":0.1},   
+      
+{"name": "Minuet, Op. 11, No. 5 - A major (Boccherini)", "shortcut": "bocch1",
+"link": "https://dl.dropbox.com/s/qpbfxqkukjspqhi/Boccherini%20Minuet%20in%20A.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/boccherini.json","tracer":"","pedal":0.1},
+      
+{"name": "Minuet, Op. 11, No. 5 - D major (Boccherini)", "shortcut": "bocch2",
+"link": "https://dl.dropbox.com/s/ncp08ypngn7nr5n/Boccherini%20Minuet%20in%20D.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/boccherini.json","tracer":"","pedal":0.1},
+      
+{"name": "Minuet, WoO 10 - G major for cello (Beethoven)", "shortcut": "beeminuet1",
+"link": "https://dl.dropbox.com/s/2cp68c523pr60y8/Beethoven%20Minuet%20CELLO.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/beethovenminuet.json","tracer":"","pedal":0.1}, 
+      
+{"name": "Minuet, WoO 10 - G major for violin (Beethoven)", "shortcut": "beeminuet1",
+"link": "https://dl.dropbox.com/s/hnv7qoynjxiwie5/Beethoven%20Minuet%20VIOLIN.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/beethovenminuet.json","tracer":"","pedal":0.1}, 
       
 {"name": "Mir ist die Ehre widerfahren - aria cut (Richard Strauss)", "shortcut": "miristdie",
 "link": "https://dl.dropbox.com/s/mk2u8otstnplcc2/presentation.musicxml",
