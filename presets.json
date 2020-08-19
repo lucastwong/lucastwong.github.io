@@ -888,11 +888,11 @@
       
 {"name": "Gavotte - D minor (Lully)", "shortcut": "lully1",
 "link": "https://dl.dropbox.com/s/tkvwkntxdc1d19d/lully%20gavotte%20in%20a%20minor.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lully%20cello%20in%204.json","tracer":"","pedal":0.1},
       
 {"name": "Gavotte - D minor in cut time (Lully)", "shortcut": "lully2",
 "link": "https://dl.dropbox.com/s/3oavoipe3vvveah/lully%20gavotte%20in%20d%20minor%20cut.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lully%20cello%20in%202.json","tracer":"","pedal":0.1},
       
 {"name": "Gavotte: Obeissons quand leur voix appelle (Massenet)", "shortcut": "manongavotte",
 "link": "https://dl.dropbox.com/s/hjjcmkz3ktnczu7/manongavotte2.musicxml",
