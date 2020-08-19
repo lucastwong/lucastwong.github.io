@@ -25,6 +25,14 @@
 "link": "https://dl.dropbox.com/s/w1w5g16ae0gre60/achichfuhls.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/achichfuhlsmap.json","tracer":"","pedal":0.1},
       
+{"name": "Ach ich liebte (Mozart)", "shortcut": "achichliebte",
+"link": "https://dl.dropbox.com/s/5wf00e0pn8inrvl/achichliebte.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Ach, istomilas ja gorem (Tchaikovsky)", "shortcut": "utzh2",
+"link": "https://dl.dropbox.com/s/k1hj7xu5divcpjh/utzh2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Adagio and Allegro - for Tenor Saxophone and Piano (Schumann, arr. Matthew Howell)", "shortcut": "adagio",
 "link": "https://dl.dropbox.com/s/c3pvvhm09lp5bms/Adagio%20and%20Allegro.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Adagio2.json","tracer":"","pedal":0.5}, 
@@ -40,14 +48,6 @@
 {"name": "Adieu notre petite table (Massenet)", "shortcut": "adieunotre",
 "link": "https://dl.dropbox.com/s/8fxlx7rqkdqtwgo/adieunotre.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/adieunotre.json","tracer":"","pedal":0.25},
-      
-{"name": "Ach ich liebte (Mozart)", "shortcut": "achichliebte",
-"link": "https://dl.dropbox.com/s/5wf00e0pn8inrvl/achichliebte.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
-      
-{"name": "Ach, istomilas ja gorem (Tchaikovsky)", "shortcut": "utzh2",
-"link": "https://dl.dropbox.com/s/k1hj7xu5divcpjh/utzh2.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.2},
       
 {"name": "Ah! chi mi dice mai (Mozart)", "shortcut": "ahchimi",
 "link": "https://dl.dropbox.com/s/fuqtuwvrekbugcc/ahchimi.musicxml",
