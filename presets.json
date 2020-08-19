@@ -862,6 +862,14 @@
 "link": "https://dl.dropbox.com/s/qqqtuv31ytx8e8f/fuordelmar.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Gavotte - C major (Gossec)", "shortcut": "gossec",
+"link": "https://dl.dropbox.com/s/g992kiw8rctzzfj/gossec%20in%20c.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gossec1.json","tracer":"","pedal":0.1},
+      
+{"name": "Gavotte - C major in cut time (Gossec)", "shortcut": "gossec",
+"link": "https://dl.dropbox.com/s/530c3cugepyyrd4/gossec%20in%20c%20cut.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gossec2.json","tracer":"","pedal":0.1}, 
+      
 {"name": "Gavotte - G major (Gossec)", "shortcut": "gossec",
 "link": "https://dl.dropbox.com/s/y57zas2bug4n6vl/gossec2.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gossec1.json","tracer":"","pedal":0.1},
