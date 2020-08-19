@@ -1426,13 +1426,13 @@
 "link": "https://dl.dropbox.com/s/em1zhqbsl47ax43/lovesick.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
-{"name": "Lullaby in F major (Brahms)", "shortcut": "lullabybrahms",
+{"name": "Lullaby - F major (Brahms)", "shortcut": "lullabybrahms",
 "link": "https://dl.dropbox.com/s/vl2jd3yz486j215/Wiegenlied.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.5},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/brahmslullaby.json","tracer":"","pedal":0.5},
       
-{"name": "Lullaby in G major (Schubert)", "shortcut": "lullabyschubert",
+{"name": "Lullaby - G major (Schubert)", "shortcut": "lullabyschubert",
 "link": "https://dl.dropbox.com/s/2b0j20ro9d6igkb/schubertlullaby.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.2},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/schubertlullaby.json","tracer":"","pedal":0.2},
       
 {"name": "Lunge da lei...De' miei bollenti spiriti (Verdi)", "shortcut": "demiei",
 "link": "https://dl.dropbox.com/s/1imbmgtzqbbw904/lungeda.musicxml",
@@ -2560,7 +2560,7 @@
       
 {"name": "Violin Concerto in A minor - 1st mvt. (Vivaldi)", "shortcut": "vivaldi",
 "link": "https://dl.dropbox.com/s/kkac1am4yzq499m/vivaldi.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/vivaldi1stmvt.json","tracer":"","pedal":0.1},
 
 {"name": "Violin Concerto in D major - complete (Brahms)", "shortcut": "brahms",
 "link": "https://dl.dropbox.com/s/j1b11d1iwjfkips/brahms.musicxml",
@@ -2580,7 +2580,7 @@
       
 {"name": "Violin Concerto No. 2 in G major - 3rd mvt. (Seitz)", "shortcut": "seitz2-3",
 "link": "https://dl.dropbox.com/s/ml1gl3nquajswm3/Seitz_Concerto_No_2_Mov_3.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/seitz23.json","tracer":"","pedal":0.1},
       
 {"name": "Vision fugitive (Massenet)", "shortcut": "vision",
 "link": "https://dl.dropbox.com/s/hqq1qjlccl2v1nz/fugitive.musicxml",
