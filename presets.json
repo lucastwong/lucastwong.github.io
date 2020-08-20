@@ -1834,6 +1834,10 @@
 "link": "https://dl.dropbox.com/s/1h8xwxggwbscu4p/padre2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Pagliaccio! Pagliaccio! No! (Leoncavallo)", "shortcut": "pagliaccio",
+"link": "https://dl.dropbox.com/s/wvwdztxz5yv8n0s/pagliaccio.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
+      
 {"name": "Pâle et blonde (Thomas)", "shortcut": "paleet",
 "link": "https://dl.dropbox.com/s/u7tx7btlovkym08/opheliamad.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
