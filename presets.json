@@ -31,7 +31,7 @@
       
 {"name": "Ach, istomilas ja gorem (Tchaikovsky)", "shortcut": "utzh2",
 "link": "https://dl.dropbox.com/s/k1hj7xu5divcpjh/utzh2.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.2},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lisaaria.json","tracer":"","pedal":0.2},
       
 {"name": "Adagio and Allegro - for Tenor Saxophone and Piano (Schumann, arr. Matthew Howell)", "shortcut": "adagio",
 "link": "https://dl.dropbox.com/s/c3pvvhm09lp5bms/Adagio%20and%20Allegro.musicxml",
@@ -2516,7 +2516,7 @@
       
 {"name": "Utzh polnoch blizitsya...Ach, istomilas ja gorem (Tchaikovsky)", "shortcut": "utzh2",
 "link": "https://dl.dropbox.com/s/k1hj7xu5divcpjh/utzh2.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.2},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lisaaria.json","tracer":"","pedal":0.2},
       
 {"name": "Uzhel ta samaja Tatiana (Tchaikovsky)", "shortcut": "uzhel",
 "link": "https://dl.dropbox.com/s/gqrvhnpve3jzpyz/uzhel.musicxml",
