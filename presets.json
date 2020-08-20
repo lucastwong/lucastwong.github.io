@@ -2257,14 +2257,18 @@
 {"name": "Sonata for Eb Alto Saxophone and Piano Op. 19 - 1st mvt. (Creston)", "shortcut": "creston1",
 "link": "https://dl.dropbox.com/s/w9b8zzkainn1biz/creston1.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/creston.json","tracer":"","pedal":0.3},
-            
+      
+{"name": "Sonata in E minor, Op. 1, No. 2 - Adagio and Allegro (Marcello)", "shortcut": "marcello",
+"link": "https://dl.dropbox.com/s/cha3kt6dc04pihs/MarcelloCello1.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Sonata in C major, Op. 40, No. 1 - 1st mvt. (Bréval)", "shortcut": "breval1",
 "link": "https://dl.dropbox.com/s/zstgrrp1evjr31i/breval1.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
  
 {"name": "Sonata in C major, Op. 40, No. 1 - 2nd mvt. (Bréval)", "shortcut": "breval2",
 "link": "https://dl.dropbox.com/s/jwggsyly05ykjsa/breval2.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Song of the Wind - A major (Folk)", "shortcut": "wind2",
 "link": "https://dl.dropbox.com/s/u2fvhs48hw9yq5y/Song%20of%20the%20Wind%20in%20A.musicxml",
