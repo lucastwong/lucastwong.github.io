@@ -1220,7 +1220,7 @@
       
 {"name": "L'anima ho stanca (Cilea)", "shortcut": "lanimaho",
 "link": "https://dl.dropbox.com/s/hglhfhggzm2m0g9/lanima.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.8},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lanimamap.json","tracer":"","pedal":0.8},
       
 {"name": "L'année, en vain chasse l'année (Debussy)", "shortcut": "lia",
 "link": "https://dl.dropbox.com/s/a5bcehck5tijxu0/lia.musicxml",
