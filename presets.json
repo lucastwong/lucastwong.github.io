@@ -71,7 +71,7 @@
       
 {"name": "Ah, je ris de me voir (Gounod)", "shortcut": "jewel2",
 "link": "https://dl.dropbox.com/s/lwld9qfujnf840r/jewelsong.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.3},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/jewelsong.json","tracer":"","pedal":0.3},
       
 {"name": "Ah, la paterna mano (Verdi)", "shortcut": "paternamano",
 "link": "https://dl.dropbox.com/s/z9ecrfg48daegm3/Ah_la_paterna_mano_4D.musicxml",
@@ -1176,7 +1176,7 @@
       
 {"name": "Jewel Song (Gounod)", "shortcut": "jewel",
 "link": "https://dl.dropbox.com/s/lwld9qfujnf840r/jewelsong.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.3},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/jewelsong.json","tracer":"","pedal":0.3},
       
 {"name": "King Rene's Prayer (Tchaikovsky)", "shortcut": "gospod",
 "link": "https://dl.dropbox.com/s/ehb5lpvhqt9dwgd/Gospod_moi.musicxml",
