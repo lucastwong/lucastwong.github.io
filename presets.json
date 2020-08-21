@@ -63,7 +63,7 @@
       
 {"name": "Ah, fuggi il traditor (Mozart)", "shortcut": "ahfuggi",
 "link": "https://dl.dropbox.com/s/4m02vd5fgxcewnm/fuggi.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/ahfuggeil.json","tracer":"","pedal":0.1},
       
 {"name": "Ah! fuyez, douce image (Massenet)", "shortcut": "ahfuyez",
 "link": "https://dl.dropbox.com/s/dnw7jh85zqbnxiy/ahfuyez.musicxml",
