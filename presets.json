@@ -59,7 +59,7 @@
       
 {"name": "Ah, fors'è lui...Sempre libera (Verdi)", "shortcut": "strano1",
 "link": "https://dl.dropbox.com/s/4g2xmbgf1bzq3b1/semprelibera.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/semprelibera.json","tracer":"","pedal":0.1},
       
 {"name": "Ah, fuggi il traditor (Mozart)", "shortcut": "ahfuggi",
 "link": "https://dl.dropbox.com/s/4m02vd5fgxcewnm/fuggi.musicxml",
@@ -704,7 +704,7 @@
       
 {"name": "È strano!...Ah, fors'è lui...Sempre libera (Verdi)", "shortcut": "strano1",
 "link": "https://dl.dropbox.com/s/4g2xmbgf1bzq3b1/semprelibera.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/semprelibera.json","tracer":"","pedal":0.1},
       
 {"name": "E Susanna non vien!...Dove sono (Mozart)", "shortcut": "esusanna",
 "link": "https://dl.dropbox.com/s/dusxu8g6zxplgfr/dovesono.musicxml",
@@ -2140,7 +2140,7 @@
       
 {"name": "Sempre libera (Verdi)", "shortcut": "strano1",
 "link": "https://dl.dropbox.com/s/4g2xmbgf1bzq3b1/semprelibera.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/semprelibera.json","tracer":"","pedal":0.1},
       
 {"name": "Senza mamma (Puccini)", "shortcut": "senzamamma",
 "link": "https://dl.dropbox.com/s/1l0xbjedomco03k/senzamamma.musicxml",
