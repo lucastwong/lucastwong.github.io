@@ -67,7 +67,7 @@
       
 {"name": "Ah! fuyez, douce image (Massenet)", "shortcut": "ahfuyez",
 "link": "https://dl.dropbox.com/s/dnw7jh85zqbnxiy/ahfuyez.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.3},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/ahfuyez.json","tracer":"","pedal":0.3},
       
 {"name": "Ah, je ris de me voir (Gounod)", "shortcut": "jewel2",
 "link": "https://dl.dropbox.com/s/lwld9qfujnf840r/jewelsong.musicxml",
