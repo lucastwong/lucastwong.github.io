@@ -1422,9 +1422,13 @@
 "link": "https://dl.dropbox.com/s/sua6ma79sufwhe6/Long%20Long%20Ago%20-%20in%20C.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/longlongago1.json","tracer":"","pedal":0.4}, 
       
-{"name": "Long, Long Ago - G major (Folk)", "shortcut": "longlong3",
+{"name": "Long, Long Ago - G major for Violin (Folk)", "shortcut": "longlong3",
 "link": "https://dl.dropbox.com/s/86p26sbogalxbma/Long%20Long%20Ago%20-%20in%20G.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/longlongago1.json","tracer":"","pedal":0.4}, 
+
+{"name": "Long, Long Ago - G major for Cello (Folk)", "shortcut": "longlong4",
+"link": "https://dl.dropbox.com/s/2pc6uhrtv25wfkb/long%20long%20in%20g%20for%20CELLO.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/longlongago2.json","tracer":"","pedal":0.25}, 
       
 {"name": "Look! Through the port (Britten)", "shortcut": "budd",
 "link": "https://dl.dropbox.com/s/346xllhg6gnp7nv/budd.musicxml",
