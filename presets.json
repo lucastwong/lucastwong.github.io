@@ -5,7 +5,7 @@
 "link": "https://dl.dropbox.com/s/p5z6qp1kbkg7ujy/A_Chloris.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/achloris.json","tracer":"","pedal":0.1},
 
-{"name": "A Hundred Thousand Stars (Jake Heggie, used by permission)", "shortcut": "heggie1",
+{"name": "A Hundred Thousand Stars (Jake Heggie, use by permission)", "shortcut": "heggie1",
 "link": "https://dl.dropbox.com/s/9xkoyebor2k6td3/heggie.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.33},
       
@@ -119,7 +119,7 @@
       
 {"name": "Ah si, ben mio (Verdi)", "shortcut": "ahsi",
 "link": "https://dl.dropbox.com/s/q37s91ehnfiv2wb/Ah_si%2C_ben_mio.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.2},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/ahsibenmio.json","tracer":"","pedal":0.2},
       
 {"name": "Ain't it a pretty night (Floyd)", "shortcut": "aintit",
 "link": "https://dl.dropbox.com/s/8vf5ol9duf9qv0h/aintit.musicxml",
