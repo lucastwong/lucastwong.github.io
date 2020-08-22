@@ -95,7 +95,7 @@
       
 {"name": "Ah! mon fils (Meyerbeer)", "shortcut": "ahmonfils",
 "link": "https://dl.dropbox.com/s/1o37oi8bmjtyhrm/ahmonfils.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.30},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/ahmonfils.json","tracer":"","pedal":0.30},
       
 {"name": "Ah! Non credea mirarti...Ah, non giunge (Bellini)", "shortcut": "noncredea",
 "link": "https://dl.dropbox.com/s/1kwz5qf8d1r4h2h/ahnoncredea.musicxml",
