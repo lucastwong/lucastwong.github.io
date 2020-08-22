@@ -115,7 +115,7 @@
       
 {"name": "Ah scostati!...Smanie implacabili (Mozart)", "shortcut": "smanie",
 "link": "https://dl.dropbox.com/s/9kn9piuplak1eew/smanie2.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/smaniemap.json","tracer":"","pedal":0.1},
       
 {"name": "Ah si, ben mio (Verdi)", "shortcut": "ahsi",
 "link": "https://dl.dropbox.com/s/q37s91ehnfiv2wb/Ah_si%2C_ben_mio.musicxml",
@@ -2204,7 +2204,7 @@
       
 {"name": "Smanie implacabili (Mozart)", "shortcut": "smanie",
 "link": "https://dl.dropbox.com/s/9kn9piuplak1eew/smanie2.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/smaniemap.json","tracer":"","pedal":0.1},
       
 {"name": "Smoke Gets in Your Eyes (Jerome Kern)", "shortcut": "smoke",
 "link": "https://dl.dropbox.com/s/1jy86oswdz6jev9/SmokeGets.musicxml",
