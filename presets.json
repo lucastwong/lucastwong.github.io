@@ -131,7 +131,7 @@
       
 {"name": "Air on G String (Bach)", "shortcut": "air",
 "link": "https://dl.dropbox.com/s/6th4p166ybtztx7/air.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/airongstring.json","tracer":"","pedal":0.1},
       
 {"name": "Al dolce guidami (Donizetti)", "shortcut": "aldolce",
 "link": "https://dl.dropbox.com/s/t4hoj8sc1vzaxfs/aldolce.musicxml",
