@@ -79,7 +79,7 @@
       
 {"name": "Ah, la paterna mano (Verdi)", "shortcut": "paternamano",
 "link": "https://dl.dropbox.com/s/z9ecrfg48daegm3/Ah_la_paterna_mano_4D.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.25},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/paternamap.json","tracer":"","pedal":0.25},
       
 {"name": "Ah! Lève toi soleil! (Gounod)", "shortcut": "soleil",
 "link": "https://dl.dropbox.com/s/pb52ivhclyc62ei/soleil.musicxml",
