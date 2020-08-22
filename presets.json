@@ -123,7 +123,7 @@
       
 {"name": "Ain't it a pretty night (Floyd)", "shortcut": "aintit",
 "link": "https://dl.dropbox.com/s/8vf5ol9duf9qv0h/aintit.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.7},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/ainit.json","tracer":"","pedal":0.7},
       
 {"name": "Air des Bijoux (Gounod)", "shortcut": "jewel3",
 "link": "https://dl.dropbox.com/s/lwld9qfujnf840r/jewelsong.musicxml",
