@@ -1502,6 +1502,10 @@
 "link": "https://dl.dropbox.com/s/xnng2jelkzx5s2k/May%20Song%20-%20in%20D.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/maysong.json","tracer":"","pedal":0.1}, 
       
+{"name": "May Time K. 96 (Mozart)", "shortcut": "maytime",
+"link": "https://dl.dropbox.com/s/p3z8v22y3b96x5l/2._May_Time.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/maytime.json","tracer":"","pedal":0.1}, 
+      
 {"name": "Me voici dans son boudoir (Thomas)", "shortcut": "mevoicidans",
 "link": "https://dl.dropbox.com/s/pz2fxfg8vju7or4/mevoici%20fixed.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1}, 
