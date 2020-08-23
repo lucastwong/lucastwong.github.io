@@ -149,13 +149,21 @@
 "link": "https://dl.dropbox.com/s/cdz68vzriog9ogy/allerseelen.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5}, 
       
-{"name": "Alma del core (Caldara)", "shortcut": "alma",
-"link": "https://dl.dropbox.com/s/jhlt48z9r0rlh9g/alma.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1}, 
+{"name": "Allegro Moderato from BWV 1027 (Bach)", "shortcut": "1027",
+"link": "https://dl.dropbox.com/s/ww8yd1qw3ha8ct2/10._Allegro_Moderato.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/1027.json","tracer":"","pedal":0.1}, 
+      
+{"name": "Allegro Moderato from BWV 1027 - in cut time (Bach)", "shortcut": "10272",
+"link": "https://dl.dropbox.com/s/09x34ifxycwwi7c/10._Allegro_Moderato%20CUT.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/1027cut.json","tracer":"","pedal":0.1}, 
       
 {"name": "Allons! Il le faut!...Adieu notre petite table (Massenet)", "shortcut": "adieunotre2",
 "link": "https://dl.dropbox.com/s/8fxlx7rqkdqtwgo/adieunotre.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/adieunotre.json","tracer":"","pedal":0.25},
+      
+{"name": "Alma del core (Caldara)", "shortcut": "alma",
+"link": "https://dl.dropbox.com/s/jhlt48z9r0rlh9g/alma.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1}, 
       
 {"name": "Amarilli, mia bella (Caccini)", "shortcut": "caccini",
 "link": "https://dl.dropbox.com/s/aemz9t231zakts7/amarilli.musicxml",
