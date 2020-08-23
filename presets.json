@@ -854,6 +854,10 @@
 "link": "https://dl.dropbox.com/s/4hxxnaz3r77lvzh/frapoco.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "French Folk Song (Folk)", "shortcut": "frenchfolksong",
+"link": "https://dl.dropbox.com/s/ak812tbunqr75k5/2._French_Folk_Song.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Frisch zum Kampfe (Mozart)", "shortcut": "frischzum",
 "link": "https://dl.dropbox.com/s/p7g5pxs4tg7lra9/frischzum_4D.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
