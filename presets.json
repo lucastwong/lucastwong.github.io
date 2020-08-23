@@ -1542,6 +1542,10 @@
 "link": "https://dl.dropbox.com/s/983l1gmxzoze1eq/Violin%20Minuet%20Bach%20in%20C.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuet822.json","tracer":"","pedal":0.1},
       
+{"name": "Minuet, BWV 841 - C major (Bach)", "shortcut": "minuet841",
+"link": "https://dl.dropbox.com/s/871r3m0goov0kt8/16._Minuet_in_C.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuetinc%20for%20CELLO.json","tracer":"","pedal":0.1},
+      
 {"name": "Minuet, BWV anh. 114 - G major (Bach)", "shortcut": "114",
 "link": "https://dl.dropbox.com/s/dode14yaz9isybo/114.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/114.json","tracer":"","pedal":0.1},
