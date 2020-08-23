@@ -1549,6 +1549,10 @@
 {"name": "Minuet, BWV anh. 114 - G major (Bach)", "shortcut": "114",
 "link": "https://dl.dropbox.com/s/dode14yaz9isybo/114.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/114.json","tracer":"","pedal":0.1},
+
+{"name": "Minuet, BWV anh. 116 - C major (Bach)", "shortcut": "1162",
+"link": "https://dl.dropbox.com/s/9t6u1sw2kexu4gk/17._Minuet_No.2.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuet116.json","tracer":"","pedal":0.1}, 
       
 {"name": "Minuet, BWV anh. 116 - G major (Bach)", "shortcut": "116",
 "link": "https://dl.dropbox.com/s/h086fkzb0910xc3/Minuet116.musicxml",
