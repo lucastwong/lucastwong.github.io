@@ -926,6 +926,14 @@
 "link": "https://dl.dropbox.com/s/v2o1q3ac0397n31/popper.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Gavotte BWV 822 - C minor (Bach)", "shortcut": "bachcminor",
+"link": "https://dl.dropbox.com/s/hvdb5h7h1dajzne/6._Gavotte_in_C_minor.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gavottecminor4.json","tracer":"","pedal":0.1}, 
+      
+{"name": "Gavotte BWV 822 - C minor in cut time (Bach)", "shortcut": "bachcminor2",
+"link": "https://dl.dropbox.com/s/lcvusrn0828zgso/6._Gavotte_in_C_minor%20CUT.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gavottecminor2.json","tracer":"","pedal":0.1},
+      
 {"name": "Gavotte from Mignon (Thomas)", "shortcut": "mignongavotte",
 "link": "https://dl.dropbox.com/s/h1c6eu2hxlmjuh9/Mignon%20Gavotte.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/mignongavotte.json","tracer":"","pedal":0.1},
