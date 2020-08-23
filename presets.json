@@ -1590,10 +1590,18 @@
 "link": "https://dl.dropbox.com/s/871r3m0goov0kt8/16._Minuet_in_C.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuetinc%20for%20CELLO.json","tracer":"","pedal":0.1},
       
+{"name": "Minuet, BWV anh. 114 - C major (Bach)", "shortcut": "114",
+"link": "https://dl.dropbox.com/s/fdolh4mbe9n47hd/minuet%20EXTRACT.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuetextract.json","tracer":"","pedal":0.1},
+
 {"name": "Minuet, BWV anh. 114 - G major (Bach)", "shortcut": "114",
 "link": "https://dl.dropbox.com/s/dode14yaz9isybo/114.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/114.json","tracer":"","pedal":0.1},
-
+      
+{"name": "Minuet, BWV anh. 114 and 183 - C major (Bach)", "shortcut": "114+183",
+"link": "https://dl.dropbox.com/s/odg3ipvbze016al/7._Minuet_No.3.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuetmega.json","tracer":"","pedal":0.1},
+      
 {"name": "Minuet, BWV anh. 116 - C major (Bach)", "shortcut": "1162",
 "link": "https://dl.dropbox.com/s/9t6u1sw2kexu4gk/17._Minuet_No.2.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuet116.json","tracer":"","pedal":0.1}, 
