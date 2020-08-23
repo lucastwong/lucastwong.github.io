@@ -1037,8 +1037,12 @@
 {"name": "Humoresque - D major for violin in 4 (Dvořák)", "shortcut": "humor4",
 "link": "https://dl.dropbox.com/s/xvvueycxot6lddy/humor%20VIOLIN%20in%204.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/humor4.json","tracer":"","pedal":0.4},
+
+{"name": "Hunters' Chorus - for cello (Weber)", "shortcut": "hunters",
+"link": "https://dl.dropbox.com/s/yc52gb424aa0y9o/hunter%20for%20CELLO.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/huntersing.json","tracer":"","pedal":0.1},
       
-{"name": "Hunters' Chorus (Weber)", "shortcut": "hunters",
+{"name": "Hunters' Chorus - for violin (Weber)", "shortcut": "hunters2",
 "link": "https://dl.dropbox.com/s/wn118igj5aycli0/Hunters%20in%20G.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/huntersing.json","tracer":"","pedal":0.1},
       
