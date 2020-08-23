@@ -2053,6 +2053,14 @@
 {"name": "Regnava nel silenzio...Quando rapito in estasi (Donizetti)", "shortcut": "regnava",
 "link": "https://dl.dropbox.com/s/nw65bulb2wbasus/lucia.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
+
+{"name": "Rigadoon (Purcell)", "shortcut": "riga4",
+"link": "https://dl.dropbox.com/s/yksxoeokicdo5uf/13._Rigadoon.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/rigain4.json","tracer":"","pedal":0.1}, 
+      
+{"name": "Rigadoon - in cut time (Purcell)", "shortcut": "riga2",
+"link": "https://dl.dropbox.com/s/ygh0wlho86g2za2/13._Rigadoon%20CUT.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/rigain2.json","tracer":"","pedal":0.1}, 
       
 {"name": "Ritorna vicitor (Verdi)", "shortcut": "ritorna",
 "link": "https://dl.dropbox.com/s/8vwtlyy980rfx3z/ritorna.musicxml",
