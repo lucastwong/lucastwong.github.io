@@ -2162,6 +2162,10 @@
 "link": "https://dl.dropbox.com/s/5wuxoirfw8yll47/Schweig.musicxml",
 "category":"1","lyrics": "", "tracer":"","pedal":0.1},
       
+{"name": "Scherzo (Webster)", "shortcut": "webster",
+"link": "https://dl.dropbox.com/s/kub9u5bl02148jw/4._Scherzo.musicxml",
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/scherzowebster.json", "tracer":"","pedal":0.1},
+      
 {"name": "Scintille, diamant (Offenbach)", "shortcut": "scintille",
 "link": "https://dl.dropbox.com/s/ge85zifexcvbrux/Scintille_4D.musicxml",
 "category":"1","lyrics": "", "tracer":"","pedal":0.25},
