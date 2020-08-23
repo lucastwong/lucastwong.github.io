@@ -1542,7 +1542,11 @@
 "link": "https://dl.dropbox.com/s/0up48n3m7w7pf83/Violin%20Minuet%20Bach%20in%20G.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuet822.json","tracer":"","pedal":0.1},
       
-{"name": "Minuet, BWV 822 - C major (Bach)", "shortcut": "minuet8222",
+{"name": "Minuet, BWV 822 - C major for cello (Bach)", "shortcut": "minuetC",
+"link": "https://dl.dropbox.com/s/bhlb48shbzzjeyc/3._Minuet_No._1.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuet3forCELLO.json","tracer":"","pedal":0.1},
+      
+{"name": "Minuet, BWV 822 - C major for violin (Bach)", "shortcut": "minuet8222",
 "link": "https://dl.dropbox.com/s/983l1gmxzoze1eq/Violin%20Minuet%20Bach%20in%20C.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuet822.json","tracer":"","pedal":0.1},
       
