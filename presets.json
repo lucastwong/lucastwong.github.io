@@ -856,7 +856,7 @@
       
 {"name": "French Folk Song (Folk)", "shortcut": "frenchfolksong",
 "link": "https://dl.dropbox.com/s/ak812tbunqr75k5/2._French_Folk_Song.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/frenchfolksong.json","tracer":"","pedal":0.1},
       
 {"name": "Frisch zum Kampfe (Mozart)", "shortcut": "frischzum",
 "link": "https://dl.dropbox.com/s/p7g5pxs4tg7lra9/frischzum_4D.musicxml",
