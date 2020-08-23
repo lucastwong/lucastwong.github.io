@@ -386,8 +386,12 @@
 "link": "https://dl.dropbox.com/s/cssf8ku4h92hz9k/tambourin.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
       
-{"name": "Chorus from Judas Maccabaeus (Handel)","shortcut": "judas1",
+{"name": "Chorus from Judas Maccabaeus - G major (Handel)","shortcut": "judas1",
 "link": "https://dl.dropbox.com/s/rymxerk5mewzrmc/Judas%20Chorus%20VIOLIN.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/chorusjudas.json","tracer":"","pedal":0.1},  
+      
+{"name": "Chorus from Judas Maccabaeus - C major (Handel)","shortcut": "judas2",
+"link": "https://dl.dropbox.com/s/ejxtsm5khpl2btp/Judas%20Chorus%20CELLO.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/chorusjudas.json","tracer":"","pedal":0.1},  
       
 {"name": "Climb Ev'ry Mountain (Rodgers & Hammerstein)", "shortcut": "climb",
