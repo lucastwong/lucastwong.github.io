@@ -199,7 +199,7 @@
       
 {"name": "Aprite un po' (Mozart)", "shortcut": "aprite",
 "link": "https://dl.dropbox.com/s/rsysxzdkoy82hs0/aprite.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/aprite.json","tracer":"","pedal":0.1},
       
 {"name": "Arabien, mein Heimatland (Weber)", "shortcut": "arabien",
 "link": "https://dl.dropbox.com/s/og6b5k0ey0tnk53/arabien.musicxml",
