@@ -227,7 +227,7 @@
       
 {"name": "Audition aria - Spiel ich die Unschuld vom Lande (Johann Strauss Jr)", "shortcut": "spielich",
 "link": "https://dl.dropbox.com/s/y58cxvxke53s63z/spielich2.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.2},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/spielich.json","tracer":"","pedal":0.2},
       
 {"name": "Avant de quitter ces lieux (Gounod)", "shortcut": "avant",
 "link": "https://dl.dropbox.com/s/6hmrrxuqozhqedo/valentin.musicxml",
@@ -2396,7 +2396,7 @@
       
 {"name": "Spiel ich die Unschuld vom Lande (Johann Strauss Jr)", "shortcut": "spielich",
 "link": "https://dl.dropbox.com/s/y58cxvxke53s63z/spielich2.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.2},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/spielich.json","tracer":"","pedal":0.2},
       
 {"name": "Spirto gentil (Donizetti)", "shortcut": "spirtog",
 "link": "https://dl.dropbox.com/s/ysq21jpyrr9ou8q/spiritogentil.musicxml",
