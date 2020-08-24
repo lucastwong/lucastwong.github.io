@@ -215,7 +215,7 @@
       
 {"name": "As I was saying both brothers...Scorned! Abused! (Stravinsky)", "shortcut": "baba",
 "link": "https://dl.dropbox.com/s/hnzlqas1p9q7gt5/babaaria.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/babamap.json","tracer":"","pedal":0.1},
       
 {"name": "Atchevo eta prezhde ne znala (Tchaikovsky)", "shortcut": "atchevo",
 "link": "https://dl.dropbox.com/s/dgfsgfpg3us9bwh/iolanta.musicxml",
@@ -243,7 +243,7 @@
       
 {"name": "Baba's aria (Stravinsky)", "shortcut": "baba",
 "link": "https://dl.dropbox.com/s/hnzlqas1p9q7gt5/babaaria.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/babamap.json","tracer":"","pedal":0.1},
       
 {"name": "Bali Ha'i (Rodgers & Hammerstein)", "shortcut": "bali",
 "link": "https://dl.dropbox.com/s/5bzyh7hdhvj5vvs/BaliHai.musicxml",
@@ -2196,7 +2196,7 @@
       
 {"name": "Scorned! Abused! (Stravinsky)", "shortcut": "baba",
 "link": "https://dl.dropbox.com/s/hnzlqas1p9q7gt5/babaaria.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/babamap.json","tracer":"","pedal":0.1},
       
 {"name": "Se all'impero, amici Dei (Mozart)", "shortcut": "seallimpero",
 "link": "https://dl.dropbox.com/s/twrawpgo0m4d5jq/Se_all_impero.musicxml",
