@@ -223,7 +223,7 @@
       
 {"name": "Au bord de l'eau (Fauré)", "shortcut": "aubord",
 "link": "https://dl.dropbox.com/s/rtaqslr4je88oep/aubord.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.3},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/aubordmap.json","tracer":"","pedal":0.3},
       
 {"name": "Audition aria - Spiel ich die Unschuld vom Lande (Johann Strauss Jr)", "shortcut": "spielich",
 "link": "https://dl.dropbox.com/s/y58cxvxke53s63z/spielich2.musicxml",
