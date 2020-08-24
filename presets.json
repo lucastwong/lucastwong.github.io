@@ -143,7 +143,7 @@
       
 {"name": "All'afflitto è dolce il pianto (Donizetti)", "shortcut": "allaff",
 "link": "https://dl.dropbox.com/s/m17sctsgt9boibt/allaff.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.3}, 
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/allaff.json","tracer":"","pedal":0.3}, 
       
 {"name": "Allerseelen (Richard Strauss)", "shortcut": "allerseelen",
 "link": "https://dl.dropbox.com/s/cdz68vzriog9ogy/allerseelen.musicxml",
