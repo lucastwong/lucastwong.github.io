@@ -203,7 +203,7 @@
       
 {"name": "Arabien, mein Heimatland (Weber)", "shortcut": "arabien",
 "link": "https://dl.dropbox.com/s/og6b5k0ey0tnk53/arabien.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/arabien.json","tracer":"","pedal":0.1},
       
 {"name": "Arise, Ye Subterranean Winds (Purcell)", "shortcut": "ariseye",
 "link": "https://dl.dropbox.com/s/jl62istwlgplxzr/Arise%2Cye_subterranean_winds.musicxml",
@@ -2564,7 +2564,7 @@
       
 {"name": "Tutto è disposto (Mozart)", "shortcut": "aprite",
 "link": "https://dl.dropbox.com/s/rsysxzdkoy82hs0/aprite.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/aprite.json","tracer":"","pedal":0.1},
       
 {"name": "", "shortcut": "twinkle",
 "link": "https://dl.dropbox.com/s/7un3aax8uk53qet/twinkle.musicxml",
