@@ -175,7 +175,7 @@
       
 {"name": "Amor, vida de mia vida (Torroba)", "shortcut": "amorvida",
 "link": "https://dl.dropbox.com/s/8u85zj7iuixkfge/amorvida.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.5},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/amorvida.json","tracer":"","pedal":0.5},
       
 {"name": "Amore o grillo (Puccini)", "shortcut": "amoreogrillo",
 "link": "https://dl.dropbox.com/s/u3xegzlbsko8yaf/amoreogrillo.musicxml",
