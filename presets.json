@@ -183,7 +183,7 @@
       
 {"name": "Amour, ranime mon courage (Gounod)", "shortcut": "amourranime",
 "link": "https://dl.dropbox.com/s/q4ouzhmlfxdbg08/amourranime.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.3},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/amourranime.json","tracer":"","pedal":0.3},
       
 {"name": "Amour! viens aider ma faiblesse! (Saint-Saëns)", "shortcut": "amourviensaider",
 "link": "https://dl.dropbox.com/s/i5xnzj81xvkn8eh/amourviens.musicxml",
