@@ -171,7 +171,7 @@
       
 {"name": "Amor ti vieta (Giordano)", "shortcut": "amortivieta",
 "link": "https://dl.dropbox.com/s/u3nu8biiveap3dt/amortivieta.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.5},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/amortivieta.json","tracer":"","pedal":0.5},
       
 {"name": "Amor, vida de mia vida (Torroba)", "shortcut": "amorvida",
 "link": "https://dl.dropbox.com/s/8u85zj7iuixkfge/amorvida.musicxml",
