@@ -239,7 +239,7 @@
 
 {"name": "Avete torto...Firenze è come un albero fiorito (Puccini)", "shortcut": "firenze",
 "link": "https://dl.dropbox.com/s/lr2khhfjhh0ny07/Firenze_come_4d.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.2},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/firenze.json","tracer":"","pedal":0.2},
       
 {"name": "Baba's aria (Stravinsky)", "shortcut": "baba",
 "link": "https://dl.dropbox.com/s/hnzlqas1p9q7gt5/babaaria.musicxml",
@@ -860,7 +860,7 @@
       
 {"name": "Firenze è come un albero fiorito (Puccini)", "shortcut": "firenze",
 "link": "https://dl.dropbox.com/s/lr2khhfjhh0ny07/Firenze_come_4d.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.2},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/firenze.json","tracer":"","pedal":0.2},
       
 {"name": "Flor Roja (Jacinto Guerrero)", "shortcut": "flor",
 "link": "https://dl.dropbox.com/s/ncwch0g285d8ukz/florroja.musicxml",
