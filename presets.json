@@ -147,7 +147,7 @@
       
 {"name": "Allerseelen (Richard Strauss)", "shortcut": "allerseelen",
 "link": "https://dl.dropbox.com/s/cdz68vzriog9ogy/allerseelen.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.5}, 
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/allerseelen.json","tracer":"","pedal":0.5}, 
       
 {"name": "Allegro Moderato from BWV 1027 (Bach)", "shortcut": "1027",
 "link": "https://dl.dropbox.com/s/ww8yd1qw3ha8ct2/10._Allegro_Moderato.musicxml",
