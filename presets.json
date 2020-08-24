@@ -139,7 +139,7 @@
       
 {"name": "Al mio ben mi veggio avanti (Mozart)", "shortcut": "almioben",
 "link": "https://dl.dropbox.com/s/39y8ht6l20am4wc/Almioben%20fixed.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1}, 
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/almioben.json","tracer":"","pedal":0.1}, 
       
 {"name": "All'afflitto è dolce il pianto (Donizetti)", "shortcut": "allaff",
 "link": "https://dl.dropbox.com/s/m17sctsgt9boibt/allaff.musicxml",
