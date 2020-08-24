@@ -231,7 +231,7 @@
       
 {"name": "Avant de quitter ces lieux (Gounod)", "shortcut": "avant",
 "link": "https://dl.dropbox.com/s/6hmrrxuqozhqedo/valentin.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.2},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/avantquitter.json","tracer":"","pedal":0.2},
       
 {"name": "Ave Maria (Gounod)", "shortcut": "ave",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/AveMaria.xml",
