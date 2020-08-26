@@ -937,6 +937,10 @@
 {"name": "Gavotte: Obeissons quand leur voix appelle (Massenet)", "shortcut": "manongavotte",
 "link": "https://dl.dropbox.com/s/hjjcmkz3ktnczu7/manongavotte2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
+
+{"name": "Gavotte (Becker)", "shortcut": "becker",
+"link": "https://dl.dropbox.com/s/5rrvxs692bejqra/5%20-%20Becker%20Gavotte%20in%20G%20Minor.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Gavotte (Popper)", "shortcut": "popper",
 "link": "https://dl.dropbox.com/s/v2o1q3ac0397n31/popper.musicxml",
@@ -949,6 +953,14 @@
 {"name": "Gavotte BWV 822 - C minor in cut time (Bach)", "shortcut": "bachcminor2",
 "link": "https://dl.dropbox.com/s/lcvusrn0828zgso/6._Gavotte_in_C_minor%20CUT.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gavottecminor2.json","tracer":"","pedal":0.1},
+      
+{"name": "Gavotte BWV 822 - G minor (Bach)", "shortcut": "bachgminor",
+"link": "https://dl.dropbox.com/s/1rea0bgqq0ez4l8/3%20-%20Bach%20Gavotte%20in%20G%20Minor.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1}, 
+      
+{"name": "Gavotte BWV 822 - G minor in cut time (Bach)", "shortcut": "bachgminor2",
+"link": "https://dl.dropbox.com/s/rrddcn5vwwdm8z9/3%20-%20Bach%20Gavotte%20in%20G%20Minor%20CUT.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Gavotte from Mignon (Thomas)", "shortcut": "mignongavotte",
 "link": "https://dl.dropbox.com/s/h1c6eu2hxlmjuh9/Mignon%20Gavotte.musicxml",
