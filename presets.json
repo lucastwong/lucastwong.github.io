@@ -894,6 +894,14 @@
 "link": "https://dl.dropbox.com/s/qqqtuv31ytx8e8f/fuordelmar.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Gavotte (Martini)", "shortcut": "martini1",
+"link": "https://dl.dropbox.com/s/ikx4lvbh2movpdg/1%20-%20Martini%20Gavotte%20in%20G%20Major.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Gavotte in cut time (Martini)", "shortcut": "martini2",
+"link": "https://dl.dropbox.com/s/suv5zqkcte3pgyo/1%20-%20Martini%20Gavotte%20in%20G%20Major%20CUT.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},   
+      
 {"name": "Gavotte - C major (Gossec)", "shortcut": "gossec",
 "link": "https://dl.dropbox.com/s/g992kiw8rctzzfj/gossec%20in%20c.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gossec1.json","tracer":"","pedal":0.1},
