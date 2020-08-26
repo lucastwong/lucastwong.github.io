@@ -2738,11 +2738,11 @@
 "link": "https://dl.dropbox.com/s/ml1gl3nquajswm3/Seitz_Concerto_No_2_Mov_3.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/seitz23.json","tracer":"","pedal":0.1},
       
-{"name": "Violin Concerto No. 5 in B minor - 1st mvt. (Seitz)", "shortcut": "seitz5-1",
+{"name": "Violin Concerto No. 5 - 1st mvt. (Seitz)", "shortcut": "seitz5-1",
 "link": "https://dl.dropbox.com/s/eb1bty5fkm95f39/2%20-%20Seitz%20Concerto%20No.%205%20-%201st%20Mvt..musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
       
-{"name": "Violin Concerto No. 5 in B minor - 1st mvt. in cut time (Seitz)", "shortcut": "seitz5-1cut",
+{"name": "Violin Concerto No. 5 - 1st mvt. in cut time (Seitz)", "shortcut": "seitz5-1cut",
 "link": "https://dl.dropbox.com/s/73dc87pthvbmkm2/2%20-%20Seitz%20Concerto%20No.%205%20-%201st%20Mvt.%20CUT.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
       
