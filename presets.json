@@ -946,6 +946,10 @@
 "link": "https://dl.dropbox.com/s/v2o1q3ac0397n31/popper.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Gavotte BWV 1068 - D major (Bach)", "shortcut": "1068",
+"link": "https://dl.dropbox.com/s/1vr08l03pti6qh0/6%20-%20Bach%20Gavotte%20in%20D%20Major.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Gavotte BWV 822 - C minor (Bach)", "shortcut": "bachcminor",
 "link": "https://dl.dropbox.com/s/hvdb5h7h1dajzne/6._Gavotte_in_C_minor.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gavottecminor4.json","tracer":"","pedal":0.1}, 
