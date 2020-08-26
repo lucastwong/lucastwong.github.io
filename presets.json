@@ -297,6 +297,10 @@
 "link": "https://dl.dropbox.com/s/mxz2d0s4356ss83/Bourree%20in%20G.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bourreehandelVIOLIN.json","tracer":"","pedal":0.1},  
       
+{"name": "Bourrée BWV 1009 - G major (Bach)", "shortcut": "1009",
+"link": "https://dl.dropbox.com/s/k7e1y1bnx1s10dh/7%20-%20Bach%20Bour%C3%A9e%20in%20G%20Major.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},  
+      
 {"name": "Brasset's Introduction (Oscar Feltsman)", "shortcut": "brasset",
 "link": "https://dl.dropbox.com/s/puufph7u3cn77vs/goodevening.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/brasset.json","tracer":"","pedal":0.1},
