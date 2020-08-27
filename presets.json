@@ -2746,6 +2746,10 @@
 "link": "https://dl.dropbox.com/s/73dc87pthvbmkm2/2%20-%20Seitz%20Concerto%20No.%205%20-%201st%20Mvt.%20CUT.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Violin Concerto No. 5 - 3rd mvt. (Seitz)", "shortcut": "seitz5-3",
+"link": "https://dl.dropbox.com/s/35aasl5i99jxckg/3%20-%20Seitz%20Concerto%20No.%205%20-%203rd%20Mvt..musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Vision fugitive (Massenet)", "shortcut": "vision",
 "link": "https://dl.dropbox.com/s/hqq1qjlccl2v1nz/fugitive.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
