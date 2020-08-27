@@ -2717,7 +2717,11 @@
 {"name": "Violin Concerto in A minor - 1st mvt. (Vivaldi)", "shortcut": "vivaldi",
 "link": "https://dl.dropbox.com/s/kkac1am4yzq499m/vivaldi.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/vivaldi1stmvt.json","tracer":"","pedal":0.1},
-
+      
+{"name": "Violin Concerto in A minor - 3rd mvt. (Vivaldi)", "shortcut": "vivaldi",
+"link": "https://dl.dropbox.com/s/4pjkew5rwzxf8b1/5%20-%20Vivaldi%20Concerto%20in%20A%20Minor%20-%203rd%20Mvt..musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Violin Concerto in D major - complete (Brahms)", "shortcut": "brahms",
 "link": "https://dl.dropbox.com/s/j1b11d1iwjfkips/brahms.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/brahms.json","tracer":"","pedal":0.2},
