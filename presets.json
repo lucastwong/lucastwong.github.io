@@ -299,7 +299,7 @@
       
 {"name": "Bourrée BWV 1009 - G major (Bach)", "shortcut": "1009",
 "link": "https://dl.dropbox.com/s/k7e1y1bnx1s10dh/7%20-%20Bach%20Bour%C3%A9e%20in%20G%20Major.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},  
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bourreegminor.json","tracer":"","pedal":0.1},  
       
 {"name": "Brasset's Introduction (Oscar Feltsman)", "shortcut": "brasset",
 "link": "https://dl.dropbox.com/s/puufph7u3cn77vs/goodevening.musicxml",
@@ -900,11 +900,11 @@
       
 {"name": "Gavotte (Martini)", "shortcut": "martini1",
 "link": "https://dl.dropbox.com/s/ikx4lvbh2movpdg/1%20-%20Martini%20Gavotte%20in%20G%20Major.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/martini.json","tracer":"","pedal":0.1},
       
 {"name": "Gavotte in cut time (Martini)", "shortcut": "martini2",
 "link": "https://dl.dropbox.com/s/suv5zqkcte3pgyo/1%20-%20Martini%20Gavotte%20in%20G%20Major%20CUT.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},   
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/martini2.json","tracer":"","pedal":0.1},   
       
 {"name": "Gavotte - C major (Gossec)", "shortcut": "gossec",
 "link": "https://dl.dropbox.com/s/g992kiw8rctzzfj/gossec%20in%20c.musicxml",
@@ -944,7 +944,7 @@
 
 {"name": "Gavotte (Becker)", "shortcut": "becker",
 "link": "https://dl.dropbox.com/s/5rrvxs692bejqra/5%20-%20Becker%20Gavotte%20in%20G%20Minor.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/becker.json","tracer":"","pedal":0.1},
       
 {"name": "Gavotte (Popper)", "shortcut": "popper",
 "link": "https://dl.dropbox.com/s/v2o1q3ac0397n31/popper.musicxml",
@@ -952,7 +952,7 @@
       
 {"name": "Gavotte BWV 1068 - D major (Bach)", "shortcut": "1068",
 "link": "https://dl.dropbox.com/s/1vr08l03pti6qh0/6%20-%20Bach%20Gavotte%20in%20D%20Major.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gavotteindmajorviolin.json","tracer":"","pedal":0.1},
       
 {"name": "Gavotte BWV 822 - C minor (Bach)", "shortcut": "bachcminor",
 "link": "https://dl.dropbox.com/s/hvdb5h7h1dajzne/6._Gavotte_in_C_minor.musicxml",
@@ -964,11 +964,11 @@
       
 {"name": "Gavotte BWV 822 - G minor (Bach)", "shortcut": "bachgminor",
 "link": "https://dl.dropbox.com/s/1rea0bgqq0ez4l8/3%20-%20Bach%20Gavotte%20in%20G%20Minor.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1}, 
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gavottegminorviolin.json","tracer":"","pedal":0.1}, 
       
 {"name": "Gavotte BWV 822 - G minor in cut time (Bach)", "shortcut": "bachgminor2",
 "link": "https://dl.dropbox.com/s/rrddcn5vwwdm8z9/3%20-%20Bach%20Gavotte%20in%20G%20Minor%20CUT.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gavottegminorviolin%20CUT.json","tracer":"","pedal":0.1},
       
 {"name": "Gavotte from Mignon (Thomas)", "shortcut": "mignongavotte",
 "link": "https://dl.dropbox.com/s/h1c6eu2hxlmjuh9/Mignon%20Gavotte.musicxml",
@@ -1640,7 +1640,7 @@
       
 {"name": "Minuet, BWV anh. 114 and 183 - G major (Bach)", "shortcut": "114+1832",
 "link": "https://dl.dropbox.com/s/yct2qowqy8abij2/2%20-%20Bach%20Minuet%20in%20G%20Major.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/minuetcombo222.json","tracer":"","pedal":0.1},
 
 {"name": "Minuet, BWV anh. 116 - C major (Bach)", "shortcut": "1162",
 "link": "https://dl.dropbox.com/s/9t6u1sw2kexu4gk/17._Minuet_No.2.musicxml",
@@ -2720,7 +2720,7 @@
       
 {"name": "Violin Concerto in A minor - 3rd mvt. (Vivaldi)", "shortcut": "vivaldi",
 "link": "https://dl.dropbox.com/s/4pjkew5rwzxf8b1/5%20-%20Vivaldi%20Concerto%20in%20A%20Minor%20-%203rd%20Mvt..musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/vivaldi3rdmvt.json","tracer":"","pedal":0.1},
       
 {"name": "Violin Concerto in D major - complete (Brahms)", "shortcut": "brahms",
 "link": "https://dl.dropbox.com/s/j1b11d1iwjfkips/brahms.musicxml",
@@ -2744,15 +2744,15 @@
       
 {"name": "Violin Concerto No. 5 - 1st mvt. (Seitz)", "shortcut": "seitz5-1",
 "link": "https://dl.dropbox.com/s/eb1bty5fkm95f39/2%20-%20Seitz%20Concerto%20No.%205%20-%201st%20Mvt..musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/seitz51.json","tracer":"","pedal":0.1},
       
 {"name": "Violin Concerto No. 5 - 1st mvt. in cut time (Seitz)", "shortcut": "seitz5-1cut",
 "link": "https://dl.dropbox.com/s/73dc87pthvbmkm2/2%20-%20Seitz%20Concerto%20No.%205%20-%201st%20Mvt.%20CUT.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/seitz51CUT.json","tracer":"","pedal":0.1},
       
 {"name": "Violin Concerto No. 5 - 3rd mvt. (Seitz)", "shortcut": "seitz5-3",
 "link": "https://dl.dropbox.com/s/35aasl5i99jxckg/3%20-%20Seitz%20Concerto%20No.%205%20-%203rd%20Mvt..musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/seitz53.json","tracer":"","pedal":0.1},
       
 {"name": "Vision fugitive (Massenet)", "shortcut": "vision",
 "link": "https://dl.dropbox.com/s/hqq1qjlccl2v1nz/fugitive.musicxml",
