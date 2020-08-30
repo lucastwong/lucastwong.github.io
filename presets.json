@@ -247,23 +247,23 @@
       
 {"name": "Bali Ha'i (Rodgers & Hammerstein)", "shortcut": "bali",
 "link": "https://dl.dropbox.com/s/5bzyh7hdhvj5vvs/BaliHai.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.5},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/balihai.json","tracer":"","pedal":0.5},
       
 {"name": "Batti, batti (Mozart)", "shortcut": "batti",
 "link": "https://dl.dropbox.com/s/4vw26lu535st0rl/batti.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/batti.json","tracer":"","pedal":0.1},
       
 {"name": "Be Kind and Courteous (Britten)", "shortcut": "bekind",
 "link": "https://dl.dropbox.com/s/4m0tdaoa8kh4g70/bekind.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bekind.json","tracer":"","pedal":0.1},
       
 {"name": "Beau Soir (Debussy)", "shortcut": "beausoir",
 "link": "https://dl.dropbox.com/s/cwjas2b6vytfz86/Beau_Soir.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/beausoir.json","tracer":"","pedal":1},
       
 {"name": "Beautiful Dreamer (Stephen Foster)", "shortcut": "beautiful",
 "link": "https://dl.dropbox.com/s/1leoc7lgugnfnp5/BeautifulDreamer.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.2},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/BeautifulDreamer.json","tracer":"","pedal":0.2},
       
 {"name": "Bel raggio lusinghier (Rossini)", "shortcut": "belraggio",
 "link": "https://dl.dropbox.com/s/f72kodyro3p0z8i/_Bel_raggio_lusinghier_.musicxml",
@@ -271,7 +271,7 @@
       
 {"name": "Bell Song - Où va la jeune Hindoue? (Delibes)", "shortcut": "bellsong",
 "link": "https://dl.dropbox.com/s/4gdabf1h9ec890x/bellsong.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.2},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bellsong.json","tracer":"","pedal":0.2},
       
 {"name": "Bella siccome un angelo (Donizetti)", "shortcut": "bella",
 "link": "https://dl.dropbox.com/s/q1wasaj9wi2z6n0/bella.musicxml",
@@ -287,7 +287,7 @@
       
 {"name": "Bester Jüngling (Mozart)", "shortcut": "bester",
 "link": "https://dl.dropbox.com/s/nntzo30p40iexx3/bester.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bester.json","tracer":"","pedal":0.1},
       
 {"name": "Bourrée - C major (Handel)", "shortcut": "bourree1",
 "link": "https://dl.dropbox.com/s/7c83f8deyhg7wuk/Bourree%20in%20C.musicxml",
