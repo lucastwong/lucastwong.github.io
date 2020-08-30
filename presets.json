@@ -267,7 +267,7 @@
       
 {"name": "Bel raggio lusinghier (Rossini)", "shortcut": "belraggio",
 "link": "https://dl.dropbox.com/s/f72kodyro3p0z8i/_Bel_raggio_lusinghier_.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.2},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/belraggio.json","tracer":"","pedal":0.2},
       
 {"name": "Bell Song - Où va la jeune Hindoue? (Delibes)", "shortcut": "bellsong",
 "link": "https://dl.dropbox.com/s/4gdabf1h9ec890x/bellsong.musicxml",
