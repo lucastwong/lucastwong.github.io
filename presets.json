@@ -259,7 +259,7 @@
       
 {"name": "Beau Soir (Debussy)", "shortcut": "beausoir",
 "link": "https://dl.dropbox.com/s/cwjas2b6vytfz86/Beau_Soir.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/beausoir.json","tracer":"","pedal":1},
       
 {"name": "Beautiful Dreamer (Stephen Foster)", "shortcut": "beautiful",
 "link": "https://dl.dropbox.com/s/1leoc7lgugnfnp5/BeautifulDreamer.musicxml",
