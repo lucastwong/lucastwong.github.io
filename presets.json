@@ -486,6 +486,10 @@
 "link": "https://dl.dropbox.com/s/xhpillbwcgql6hz/weber.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Concerto Bravo - 1st mvt. (Kevin Olson, use by permission)","shortcut": "concertino",
+"link": "https://dl.dropbox.com/s/ayuxeqwds9zb5q5/Concerto_Bravo%20-%20I.musicxml",
+"category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bravo1.json","tracer":"","pedal":0.3},  
+      
 {"name": "Core 'ngrato (Salvatore Cardillo, arr. L. Wong)","shortcut": "corengrato",
 "link": "https://dl.dropbox.com/s/d7nbu2bl9wdfszj/Core_ngrato.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":1},
