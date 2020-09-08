@@ -704,7 +704,7 @@
       
 {"name": "Drei Romanzen, Op. 94 - mvt. 1 (Robert Schumann)", "shortcut": "schumannoboe1",
 "link": "https://dl.dropbox.com/s/m3w1f5pc7jezdoi/schumannsax1.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.35},   
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/schumannoboe1.json","tracer":"","pedal":0.35},   
       
 {"name": "Du bist der Lenz (Wagner)", "shortcut": "dubistderlenz",
 "link": "https://dl.dropbox.com/s/u7wk0r6h54nohki/Du_bist_der_Lenz.musicxml",
@@ -2556,7 +2556,7 @@
       
 {"name": "Three Romances, Op. 94 - mvt. 1 (Robert Schumann)", "shortcut": "schumannoboe1",
 "link": "https://dl.dropbox.com/s/m3w1f5pc7jezdoi/schumannsax1.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.35},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/schumannoboe1.json","tracer":"","pedal":0.35},
       
 {"name": "To a Wild Rose (MacDowell)", "shortcut": "wildrose",
 "link": "https://dl.dropbox.com/s/il3p91ggyowwpla/To_A_Wild_Rose.musicxml",
