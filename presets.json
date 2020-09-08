@@ -2046,6 +2046,10 @@
 "link": "https://dl.dropbox.com/s/bd8z9qsnbeqxvwe/Second_Piano_Concerto.musicxml",
 "category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/ssmap.json","tracer":"","pedal":0.1},
 
+{"name": "Piano Concerto No. 24 in C minor - 1st mvt. (Mozart)", "shortcut": "24c1",
+"link": "https://dl.dropbox.com/s/2d6ybvwwoyui26h/mozart-4D-Piano_Concerto_No._24_TEST.musicxml",
+"category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Mozart24-1.json","tracer":"","pedal":0.2},
+      
 {"name": "Piano Concerto No. 3 in C minor - 1st mvt. in 2 (Beethoven)", "shortcut": "beethoven31v2",
 "link": "https://dl.dropbox.com/s/8tc0xcmltddy79z/Beethoven3RD1v2.musicxml",
 "category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee3map.json","tracer":"","pedal":0.1},
