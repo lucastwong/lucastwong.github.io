@@ -1250,6 +1250,10 @@
 "link": "https://dl.dropbox.com/s/njcsqz7lbjlry8g/jeveux.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Je viens te rendre (Viardot)", "shortcut": "jevien",
+"link": "https://dl.dropbox.com/s/xthkogl97pya2pv/viardotcendrillon.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Jewel Song (Gounod)", "shortcut": "jewel",
 "link": "https://dl.dropbox.com/s/lwld9qfujnf840r/jewelsong.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/jewelsong.json","tracer":"","pedal":0.3},
