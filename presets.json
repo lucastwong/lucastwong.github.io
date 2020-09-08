@@ -702,6 +702,10 @@
 "link": "https://dl.dropbox.com/s/dusxu8g6zxplgfr/dovesono.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Drei Romanzen, Op. 94 - mvt. 1 (Robert Schumann)", "shortcut": "schumannoboe1",
+"link": "https://dl.dropbox.com/s/m3w1f5pc7jezdoi/schumannsax1.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.35},   
+      
 {"name": "Du bist der Lenz (Wagner)", "shortcut": "dubistderlenz",
 "link": "https://dl.dropbox.com/s/u7wk0r6h54nohki/Du_bist_der_Lenz.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
@@ -2549,6 +2553,10 @@
 {"name": "Theme from Witches' Dance - G major (Paganini)", "shortcut": "witch1",
 "link": "https://dl.dropbox.com/s/myl1ukyfply322q/Witches%20in%20G.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/witchesdance.json","tracer":"","pedal":0.1},
+      
+{"name": "Three Romances, Op. 94 - mvt. 1 (Robert Schumann)", "shortcut": "schumannoboe1",
+"link": "https://dl.dropbox.com/s/m3w1f5pc7jezdoi/schumannsax1.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.35},
       
 {"name": "To a Wild Rose (MacDowell)", "shortcut": "wildrose",
 "link": "https://dl.dropbox.com/s/il3p91ggyowwpla/To_A_Wild_Rose.musicxml",
