@@ -1854,9 +1854,13 @@
 "link": "https://dl.dropbox.com/s/6ytsssswxetuwrz/omalyre.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
-{"name": "O mio babbino caro (Puccini)", "shortcut": "Babbino",
+{"name": "O mio babbino caro in 2 (Puccini)", "shortcut": "Babbino",
 "link": "https://dl.dropbox.com/s/r1c6vcdlfoehxph/babb.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "O mio babbino caro in 6 (Puccini)", "shortcut": "Babbino2",
+"link": "https://dl.dropbox.com/s/rl8zliw0jvmyi6o/babbin6.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.7},
       
 {"name": "O mio Fernando (Donizetti)", "shortcut": "fernando",
 "link": "https://dl.dropbox.com/s/bwkaukwl2vqgeh0/O_mio_Fernando.musicxml",
