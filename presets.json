@@ -1126,10 +1126,6 @@
 "link": "https://dl.dropbox.com/s/lci1iwmg6tta899/hurrhopp.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
-{"name": "Introduction et rondo capriccioso Op.28 (Saint-Saëns)", "shortcut": "rondo",
-"link": "https://dl.dropbox.com/s/v1lssxfmkwgumdk/rondo.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.3},
-      
 {"name": "I have dreamed (Rodgers & Hammerstein)", "shortcut": "king",
 "link": "https://dl.dropbox.com/s/tlz02me9mrpeprc/king.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
@@ -1150,6 +1146,10 @@
 "link": "https://dl.dropbox.com/s/1hpt40c8otbfucs/iwonder.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/iwonder.json","tracer":"","pedal":0.3},
       
+{"name": "Ice Cube Aria (Jake Heggie, use by permission)", "shortcut": "icecube",
+"link": "https://dl.dropbox.com/s/f6dwr9brfkrdx1x/Heggie%20-%20Ice%20Cube%20Ari.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
+      
 {"name": "Ich baue ganz (Mozart)", "shortcut": "ichbaueganz",
 "link": "https://dl.dropbox.com/s/dyi56vocmglxfsl/Ich%20baue%20ganz.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -1160,6 +1160,10 @@
       
 {"name": "Ideale (Tosti)", "shortcut": "idealetosti",
 "link": "https://dl.dropbox.com/s/h89ngamcpmz90vz/idealetosti.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
+      
+{"name": "If I Were You: I Don't Have to Do a Thing - Ice Cube Aria (Jake Heggie, use by permission)", "shortcut": "icecube",
+"link": "https://dl.dropbox.com/s/f6dwr9brfkrdx1x/Heggie%20-%20Ice%20Cube%20Ari.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":1},
       
 {"name": "If Music be the Food of Love - in 2 (Purcell)", "shortcut": "food2",
@@ -1229,6 +1233,10 @@
 {"name": "Ingrato Polinesso!...Neghittosi or voi che fate? (Handel)", "shortcut": "negh2",
 "link": "https://dl.dropbox.com/s/65ucvxtx2yzzqr3/negh.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Introduction et rondo capriccioso Op.28 (Saint-Saëns)", "shortcut": "rondo",
+"link": "https://dl.dropbox.com/s/v1lssxfmkwgumdk/rondo.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.3},
             
 {"name": "Io morro (Verdi)", "shortcut": "iomorro",
 "link": "https://dl.dropbox.com/s/1ciyo37qrcurqp1/permegiunto.musicxml",
