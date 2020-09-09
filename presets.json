@@ -257,7 +257,7 @@
 "link": "https://dl.dropbox.com/s/4m0tdaoa8kh4g70/bekind.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bekind.json","tracer":"","pedal":0.1},
       
-{"name": "Bea's aria (Jake Heggie, use by permission)", "shortcut": "bea",
+{"name": "Bea's aria from Three Decembers (Jake Heggie, use by permission)", "shortcut": "bea",
 "link": "https://dl.dropbox.com/s/cal4pmjjs2rk2p5/Heggie%20-%20Bea%20Aria.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
@@ -565,6 +565,10 @@
 {"name": "Das war sehr gut, Mandryka (Richard Strauss)", "shortcut": "daswar",
 "link": "https://dl.dropbox.com/s/i492nc1rmfq6mgm/daswar.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "Daybreak from Three Decembers (Jake Heggie, use by permission)", "shortcut": "daybreak",
+"link": "https://dl.dropbox.com/s/oykr7h29kozape7/Heggie%20-%20Daybreak%20.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
       
 {"name": "De' miei bollenti spiriti (Verdi)", "shortcut": "demiei",
 "link": "https://dl.dropbox.com/s/1imbmgtzqbbw904/lungeda.musicxml",
@@ -2562,7 +2566,7 @@
 "link": "https://dl.dropbox.com/s/myl1ukyfply322q/Witches%20in%20G.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/witchesdance.json","tracer":"","pedal":0.1},
       
-{"name": "This Journey (Jake Heggie, use by permission)", "shortcut": "thisjourney",
+{"name": "This Journey from Dead Man Walking (Jake Heggie, use by permission)", "shortcut": "thisjourney",
 "link": "https://dl.dropbox.com/s/ghc08ybwbhafqgf/Heggie%20-%20This%20Journey%20.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
