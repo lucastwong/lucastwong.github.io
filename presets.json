@@ -257,6 +257,10 @@
 "link": "https://dl.dropbox.com/s/4m0tdaoa8kh4g70/bekind.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bekind.json","tracer":"","pedal":0.1},
       
+{"name": "Bea's aria (Jake Heggie, use by permission)", "shortcut": "bea",
+"link": "https://dl.dropbox.com/s/cal4pmjjs2rk2p5/Heggie%20-%20Bea%20Aria.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Beau Soir (Debussy)", "shortcut": "beausoir",
 "link": "https://dl.dropbox.com/s/cwjas2b6vytfz86/Beau_Soir.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/beausoir.json","tracer":"","pedal":1},
