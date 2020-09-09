@@ -2562,6 +2562,10 @@
 "link": "https://dl.dropbox.com/s/myl1ukyfply322q/Witches%20in%20G.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/witchesdance.json","tracer":"","pedal":0.1},
       
+{"name": "This Journey (Jake Heggie, use by permission)", "shortcut": "thisjourney",
+"link": "https://dl.dropbox.com/s/ghc08ybwbhafqgf/Heggie%20-%20This%20Journey%20.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Three Romances, Op. 94 - mvt. 1 (Robert Schumann)", "shortcut": "schumannoboe1",
 "link": "https://dl.dropbox.com/s/m3w1f5pc7jezdoi/schumannsax1.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/schumannoboe1.json","tracer":"","pedal":0.35},
