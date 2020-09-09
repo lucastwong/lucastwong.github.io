@@ -498,6 +498,10 @@
 "link": "https://dl.dropbox.com/s/iq04zn6e6bz42ru/Concerto%20Bravo%20-%20Secondo.musicxml",
 "category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bravo3.json","tracer":"","pedal":0.5},
       
+{"name": "Confession Scene from Dead Man Walking (Jake Heggie, use by permission)","shortcut": "confession",
+"link": "https://dl.dropbox.com/s/t8b4uvxg0725ewu/Heggie%20Confession%20Ari.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Core 'ngrato (Salvatore Cardillo, arr. L. Wong)","shortcut": "corengrato",
 "link": "https://dl.dropbox.com/s/d7nbu2bl9wdfszj/Core_ngrato.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":1},
