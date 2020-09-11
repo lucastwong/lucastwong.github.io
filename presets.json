@@ -325,6 +325,10 @@
 "link": "https://dl.dropbox.com/s/3qkw4nh7s7fo5bd/cacilie.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Captain Ahab? I must speak with you from Moby-Dick (Jake Heggie, use by permission)", "shortcut": "starbuck",
+"link": "https://dl.dropbox.com/s/ni0o2qb5pz98edh/Heggie%20-%20Starbucks%20.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1}, 
+      
 {"name": "Card aria (Bizet)", "shortcut": "envain",
 "link": "https://dl.dropbox.com/s/5xjveudnuqdrr05/cardaria.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -1742,6 +1746,10 @@
 "link": "https://dl.dropbox.com/s/wpmzkqddjgeff41/Musette%20in%20G%20cut.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/musette%20in%202.json","tracer":"","pedal":0.1},  
       
+{"name": "Musket Scene from Moby-Dick (Jake Heggie, use by permission)", "shortcut": "starbuck",
+"link": "https://dl.dropbox.com/s/ni0o2qb5pz98edh/Heggie%20-%20Starbucks%20.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},     
+      
 {"name": "Musica proibita (Gastaldon)", "shortcut": "musicaproibita",
 "link": "https://dl.dropbox.com/s/k2tiq47wr24jyjc/Musica_proibita.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},      
@@ -2489,6 +2497,10 @@
 {"name": "Spirto gentil (Donizetti)", "shortcut": "spirtog",
 "link": "https://dl.dropbox.com/s/ysq21jpyrr9ou8q/spiritogentil.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "Starbuck's Soliloquy from Moby-Dick (Jake Heggie, use by permission)", "shortcut": "starbuck",
+"link": "https://dl.dropbox.com/s/ni0o2qb5pz98edh/Heggie%20-%20Starbucks%20.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":1},
       
 {"name": "Steal me, sweet thief (Menotti)", "shortcut": "stealme",
 "link": "https://dl.dropbox.com/s/w50e3gjt0awitic/stealme.musicxml",
