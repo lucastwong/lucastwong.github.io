@@ -1102,6 +1102,10 @@
 "link": "https://dl.dropbox.com/s/gvfs0sjxlgi385y/banal2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":1},
       
+{"name": "Human Madness from Moby-Dick (Jake Heggie, use by permission)", "shortcut": "humanmadness",
+"link": "https://dl.dropbox.com/s/ipvkrkzp6s1fwfk/Heggie%20-%20Human%20Madness.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Humoresque - D major for cello in 2 (Dvořák)", "shortcut": "humor1",
 "link": "https://dl.dropbox.com/s/fq03ddxgyzw3e37/humor%20CELLO%20in%202.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/humor2.json","tracer":"","pedal":0.4},
