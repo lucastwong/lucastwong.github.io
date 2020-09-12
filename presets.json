@@ -2993,6 +2993,10 @@
 {"name": "Zueignung (Richard Strauss)", "shortcut": "zueignung",
 "link": "https://dl.dropbox.com/s/q0hhpmpk3ecjsa3/zueignung.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
+
+{"name": "*** Pending (001)", "shortcut": "pending1",
+"link": "https://dl.dropbox.com/s/4q05ycikyasq76a/StevenBryant1.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/stevenbryant1.json","tracer":"","pedal":0.3},
       
 {"name": "", "shortcut": "othertrack",
 "link": "https://dl.dropbox.com/s/t1u1sgnlsra4t0b/otherside.musicxml",
