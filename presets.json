@@ -3004,7 +3004,7 @@
 
 {"name": "*** Pending (101)", "shortcut": "pending101",
 "link": "https://dl.dropbox.com/s/lacunpbjcjjfdx8/3LETTER.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/3letters.json","tracer":"","pedal":0.1},
       
 {"name": "", "shortcut": "othertrack",
 "link": "https://dl.dropbox.com/s/t1u1sgnlsra4t0b/otherside.musicxml",
