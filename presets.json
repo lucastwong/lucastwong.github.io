@@ -1942,6 +1942,10 @@
 "link": "https://dl.dropbox.com/s/6hmrrxuqozhqedo/valentin.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/avantquitter.json","tracer":"","pedal":0.3},
       
+{"name": "O sleep, why dost thou leave me? (Handel)", "shortcut": "osleep",
+"link": "https://dl.dropbox.com/s/3f8txeid8uht5i6/osleep.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "O sole mio (Eduardo di Capua)", "shortcut": "osolemio",
 "link": "https://dl.dropbox.com/s/kd5l1tb8j4kwix4/O_Sole_Mio.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
