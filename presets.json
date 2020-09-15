@@ -3033,10 +3033,10 @@
 {"name": "*** Pending (002)", "shortcut": "pending2",
 "link": "https://dl.dropbox.com/s/dg3p4zzjpt0844x/stevenbryant2.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bryant2.json","tracer":"","pedal":0.2},
-      
+   
 {"name": "*** Pending (003)", "shortcut": "pending3",
 "link": "https://dl.dropbox.com/s/bno2cw5ah2utnc7/Sax_Concerto_Mvt_3_%281%29.musicxml",
-"category":"2","https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/stevenbryant3.json","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/stevenbryant2.json","tracer":"","pedal":0.1},
       
 {"name": "*** Pending (101)", "shortcut": "pending101",
 "link": "https://dl.dropbox.com/s/lacunpbjcjjfdx8/3LETTER.musicxml",
