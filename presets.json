@@ -17,6 +17,10 @@
 "link": "https://dl.dropbox.com/s/segussbdnixqt1m/sailor.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/sailor.json","tracer":"","pedal":0.1},
       
+{"name": "Abendempfindung (Mozart)", "shortcut": "mozartabend",
+"link": "https://dl.dropbox.com/s/73zuo7y9ldthvau/Abendempfindung_KV_523_Mozart.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Abscheulicher!...Komm, Hoffnung (Beethoven)", "shortcut": "absch",
 "link": "https://dl.dropbox.com/s/n4t07tvysonqwl0/absch.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/abschmap.json","tracer":"","pedal":0.1},
