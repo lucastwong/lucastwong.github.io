@@ -2470,6 +2470,14 @@
 "link": "https://dl.dropbox.com/s/toduyb4tcmsoz5m/sax-eccles2.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/eccles.json","tracer":"","pedal":0.1},
 
+{"name": "Sonata for Alto Saxophone and Piano - 1st mvt. (Muczynski)", "shortcut": "m1",
+"link": "https://dl.dropbox.com/s/fm9hbkti60vqg9l/Muczynski%20-%20Sonata%20Mvt%201.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/m1.json","tracer":"","pedal":0.3},
+
+{"name": "Sonata for Alto Saxophone and Piano - 2nd mvt. (Muczynski)", "shortcut": "m2",
+"link": "https://dl.dropbox.com/s/n7eybmi3s3ap5t6/Muczynski%20-%20Sonata%20Mvt%202.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/m2.json","tracer":"","pedal":0.3},
+
 {"name": "Sonata for Eb Alto Saxophone and Piano Op. 19 - 1st mvt. (Creston)", "shortcut": "creston1",
 "link": "https://dl.dropbox.com/s/w9b8zzkainn1biz/creston1.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/creston.json","tracer":"","pedal":0.3},
