@@ -197,6 +197,10 @@
 "link": "https://dl.dropbox.com/s/rzn6k5yu4dek5er/andante.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Après un Rêve (Faure)", "shortcut": "apresunreve",
+"link": "https://www.dropbox.com/s/6xwp6asc4ozqlpa/Gabriel_Faure_-_Apres_un_reve.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Aprite un po' (Mozart)", "shortcut": "aprite",
 "link": "https://dl.dropbox.com/s/rsysxzdkoy82hs0/aprite.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/aprite.json","tracer":"","pedal":0.1},
@@ -369,6 +373,10 @@
 {"name": "Ces lettres, ces lettres (Massenet)","shortcut": "ceslettres",
 "link": "https://dl.dropbox.com/s/xws4yth8n5dyomo/ceslettres.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
+      
+{"name": "Chanson triste (Duparc)","shortcut": "chansontriste",
+"link": "https://dl.dropbox.com/s/17hcz2oyvandqfx/Henri_Duparc_Chanson_triste.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
       
 {"name": "Ch'ella mi creda (Puccini)","shortcut": "chella",
 "link": "https://dl.dropbox.com/s/23xks9jbb31ryo7/chella.musicxml",
