@@ -341,6 +341,14 @@
 "link": "https://dl.dropbox.com/s/3qkw4nh7s7fo5bd/cacilie.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Caprock Canyon - Primo (Susan Staples Bell, use by permission)", "shortcut": "sb6",
+"link": "https://dl.dropbox.com/s/kj3aqlly27tebdq/Caprock%20Canyon%20-%20Prim.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1}, 
+      
+{"name": "Caprock Canyon - Secondo (Susan Staples Bell, use by permission)", "shortcut": "sb7",
+"link": "https://dl.dropbox.com/s/ax6o99i9e6y4log/Caprock%20Canyon%20-%20Sec.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1}, 
+      
 {"name": "Captain Ahab? I must speak with you from Moby-Dick (Jake Heggie, use by permission)", "shortcut": "starbuck",
 "link": "https://dl.dropbox.com/s/ni0o2qb5pz98edh/Heggie%20-%20Starbucks%20.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":1}, 
@@ -953,6 +961,10 @@
 {"name": "Funiculì Funiculà (Denza)", "shortcut": "funiculi",
 "link": "https://dl.dropbox.com/s/mu6y330czub3fe1/Funicul%C3%AC_-_Funicul%C3%A0.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Funky Gecko (Susan Staples Bell, use by permission)", "shortcut": "sb5",
+"link": "https://dl.dropbox.com/s/l5ighvsqgwr20fx/Funny%20Gecko.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1}, 
       
 {"name": "Fuor del mar (Mozart)", "shortcut": "fuordelmar",
 "link": "https://dl.dropbox.com/s/qqqtuv31ytx8e8f/fuordelmar.musicxml",
@@ -2069,7 +2081,11 @@
 {"name": "Parto, parto (Mozart)", "shortcut": "partoparto",
 "link": "https://dl.dropbox.com/s/n6ug1xnac6z3tlf/partoparto.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
-
+      
+{"name": "Paseo del Rio - Tango (Susan Staples Bell, use by permission)", "shortcut": "sb4",
+"link": "https://dl.dropbox.com/s/4opdesph4ocf7uu/Paseo%20del%20Rio%20%28Tango%29.musicxml",
+"category":"3","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Passione (Valente & Tagliaferri)", "shortcut": "passione",
 "link": "https://dl.dropbox.com/s/g82t535jqvhc677/passione.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
@@ -2141,6 +2157,10 @@
 {"name": "Pioggia (Respighi)", "shortcut": "pioggia",
 "link": "https://dl.dropbox.com/s/tg4cne8s1267qut/pioggia.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":1},
+      
+{"name": "Pleasant Grove (Susan Staples Bell, use by permission)", "shortcut": "sb3",
+"link": "https://dl.dropbox.com/s/r5o5gld35cynp5i/Pleasant%20Grove%20Piano.musicxml",
+"category":"3","lyrics": "","tracer":"","pedal":1},  
       
 {"name": "Pleurez! pleurez, mes yeux! (Massenet)", "shortcut": "pleurez",
 "link": "https://dl.dropbox.com/s/bn987ldhyg33inr/pleurez.musicxml",
@@ -2573,6 +2593,14 @@
 {"name": "Svegliatevi nel core (Handel)", "shortcut": "sveg",
 "link": "https://dl.dropbox.com/s/faeb5r65nujs28o/sveg.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Sweetwater Junction - Primo (Susan Staples Bell, use by permission)", "shortcut": "sb1",
+"link": "https://dl.dropbox.com/s/5n7ru61l471xlec/Sweetwater%20Junction%20PRIMO.musicxml",
+"category":"3","lyrics": "","tracer":"","pedal":0.1},  
+      
+{"name": "Sweetwater Junction - Secondo (Susan Staples Bell, use by permission)", "shortcut": "sb2",
+"link": "https://dl.dropbox.com/s/b9bvnrwtjbgsa6s/Sweetwater%20Junction%20SECONDO.musicxml",
+"category":"3","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Symphony No. 5 - 1st mvt. (Beethoven)", "shortcut": "Bee5",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee5.xml",
