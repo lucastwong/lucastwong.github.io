@@ -964,7 +964,7 @@
       
 {"name": "Funky Gecko (Susan Staples Bell, use by permission)", "shortcut": "sb5",
 "link": "https://dl.dropbox.com/s/l5ighvsqgwr20fx/Funny%20Gecko.musicxml",
-"category":"3","lyrics": "","tracer":"","pedal":0.1}, 
+"category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/funkygecko.json","tracer":"","pedal":0.1}, 
       
 {"name": "Fuor del mar (Mozart)", "shortcut": "fuordelmar",
 "link": "https://dl.dropbox.com/s/qqqtuv31ytx8e8f/fuordelmar.musicxml",
