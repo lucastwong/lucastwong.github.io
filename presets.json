@@ -2084,7 +2084,7 @@
       
 {"name": "Paseo del Rio - Tango (Susan Staples Bell, use by permission)", "shortcut": "sb4",
 "link": "https://dl.dropbox.com/s/4opdesph4ocf7uu/Paseo%20del%20Rio%20%28Tango%29.musicxml",
-"category":"3","lyrics": "","tracer":"","pedal":0.1},
+"category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/paseo.json","tracer":"","pedal":0.1},
       
 {"name": "Passione (Valente & Tagliaferri)", "shortcut": "passione",
 "link": "https://dl.dropbox.com/s/g82t535jqvhc677/passione.musicxml",
