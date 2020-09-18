@@ -3080,7 +3080,7 @@
       
 {"name": "*** Pending (101b)", "shortcut": "pending101b",
 "link": "https://dl.dropbox.com/s/3o83gs95xvsimsr/3LETTER2.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/3letterb.json","tracer":"","pedal":0.1},
       
 {"name": "*** SoCal", "shortcut": "socal",
 "link": "https://dl.dropbox.com/s/f8t8u5o4vecswkv/A_TIME_FOR_US.musicxml",
