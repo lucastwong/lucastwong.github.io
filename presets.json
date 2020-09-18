@@ -2596,11 +2596,11 @@
       
 {"name": "Sweetwater Junction - Primo (Susan Staples Bell, use by permission)", "shortcut": "sb1",
 "link": "https://dl.dropbox.com/s/5n7ru61l471xlec/Sweetwater%20Junction%20PRIMO.musicxml",
-"category":"3","lyrics": "","tracer":"","pedal":0.1},  
+"category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/swj1.json","tracer":"","pedal":0.1},  
       
 {"name": "Sweetwater Junction - Secondo (Susan Staples Bell, use by permission)", "shortcut": "sb2",
 "link": "https://dl.dropbox.com/s/b9bvnrwtjbgsa6s/Sweetwater%20Junction%20SECONDO.musicxml",
-"category":"3","lyrics": "","tracer":"","pedal":0.1},
+"category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/swj1.json","tracer":"","pedal":0.1},
       
 {"name": "Symphony No. 5 - 1st mvt. (Beethoven)", "shortcut": "Bee5",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bee5.xml",
