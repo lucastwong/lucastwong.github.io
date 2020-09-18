@@ -2160,7 +2160,7 @@
       
 {"name": "Pleasant Grove (Susan Staples Bell, use by permission)", "shortcut": "sb3",
 "link": "https://dl.dropbox.com/s/r5o5gld35cynp5i/Pleasant%20Grove%20Piano.musicxml",
-"category":"3","lyrics": "","tracer":"","pedal":1},  
+"category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/pleasantgrove.json","tracer":"","pedal":1},  
       
 {"name": "Pleurez! pleurez, mes yeux! (Massenet)", "shortcut": "pleurez",
 "link": "https://dl.dropbox.com/s/bn987ldhyg33inr/pleurez.musicxml",
