@@ -3074,8 +3074,12 @@
 "link": "https://dl.dropbox.com/s/bno2cw5ah2utnc7/Sax_Concerto_Mvt_3_%281%29.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/stevenbryant3.json","tracer":"","pedal":0.1},
       
-{"name": "*** Pending (101)", "shortcut": "pending101",
+{"name": "*** Pending (101a)", "shortcut": "pending101a",
 "link": "https://dl.dropbox.com/s/lacunpbjcjjfdx8/3LETTER.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/3letters.json","tracer":"","pedal":0.1},
+      
+{"name": "*** Pending (101b)", "shortcut": "pending101b",
+"link": "https://dl.dropbox.com/s/3o83gs95xvsimsr/3LETTER2.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/3letters.json","tracer":"","pedal":0.1},
       
 {"name": "*** SoCal", "shortcut": "socal",
