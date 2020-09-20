@@ -2014,6 +2014,10 @@
 "link": "https://dl.dropbox.com/s/arijuyc2nlsabj5/ochjaky.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":1},
       
+{"name": "Ode to the Yellow River (Xinghai)", "shortcut": "yellowriver2",
+"link": "https://dl.dropbox.com/s/8mp21xq6aowads6/Ode_to_the_Yellow_River.musicxml",
+"category":"3","lyrics": "","tracer":"","pedal":0.1},  
+      
 {"name": "Oh, What a Beautiful Mornin' (Rodgers & Hammerstein)", "shortcut": "brian",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Oh%20what%20a%20beautiful%20morning.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
@@ -3050,6 +3054,10 @@
 "link": "https://dl.dropbox.com/s/1cdnjn4lve9h8sv/yeletsky.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/yeletsky.json","tracer":"","pedal":0.2},
 
+{"name": "Yellow River Concerto - 2nd mvt. (Xinghai)", "shortcut": "yellowriver2",
+"link": "https://dl.dropbox.com/s/8mp21xq6aowads6/Ode_to_the_Yellow_River.musicxml",
+"category":"3","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "You Gotta Be (Des'ree & Ashley Ingram)", "shortcut": "gotta",
 "link": "https://dl.dropbox.com/s/wckwztegmfjrp0g/gotta.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
