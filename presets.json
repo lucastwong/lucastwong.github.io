@@ -2142,6 +2142,10 @@
 "link": "https://dl.dropbox.com/s/e7imcp3y4ndx184/Rach2-1.musicxml",
 "category":"3","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Piano Concerto No. 2 in C minor - 2nd mvt. (Rachmaninoff)", "shortcut": "rach22",
+"link": "https://dl.dropbox.com/s/7hax30myjwb7tpt/Piano_Concerto_2_in_C_minor_II_Rachmaninoff.musicxml",
+"category":"3","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Piano Concerto No. 2 in G minor - 1st mvt. (Saint-Saëns)", "shortcut": "sspiano1",
 "link": "https://dl.dropbox.com/s/bd8z9qsnbeqxvwe/Second_Piano_Concerto.musicxml",
 "category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/ssmap.json","tracer":"","pedal":0.1},
