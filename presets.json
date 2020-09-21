@@ -529,6 +529,18 @@
 {"name": "Concerto Bravo - 3rd mvt. (Kevin Olson, use by permission)","shortcut": "concertino",
 "link": "https://dl.dropbox.com/s/iq04zn6e6bz42ru/Concerto%20Bravo%20-%20Secondo.musicxml",
 "category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bravo3.json","tracer":"","pedal":0.5},
+
+{"name": "Concerto for Alto Saxophone - 1st mvt. (Steven Bryant, use by permission)", "shortcut": "pending1",
+"link": "https://dl.dropbox.com/s/4q05ycikyasq76a/StevenBryant1.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/stevenbryant1.json","tracer":"","pedal":0.3},
+
+{"name": "Concerto for Alto Saxophone - 2nd mvt. (Steven Bryant, use by permission)", "shortcut": "pending2",
+"link": "https://dl.dropbox.com/s/dg3p4zzjpt0844x/stevenbryant2.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bryant2.json","tracer":"","pedal":0.2},
+   
+{"name": "Concerto for Alto Saxophone - 3rd mvt. (Steven Bryant, use by permission)", "shortcut": "pending3",
+"link": "https://dl.dropbox.com/s/bno2cw5ah2utnc7/Sax_Concerto_Mvt_3_%281%29.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/stevenbryant3.json","tracer":"","pedal":0.1}, 
       
 {"name": "Confession Scene from Dead Man Walking (Jake Heggie, use by permission)","shortcut": "confession",
 "link": "https://dl.dropbox.com/s/t8b4uvxg0725ewu/Heggie%20Confession%20Ari.musicxml",
@@ -3081,18 +3093,6 @@
 {"name": "Zueignung (Richard Strauss)", "shortcut": "zueignung",
 "link": "https://dl.dropbox.com/s/q0hhpmpk3ecjsa3/zueignung.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
-
-{"name": "*** Pending (001)", "shortcut": "pending1",
-"link": "https://dl.dropbox.com/s/4q05ycikyasq76a/StevenBryant1.musicxml",
-"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/stevenbryant1.json","tracer":"","pedal":0.3},
-
-{"name": "*** Pending (002)", "shortcut": "pending2",
-"link": "https://dl.dropbox.com/s/dg3p4zzjpt0844x/stevenbryant2.musicxml",
-"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/bryant2.json","tracer":"","pedal":0.2},
-   
-{"name": "*** Pending (003)", "shortcut": "pending3",
-"link": "https://dl.dropbox.com/s/bno2cw5ah2utnc7/Sax_Concerto_Mvt_3_%281%29.musicxml",
-"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/stevenbryant3.json","tracer":"","pedal":0.1},
       
 {"name": "*** Pending (101a)", "shortcut": "pending101a",
 "link": "https://dl.dropbox.com/s/lacunpbjcjjfdx8/3LETTER.musicxml",
