@@ -2146,6 +2146,10 @@
 "link": "https://dl.dropbox.com/s/nraraes0kecd7pl/Piano_Concerto_in_A_minor_Opus_16_Grieg_1st_movement_-_Allegro_molto_moderato.musicxml",
 "category":"3","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Piano Concerto in G - 2nd mvt. (Ravel)", "shortcut": "ravel",
+"link": "https://dl.dropbox.com/s/kbja3mopri65asp/Ravel_Piano_concerto_in_G_-_2._Adagio_assai.musicxml",
+"category":"3","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Piano Concerto No. 2 in B flat major - 1st mvt. (Brahms)", "shortcut": "b21",
 "link": "https://dl.dropbox.com/s/n8mgc05eiquzupd/Brahms_Piano_Concerto_2__First_Movement.musicxml",
 "category":"3","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/brahms2imap.json","tracer":"","pedal":0.1},
