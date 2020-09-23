@@ -3128,7 +3128,7 @@
       
 {"name": "*** Pending (301)", "shortcut": "scott2",
 "link": "https://dl.dropbox.com/s/sk4appe8firw13i/And%20Everything%20Is%20Still.musicxml",
-"category":"2","lyrics": "","tracer":"","pedal":0.25},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/scottcalm.json","tracer":"","pedal":0.25},
       
 {"name": "", "shortcut": "othertrack",
 "link": "https://dl.dropbox.com/s/t1u1sgnlsra4t0b/otherside.musicxml",
