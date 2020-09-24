@@ -738,6 +738,10 @@
 "link": "https://dl.dropbox.com/s/ruzw731o234hr0c/Domero%20fixed.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Don Quichotte à Dulcinée - complete (Ravel)", "shortcut": "raveldonquichotte",
+"link": "https://dl.dropbox.com/s/x8mqeoeel0lbx01/RavelQuicotte.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Donde lieta usci (Puccini)", "shortcut": "donde",
 "link": "https://dl.dropbox.com/s/6jmi7os67vua2vz/donde.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
