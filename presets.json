@@ -3252,8 +3252,12 @@
 "link": "https://dl.dropbox.com/s/9xc3a0e4g847kng/Secret.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
-{"name": "", "shortcut": "cw002",
+{"name": "", "shortcut": "cw002a",
 "link": "https://dl.dropbox.com/s/837v6wq8n53jqzo/Gavotte%20du%20masque.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "", "shortcut": "cw002b",
+"link": "https://dl.dropbox.com/s/szba9pw4z4994qg/Gavotte%20du%20masque2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "", "shortcut": "p7",
