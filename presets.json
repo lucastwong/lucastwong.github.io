@@ -265,6 +265,10 @@
 "link": "https://dl.dropbox.com/s/5bzyh7hdhvj5vvs/BaliHai.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/balihai.json","tracer":"","pedal":0.5},
       
+{"name": "Barber of Seville - Overture (Rossini)", "shortcut": "seville",
+"link": "https://dl.dropbox.com/s/ia2849d060u0d5b/The_Barber_of_Seville_Overture.musicxml",
+"category":"4","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Batti, batti (Mozart)", "shortcut": "batti",
 "link": "https://dl.dropbox.com/s/4vw26lu535st0rl/batti.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/batti.json","tracer":"","pedal":0.5},
