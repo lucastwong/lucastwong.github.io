@@ -2560,7 +2560,7 @@
 
 {"name": "Sonata for Eb Alto Saxophone and Piano Op. 19 - 1st mvt. (Creston)", "shortcut": "creston1",
 "link": "https://dl.dropbox.com/s/w9b8zzkainn1biz/creston1.musicxml",
-"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/creston.json","tracer":"","pedal":0.3},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/creston.json","tracer":"","pedal":0.1},
       
 {"name": "Sonata in E minor, Op. 1, No. 2 - Adagio and Allegro (Marcello)", "shortcut": "marcello",
 "link": "https://dl.dropbox.com/s/cha3kt6dc04pihs/MarcelloCello1.musicxml",
