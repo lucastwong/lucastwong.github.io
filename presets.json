@@ -2634,6 +2634,10 @@
 "link": "https://dl.dropbox.com/s/ysq21jpyrr9ou8q/spiritogentil.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Ständchen (Schubert)", "shortcut": "standchenschubert",
+"link": "https://dl.dropbox.com/s/rc8ydck46ebvdc6/Schubert_Franz_-_Schwanengesang_D.957_No.4_-_Stndchen.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "Starbuck's Soliloquy from Moby-Dick (Jake Heggie, use by permission)", "shortcut": "starbuck",
 "link": "https://dl.dropbox.com/s/ni0o2qb5pz98edh/Heggie%20-%20Starbucks%20.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":1},
