@@ -810,6 +810,10 @@
 "link": "https://dl.dropbox.com/s/u7wk0r6h54nohki/Du_bist_der_Lenz.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":1},
       
+{"name": "Du bist wie eine Blume (Robert Schumann)", "shortcut": "dubistwieeineblume",
+"link": "https://dl.dropbox.com/s/3dm0rz93jej8o6q/Schumann_Robert_-_Du_bist_wie_eine_Blume_for_Flute_and_Piano.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.2},
+      
 {"name": "Du gai soleil (Massenet)", "shortcut": "dugai",
 "link": "https://dl.dropbox.com/s/hc0fp6rtbqw7jsv/dugai2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
