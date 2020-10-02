@@ -2998,6 +2998,10 @@
 "link": "https://dl.dropbox.com/s/nr4mnu99f2mmly5/Wieniawski_2.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.12},
       
+{"name": "Violin Concerto in D minor - 3rd mvt. (Wieniawski)", "shortcut": "wieniawski3",
+"link": "https://dl.dropbox.com/s/xfvoos8ddfrmk5t/Wieniawski_3_edit.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.12},
+      
 {"name": "Violin Concerto in D minor - complete (Sibelius)", "shortcut": "sibelius",
 "link": "https://dl.dropbox.com/s/31q1bwilwf1runq/sibelius.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.2},
