@@ -221,8 +221,12 @@
 "link": "https://dl.dropbox.com/s/t3j8p5jkepj3eyx/gluck.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/amourgluck.json","tracer":"","pedal":0.1},
       
-{"name": "An Chloe (Mozart)", "shortcut": "anchloe",
+{"name": "An Chloe - in 4 (Mozart)", "shortcut": "anchloe",
 "link": "https://dl.dropbox.com/s/ns4z05zo2k422rt/Mozart_Wolfgang_Amadeus_-_An_Chloe_KV_524_for_Flute_and_Piano.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "An Chloe - in 2 (Mozart)", "shortcut": "anchloe2",
+"link": "https://dl.dropbox.com/s/v8c4clep322pi6c/Mozart_Wolfgang_Amadeus_-_An_Chloe_KV_524_for_Flute_and_PianoCUT.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "An die Musik (Schubert)", "shortcut": "andiemusik",
