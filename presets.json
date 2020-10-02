@@ -1,6 +1,26 @@
 {"presets":
 [
       
+{"name": "A Charm of Lullabies - A Cradle Song (Britten)", "shortcut": "charm1",
+"link": "https://dl.dropbox.com/s/szokswbuv6hhitz/1._A_Cradle_Song.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.20},
+      
+{"name": "A Charm of Lullabies - The Highland Balou (Britten)", "shortcut": "charm2",
+"link": "https://dl.dropbox.com/s/3q0g6ppu1ao9hn1/2._The_Highland_Balou.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.10},
+      
+{"name": "A Charm of Lullabies - Sephestia's Lullaby (Britten)", "shortcut": "charm3",
+"link": "https://dl.dropbox.com/s/8hkhzlflt8p3v4y/3._Sephestia%27s_Lullaby.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0},
+      
+{"name": "A Charm of Lullabies - A Charm (Britten)", "shortcut": "charm4",
+"link": "https://dl.dropbox.com/s/sk8l3vhwio8n250/4._A_Charm.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0},
+      
+{"name": "A Charm of Lullabies - The Nurse's Song (Britten)", "shortcut": "charm5",
+"link": "https://dl.dropbox.com/s/9128q4qq5j9tzlh/5._The_Nurse%27s_Song.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "À Chloris (Hahn)", "shortcut": "achloris",
 "link": "https://dl.dropbox.com/s/p5z6qp1kbkg7ujy/A_Chloris.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/achloris.json","tracer":"","pedal":0.1},
@@ -2434,6 +2454,10 @@
 "link": "https://dl.dropbox.com/s/1l0xbjedomco03k/senzamamma.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Sephestia's Lullaby (Britten)", "shortcut": "charm3",
+"link": "https://dl.dropbox.com/s/8hkhzlflt8p3v4y/3._Sephestia%27s_Lullaby.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0},
+      
 {"name": "September (Maurice White, Al McKay, and Allee Willis)", "shortcut": "sept",
 "link": "https://dl.dropbox.com/s/ab94amkea1o9u1z/september.musicxml",
 "category":"1","lyrics": "", "tracer":"","pedal":0.1},
@@ -2677,18 +2701,14 @@
 {"name": "The Happy Farmer - G major (Robert Schumann)", "shortcut": "farmerg",
 "link": "https://dl.dropbox.com/s/9bs0dde9xzgwt0n/Happy%20Farmer%20in%20G.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/farmer.json","tracer":"","pedal":0.1},  
-
+      
+{"name": "The Highland Balou (Britten)", "shortcut": "charm2",
+"link": "https://dl.dropbox.com/s/3q0g6ppu1ao9hn1/2._The_Highland_Balou.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.10},
+      
 {"name": "The hours creep on apace...A simple sailor, lowly born (Gilbert & Sullivan)", "shortcut": "sailor",
 "link": "https://dl.dropbox.com/s/segussbdnixqt1m/sailor.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},   
-      
-{"name": "The Two Grenadiers - D minor (Robert Schumann)", "shortcut": "gren1",
-"link": "https://dl.dropbox.com/s/jrn7bodjdmpx1fm/Grenadiers%20in%20D.musicxml",
-"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/grenadiers.json","tracer":"","pedal":0.1}, 
-      
-{"name": "The Two Grenadiers - G minor (Robert Schumann)", "shortcut": "gren2",
-"link": "https://dl.dropbox.com/s/1ysitz9t9m9gpzc/Grenadiers%20in%20G.musicxml",
-"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/grenadiers.json","tracer":"","pedal":0.1}, 
+"category":"1","lyrics": "","tracer":"","pedal":0.1},    
       
 {"name": "The Moon over the Ruined Castle - E minor (Taki)", "shortcut": "castle1",
 "link": "https://dl.dropbox.com/s/ughwlbwrkqgg9lt/Moon_over_the_Ruined_Castle%20e%20minor%20.musicxml",
@@ -2706,6 +2726,10 @@
 "link": "https://dl.dropbox.com/s/r1k1emuui0ks0eu/Moon_over_the_Ruined_Castle%20G%20minor%20cut.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/taki2.json","tracer":"","pedal":0.2},
       
+{"name": "The Nurse's Song (Britten)", "shortcut": "charm5",
+"link": "https://dl.dropbox.com/s/9128q4qq5j9tzlh/5._The_Nurse%27s_Song.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "The Rainbow Connection (Paul Williams & Kenneth L. Ascher)", "shortcut": "rainbow",
 "link": "https://dl.dropbox.com/s/l046eqo72r8lmxp/rainbow.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
@@ -2717,6 +2741,14 @@
 {"name": "The Star-Spangled Banner (John Stafford Smith)", "shortcut": "starsp",
 "link": "https://dl.dropbox.com/s/70aislvedb4glh9/The_Star_Spangled_Banner.musicxml",
 "category":"4","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/starmap.json","tracer":"","pedal":0.5},
+      
+{"name": "The Two Grenadiers - D minor (Robert Schumann)", "shortcut": "gren1",
+"link": "https://dl.dropbox.com/s/jrn7bodjdmpx1fm/Grenadiers%20in%20D.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/grenadiers.json","tracer":"","pedal":0.1}, 
+      
+{"name": "The Two Grenadiers - G minor (Robert Schumann)", "shortcut": "gren2",
+"link": "https://dl.dropbox.com/s/1ysitz9t9m9gpzc/Grenadiers%20in%20G.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/grenadiers.json","tracer":"","pedal":0.1},
       
 {"name": "Theme from Witches' Dance - D major (Paganini)", "shortcut": "witch1",
 "link": "https://dl.dropbox.com/s/b5v04cp9fz7wk92/Witches%20in%20D.musicxml",
