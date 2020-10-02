@@ -193,6 +193,10 @@
 "link": "https://dl.dropbox.com/s/jhlt48z9r0rlh9g/alma.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/almadelcore.json","tracer":"","pedal":0.1}, 
       
+{"name": "Als Luise die Briefe (Mozart)", "shortcut": "alsluis",
+"link": "https://dl.dropbox.com/s/11zb3kefyoh10ej/Als%20luis.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1}, 
+      
 {"name": "Amarilli, mia bella (Caccini)", "shortcut": "caccini",
 "link": "https://dl.dropbox.com/s/aemz9t231zakts7/amarilli.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/amarilli.json","tracer":"","pedal":0.1},
