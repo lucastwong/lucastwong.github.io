@@ -2990,6 +2990,10 @@
 "link": "https://dl.dropbox.com/s/hpq66yjfitfcuid/Violin_Concerto_in_D_major%2C_Op._35.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/tchmap.json","tracer":"","pedal":0.2},
       
+{"name": "Violin Concerto in D minor - 1st mvt. (Wieniawski)", "shortcut": "wieniawski1",
+"link": "https://dl.dropbox.com/s/q2s4wvllya9pznc/Wieniawski_1.musicxml",
+"category":"2","lyrics": "","tracer":"","pedal":0.12},
+      
 {"name": "Violin Concerto in D minor - complete (Sibelius)", "shortcut": "sibelius",
 "link": "https://dl.dropbox.com/s/31q1bwilwf1runq/sibelius.musicxml",
 "category":"2","lyrics": "","tracer":"","pedal":0.2},
