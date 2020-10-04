@@ -970,6 +970,10 @@
 "link": "https://dl.dropbox.com/s/2kehtho5lo7qmgo/fantaisieaux2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Fantaisie sur un thème original (Demersseman)", "shortcut": "demersseman",
+"link": "https://dl.dropbox.com/s/ss88ms28y06yllk/Fantaisie%20-%20sur%20un%20theme%20original.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Demersseman.json","tracer":"","pedal":0.1},
+      
 {"name": "Feels Like Home (Randy Newman)", "shortcut": "home",
 "link": "https://dl.dropbox.com/s/k7gztpaa7vggs7d/home.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
