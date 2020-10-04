@@ -1002,6 +1002,38 @@
 "link": "https://dl.dropbox.com/s/4hxxnaz3r77lvzh/frapoco.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
+{"name": "Frauenliebe und Leben - Seit ich ihn gesehen (Robert Schumann)", "shortcut": "frau1",
+"link": "https://dl.dropbox.com/s/ph70ut1twamx4r6/Schumann_Robert_-_Frauenliebe_und_Leben_Op.42_No.1_-_Seit_ich_ihn_gesehen.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.12},
+      
+{"name": "Frauenliebe und Leben - Er, der Herrlichste von allen (Robert Schumann)", "shortcut": "frau2",
+"link": "https://dl.dropbox.com/s/dykwitgp7nbz8dp/Schumann_Robert_-_Frauenliebe_und_Leben_Op.42_No.2_-_Er_der_Herrlichste_von_allen.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.12},
+      
+{"name": "Frauenliebe und Leben - Ich kann's nicht fassen, nicht glauben (Robert Schumann)", "shortcut": "frau3",
+"link": "https://dl.dropbox.com/s/qkqoijzfjldrxw2/Schumann_Robert_-_Frauenliebe_und_Leben_Op.42_No.3_-_Ich_kanns_nicht_fassen_nicht_glauben.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.12},
+      
+{"name": "Frauenliebe und Leben - Du Ring an meinem Finger (Robert Schumann)", "shortcut": "frau4",
+"link": "https://dl.dropbox.com/s/u5zuj55aet1ddgj/Schumann_Robert_-_Frauenliebe_und_Leben_Op.42_No.4_-_Du_Ring_an_meinem_Finger.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.12},
+      
+{"name": "Frauenliebe und Leben - Helft mir, ihr Schwestern (Robert Schumann)", "shortcut": "frau5",
+"link": "https://dl.dropbox.com/s/req2zoza6u4y3wh/Schumann_Robert_-_Frauenliebe_und_Leben_Op.42_No.5_-_Helft_mir_ihr_Schwestern.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.12},
+      
+{"name": "Frauenliebe und Leben - Süßer Freund, du blickest mich verwundert an (Robert Schumann)", "shortcut": "frau6",
+"link": "https://dl.dropbox.com/s/69rajd5m6eivwlj/Schumann_Robert_-_Frauenliebe_und_Leben_Op.42_No.6_-_Susser_Freund_du_blickest.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.12},
+      
+{"name": "Frauenliebe und Leben - An meinem Herzen, an meiner Brust (Robert Schumann)", "shortcut": "frau7",
+"link": "https://dl.dropbox.com/s/92hd3qd3y4yhnrw/Schumann_Robert_-_Frauenliebe_und_Leben_Op.42_No.7_-_An_meinem_Herzen_an_meiner_Brust.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.12},
+      
+{"name": "Frauenliebe und Leben - Nun hast du mir den ersten Schmerz getan (Robert Schumann)", "shortcut": "frau8",
+"link": "https://dl.dropbox.com/s/qr29s08fu90lv1f/Schumann_Robert_-_Frauenliebe_und_Leben_Op.42_No.8_-_Nun_hast_du_mir_den_ersten_Schmerz_getan.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.12},
+      
 {"name": "French Folk Song (Folk)", "shortcut": "frenchfolksong",
 "link": "https://dl.dropbox.com/s/ak812tbunqr75k5/2._French_Folk_Song.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/frenchfolksong.json","tracer":"","pedal":0.1},
