@@ -1133,6 +1133,14 @@
 {"name": "Gavotte BWV 822 - G minor in cut time (Bach)", "shortcut": "bachgminor2",
 "link": "https://dl.dropbox.com/s/rrddcn5vwwdm8z9/3%20-%20Bach%20Gavotte%20in%20G%20Minor%20CUT.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/gavottegminorviolin%20CUT.json","tracer":"","pedal":0.1},
+    
+{"name": "Gavotte du masque (Georges)", "shortcut": "cw002a",
+"link": "https://dl.dropbox.com/s/837v6wq8n53jqzo/Gavotte%20du%20masque.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Gavotte du masque - in 2 (Georges)", "shortcut": "cw002b",
+"link": "https://dl.dropbox.com/s/szba9pw4z4994qg/Gavotte%20du%20masque2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Gavotte from Mignon (Thomas)", "shortcut": "mignongavotte",
 "link": "https://dl.dropbox.com/s/h1c6eu2hxlmjuh9/Mignon%20Gavotte.musicxml",
@@ -3358,14 +3366,6 @@
       
 {"name": "", "shortcut": "cw001",
 "link": "https://dl.dropbox.com/s/9xc3a0e4g847kng/Secret.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
-      
-{"name": "", "shortcut": "cw002a",
-"link": "https://dl.dropbox.com/s/837v6wq8n53jqzo/Gavotte%20du%20masque.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
-      
-{"name": "", "shortcut": "cw002b",
-"link": "https://dl.dropbox.com/s/szba9pw4z4994qg/Gavotte%20du%20masque2.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "", "shortcut": "p7",
