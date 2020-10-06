@@ -2645,10 +2645,26 @@
 {"name": "Sonata for Alto Saxophone and Piano - 2nd mvt. (Muczynski)", "shortcut": "m2",
 "link": "https://dl.dropbox.com/s/n7eybmi3s3ap5t6/Muczynski%20-%20Sonata%20Mvt%202.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/m2.json","tracer":"","pedal":0.1},
-
+      
 {"name": "Sonata for Eb Alto Saxophone and Piano Op. 19 - 1st mvt. (Creston)", "shortcut": "creston1",
 "link": "https://dl.dropbox.com/s/w9b8zzkainn1biz/creston1.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/creston.json","tracer":"","pedal":0.1},
+
+{"name": "Sonata in C# minor for Alto Saxophone and Piano - 1st mvt. (Decruck)", "shortcut": "Decruck1",
+"link": "https://dl.dropbox.com/s/2tlpfs9vgx5bkih/Decruck%20-%20Sonate%20-%201.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Decruck1.json","tracer":"","pedal":0.25},
+
+{"name": "Sonata in C# minor for Alto Saxophone and Piano - 2nd mvt. (Decruck)", "shortcut": "Decruck2",
+"link": "https://dl.dropbox.com/s/fv0kdd9h88nyzpg/Decruck%20-%20Sonate%20-%202.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Decruck2.json","tracer":"","pedal":0.75},
+
+{"name": "Sonata in C# minor for Alto Saxophone and Piano - 3rd mvt. (Decruck)", "shortcut": "Decruck3",
+"link": "https://dl.dropbox.com/s/79noc1xan5l2rx8/Decruck%20-%20Sonate%20-%203.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Decruck3.json","tracer":"","pedal":0.15},
+
+{"name": "Sonata in C# minor for Alto Saxophone and Piano - 4th mvt. (Decruck)", "shortcut": "Decruck4",
+"link": "https://dl.dropbox.com/s/tp7avf3i8jdip1f/Decruck%20-%20Sonate%20-%204.musicxml",
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Decruck4.json","tracer":"","pedal":1},
       
 {"name": "Sonata in E minor, Op. 1, No. 2 - Adagio and Allegro (Marcello)", "shortcut": "marcello",
 "link": "https://dl.dropbox.com/s/cha3kt6dc04pihs/MarcelloCello1.musicxml",
