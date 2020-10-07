@@ -756,15 +756,15 @@
       
 {"name": "Divertimento for Saxophone - 1st mvt. (Boutry)", "shortcut": "boutry1",
 "link": "https://dl.dropbox.com/s/s56qk82xnxyskc2/Boutry1.musicxml",
-"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/boutry1.json","tracer":"","pedal":0},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/boutry1.json","tracer":"","pedal":0},
       
 {"name": "Divertimento for Saxophone - 2nd mvt. (Boutry)", "shortcut": "boutry2",
 "link": "https://dl.dropbox.com/s/pwub9xmx593h8yx/Boutry2.musicxml",
-"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/boutry2.json","tracer":"","pedal":0.25},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/boutry2.json","tracer":"","pedal":0.25},
       
 {"name": "Divertimento for Saxophone - 3rd mvt. (Boutry)", "shortcut": "boutry3",
 "link": "https://dl.dropbox.com/s/qhlopluvdacoi7o/Boutry3.musicxml",
-"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/boutry3.json","tracer":"","pedal":0.1},
+"category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/boutry3.json","tracer":"","pedal":0.1},
       
 {"name": "Divinités du Styx (Gluck)", "shortcut": "divinites",
 "link": "https://dl.dropbox.com/s/opsuo44jvv8gkr7/divinites.musicxml",
