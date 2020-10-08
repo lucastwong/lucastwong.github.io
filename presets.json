@@ -2866,6 +2866,10 @@
 "link": "https://dl.dropbox.com/s/myl1ukyfply322q/Witches%20in%20G.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/witchesdance.json","tracer":"","pedal":0.1},
       
+{"name": "There came a Wind like a Bugle (Copland)", "shortcut": "bugle",
+"link": "https://dl.dropbox.com/s/uxk8h5nj6fwej7p/Copland_There%20came%20a%20wind.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "This Journey from Dead Man Walking (Jake Heggie, use by permission)", "shortcut": "thisjourney",
 "link": "https://dl.dropbox.com/s/ghc08ybwbhafqgf/Heggie%20-%20This%20Journey%20.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
@@ -2948,6 +2952,10 @@
       
 {"name": "Twelve Poems of Emily Dickinson - 1. Nature, the Gentlest Mother (Copland)", "shortcut": "nature",
 "link": "https://dl.dropbox.com/s/r28nw2ned9aa3l0/Copland_%20Nature%20the%20gentlest%20mother.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
+{"name": "Twelve Poems of Emily Dickinson - 2. There came a Wind like a Bugle (Copland)", "shortcut": "bugle",
+"link": "https://dl.dropbox.com/s/uxk8h5nj6fwej7p/Copland_There%20came%20a%20wind.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
 {"name": "Twelve Poems of Emily Dickinson - 3. Why do they shut Me out of Heaven? (Copland)", "shortcut": "heaven",
