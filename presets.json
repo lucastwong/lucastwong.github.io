@@ -2950,6 +2950,10 @@
 "link": "https://dl.dropbox.com/s/r28nw2ned9aa3l0/Copland_%20Nature%20the%20gentlest%20mother.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
       
+{"name": "Twelve Poems of Emily Dickinson - 3. Why do they shut Me out of Heaven? (Copland)", "shortcut": "heaven",
+"link": "https://dl.dropbox.com/s/j5umqo0adpfo6b2/Copland_%20Why%20do%20they%20shut%20me%20out.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0},
+      
 {"name": "Twelve Poems of Emily Dickinson - 5. Heart, we will forget him (Copland)", "shortcut": "coplandheartwe",
 "link": "https://dl.dropbox.com/s/ibur0478b01whh0/heartwe.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -3205,6 +3209,10 @@
 {"name": "When the air sings of summer (Menotti)", "shortcut": "whentheair",
 "link": "https://dl.dropbox.com/s/phzvzgcgndfeso7/whentheair.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
+
+{"name": "Why do they shut Me out of Heaven? (Copland)", "shortcut": "heaven",
+"link": "https://dl.dropbox.com/s/j5umqo0adpfo6b2/Copland_%20Why%20do%20they%20shut%20me%20out.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0},
       
 {"name": "Wie Du warst (Richard Strauss)", "shortcut": "wiedu",
 "link": "https://dl.dropbox.com/s/fxfj2h21t11z4zk/wiedu.musicxml",
