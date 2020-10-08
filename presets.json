@@ -1946,6 +1946,10 @@
 "link": "https://dl.dropbox.com/s/s74npkqz56b2jsp/sulfil.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.2},
       
+{"name": "Nature, the Gentlest Mother (Copland)", "shortcut": "nature",
+"link": "https://dl.dropbox.com/s/r28nw2ned9aa3l0/Copland_%20Nature%20the%20gentlest%20mother.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Nebbie (Respighi)", "shortcut": "nebbie",
 "link": "https://dl.dropbox.com/s/bz8djy30mqml2mk/Nebbie.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.5},
@@ -2942,7 +2946,11 @@
 "link": "https://dl.dropbox.com/s/rsysxzdkoy82hs0/aprite.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/aprite.json","tracer":"","pedal":0.1},
       
-{"name": "Twelve Poems of Emily Dickinson - Heart, we will forget him (Copland)", "shortcut": "coplandheartwe",
+{"name": "Twelve Poems of Emily Dickinson - 1. Nature, the Gentlest Mother (Copland)", "shortcut": "nature",
+"link": "https://dl.dropbox.com/s/r28nw2ned9aa3l0/Copland_%20Nature%20the%20gentlest%20mother.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
+{"name": "Twelve Poems of Emily Dickinson - 5. Heart, we will forget him (Copland)", "shortcut": "coplandheartwe",
 "link": "https://dl.dropbox.com/s/ibur0478b01whh0/heartwe.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
