@@ -2802,6 +2802,10 @@
 "link": "https://dl.dropbox.com/s/arijuyc2nlsabj5/ochjaky.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":1},
       
+{"name": "The Chariot (Copland)", "shortcut": "chariot",
+"link": "https://dl.dropbox.com/s/d8i1gyutwcim1uo/Copland_%20The%20Chariot.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
 {"name": "The Entertainer (Joplin)", "shortcut": "enter",
 "link": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/Entertainer.xml",
 "category":"3","lyrics": "","tracer":"","pedal":0.1},
@@ -2977,6 +2981,10 @@
 {"name": "Twelve Poems of Emily Dickinson - 11. Going to Heaven (Copland)", "shortcut": "goingtoheaven",
 "link": "https://dl.dropbox.com/s/34gr9twlimtg399/Copland_%20Going%20to%20Heaven.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0},
+      
+{"name": "Twelve Poems of Emily Dickinson - 12. The Chariot (Copland)", "shortcut": "chariot",
+"link": "https://dl.dropbox.com/s/d8i1gyutwcim1uo/Copland_%20The%20Chariot.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "", "shortcut": "twinkle",
 "link": "https://dl.dropbox.com/s/7un3aax8uk53qet/twinkle.musicxml",
