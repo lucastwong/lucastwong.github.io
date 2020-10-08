@@ -2970,6 +2970,10 @@
 "link": "https://dl.dropbox.com/s/ibur0478b01whh0/heartwe.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
       
+{"name": "Twelve Poems of Emily Dickinson - 8. When they come back (Copland)", "shortcut": "whentheycomeback",
+"link": "https://dl.dropbox.com/s/4uje0slcg0na33z/Copland_When%20they%20come%20back.xml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
 {"name": "Twelve Poems of Emily Dickinson - 11. Going to Heaven (Copland)", "shortcut": "goingtoheaven",
 "link": "https://dl.dropbox.com/s/34gr9twlimtg399/Copland_%20Going%20to%20Heaven.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0},
@@ -3225,6 +3229,10 @@
 {"name": "When the air sings of summer (Menotti)", "shortcut": "whentheair",
 "link": "https://dl.dropbox.com/s/phzvzgcgndfeso7/whentheair.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "When they come back (Copland)", "shortcut": "whentheycomeback",
+"link": "https://dl.dropbox.com/s/4uje0slcg0na33z/Copland_When%20they%20come%20back.xml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
 
 {"name": "Why do they shut Me out of Heaven? (Copland)", "shortcut": "heaven",
 "link": "https://dl.dropbox.com/s/j5umqo0adpfo6b2/Copland_%20Why%20do%20they%20shut%20me%20out.musicxml",
