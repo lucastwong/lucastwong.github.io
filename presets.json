@@ -430,26 +430,6 @@
 "link": "https://dl.dropbox.com/s/xws4yth8n5dyomo/ceslettres.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.3},
       
-{"name": "Chanson triste (Duparc)","shortcut": "chansontriste",
-"link": "https://dl.dropbox.com/s/17hcz2oyvandqfx/Henri_Duparc_Chanson_triste.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.5},
-      
-{"name": "Ch'ella mi creda (Puccini)","shortcut": "chella",
-"link": "https://dl.dropbox.com/s/23xks9jbb31ryo7/chella.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.5},
-      
-{"name": "Che fiero momento (Gluck)","shortcut": "chefiero",
-"link": "https://dl.dropbox.com/s/dqtx0g7rzndx33l/chefiero2.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
-      
-{"name": "Che gelida manina (Puccini)", "shortcut": "chegelida",
-"link": "https://dl.dropbox.com/s/pefpw90mlhzvp4j/chegelida.musicxml",
-"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/chegelida.json","tracer":"","pedal":0.3},
-
-{"name": "Che pecà! (Hahn)", "shortcut": "chepeca",
-"link": "https://dl.dropbox.com/s/hcyjuyqcoy5p6d6/Hahn%20-%20Venezia%20V%20Che%20Peca.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.1},
-      
 {"name": "Chacun à son goût (Johann Strauss)", "shortcut": "chacunason",
 "link": "https://dl.dropbox.com/s/5s2ymcx4bd0zgj4/ichlade.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1},
@@ -465,6 +445,26 @@
 {"name": "Chanson triste, Op. 40, No. 2 (Tchaikovsky)", "shortcut": "chansontristetchai",
 "link": "https://dl.dropbox.com/s/32erqazxkbz37y7/Chanson%20Triste%20Tchaikovsky.musicxml",
 "category":"2","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/chansontristetchai.json","tracer":"","pedal":0.5},
+      
+{"name": "Chanson triste (Duparc)","shortcut": "chansontriste",
+"link": "https://dl.dropbox.com/s/17hcz2oyvandqfx/Henri_Duparc_Chanson_triste.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
+{"name": "Ch'ella mi creda (Puccini)","shortcut": "chella",
+"link": "https://dl.dropbox.com/s/23xks9jbb31ryo7/chella.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.5},
+      
+{"name": "Che fiero momento (Gluck)","shortcut": "chefiero",
+"link": "https://dl.dropbox.com/s/dqtx0g7rzndx33l/chefiero2.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
+      
+{"name": "Che gelida manina (Puccini)", "shortcut": "chegelida",
+"link": "https://dl.dropbox.com/s/pefpw90mlhzvp4j/chegelida.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.3},
+
+{"name": "Che pecà! (Hahn)", "shortcut": "chepeca",
+"link": "https://dl.dropbox.com/s/hcyjuyqcoy5p6d6/Hahn%20-%20Venezia%20V%20Che%20Peca.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1},
       
 {"name": "Che farò senza Euridice (Gluck)", "shortcut": "chefaro",
 "link": "https://dl.dropbox.com/s/e5qjpyvcbls4v7v/Che%20faro.musicxml",
