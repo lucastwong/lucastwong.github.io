@@ -193,6 +193,10 @@
 "link": "https://dl.dropbox.com/s/jhlt48z9r0rlh9g/alma.musicxml",
 "category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/almadelcore.json","tracer":"","pedal":0.1}, 
       
+{"name": "Almen se non poss'io (Bellini)", "shortcut": "almensenon",
+"link": "https://dl.dropbox.com/s/ey63tesw14ijo91/Almen_se_non_possio_-_V._Bellini.musicxml",
+"category":"1","lyrics": "","tracer":"","pedal":0.1}, 
+      
 {"name": "Als Luise die Briefe (Mozart)", "shortcut": "alsluis",
 "link": "https://dl.dropbox.com/s/11zb3kefyoh10ej/Als%20luis.musicxml",
 "category":"1","lyrics": "","tracer":"","pedal":0.1}, 
