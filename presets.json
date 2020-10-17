@@ -1020,19 +1020,19 @@
 
 {"name": "Four Dickinson Songs - Will There Really Be a Morning? (Lori Laitman, use by permission)", "shortcut": "lori1",
 "link": "https://dl.dropbox.com/s/hbemdwc2ybe74t9/lori1.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lori1.json","tracer":"","pedal":1},
       
 {"name": "Four Dickinson Songs - I'm Nobody (Lori Laitman, use by permission)", "shortcut": "lori2",
 "link": "https://dl.dropbox.com/s/zi0p9r4x7tf4j0s/lori2.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.05},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lori2.json","tracer":"","pedal":0.05},
       
 {"name": "Four Dickinson Songs - She Died (Lori Laitman, use by permission)", "shortcut": "lori3",
 "link": "https://dl.dropbox.com/s/k2383z7oaj4148u/lori3.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lori3.json","tracer":"","pedal":1},
       
 {"name": "Four Dickinson Songs - If I... (Lori Laitman, use by permission)", "shortcut": "lori4",
 "link": "https://dl.dropbox.com/s/lueimaniejqf4le/lori4.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lori4.json","tracer":"","pedal":1},
       
 {"name": "Fra poco a me (Donizetti)", "shortcut": "frapoco",
 "link": "https://dl.dropbox.com/s/4hxxnaz3r77lvzh/frapoco.musicxml",
@@ -1344,7 +1344,7 @@
       
 {"name": "I'm Nobody (Lori Laitman, use by permission)", "shortcut": "lori2",
 "link": "https://dl.dropbox.com/s/zi0p9r4x7tf4j0s/lori2.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":0.05},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lori2.json","tracer":"","pedal":0.05},
       
 {"name": "Ice Cube Aria (Jake Heggie, use by permission)", "shortcut": "icecube",
 "link": "https://dl.dropbox.com/s/f6dwr9brfkrdx1x/Heggie%20-%20Ice%20Cube%20Ari.musicxml",
@@ -1364,7 +1364,7 @@
       
 {"name": "If I... (Lori Laitman, use by permission)", "shortcut": "lori4",
 "link": "https://dl.dropbox.com/s/lueimaniejqf4le/lori4.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lori4.json","tracer":"","pedal":1},
       
 {"name": "If I Were You: I Don't Have to Do a Thing - Ice Cube Aria (Jake Heggie, use by permission)", "shortcut": "icecube",
 "link": "https://dl.dropbox.com/s/f6dwr9brfkrdx1x/Heggie%20-%20Ice%20Cube%20Ari.musicxml",
@@ -2600,7 +2600,7 @@
       
 {"name": "She Died (Lori Laitman, use by permission)", "shortcut": "lori3",
 "link": "https://dl.dropbox.com/s/k2383z7oaj4148u/lori3.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lori3.json","tracer":"","pedal":1},
       
 {"name": "Si, corre dal notaio (Puccini)", "shortcut": "notaio",
 "link": "https://dl.dropbox.com/s/0pivoeo5cym3npi/notaio.musicxml",
@@ -3308,7 +3308,7 @@
       
 {"name": "Will There Really Be a Morning? (Lori Laitman, use by permission)", "shortcut": "lori1",
 "link": "https://dl.dropbox.com/s/hbemdwc2ybe74t9/lori1.musicxml",
-"category":"1","lyrics": "","tracer":"","pedal":1},
+"category":"1","lyrics": "https://raw.githubusercontent.com/lucastwong/lucastwong.github.io/master/lori1.json","tracer":"","pedal":1},
       
 {"name": "Willow Song (Douglas Moore)", "shortcut": "willow",
 "link": "https://dl.dropbox.com/s/h2ac3t8mvkask9h/willow.musicxml",
